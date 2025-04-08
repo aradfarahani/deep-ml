@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T14:11:21.669Z",
+  "generated_at": "2026-10-01T14:11:29.372Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1573,6 +1573,32 @@
       "last_pushed_at": "2025-04-07T15:11:44.476Z",
       "language": "python",
       "lines": 10
+    },
+    "problem:110": {
+      "kind": "problem",
+      "id": "110",
+      "title": "Evaluate Translation Quality with METEOR Score",
+      "difficulty": "medium",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/110",
+      "path": "problems/0110-evaluate-translation-quality-with-meteor-score",
+      "first_solved_at": "2025-04-08T10:38:28.241Z",
+      "last_pushed_at": "2025-04-08T10:38:28.241Z",
+      "language": "python",
+      "lines": 30
+    },
+    "problem:111": {
+      "kind": "problem",
+      "id": "111",
+      "title": "Compute Pointwise Mutual Information",
+      "difficulty": "medium",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/111",
+      "path": "problems/0111-compute-pointwise-mutual-information",
+      "first_solved_at": "2025-04-08T10:42:30.626Z",
+      "last_pushed_at": "2025-04-08T10:42:30.626Z",
+      "language": "python",
+      "lines": 28
     }
   }
 }
