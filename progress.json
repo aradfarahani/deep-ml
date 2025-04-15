@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T14:35:08.337Z",
+  "generated_at": "2026-10-01T14:36:22.902Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1859,6 +1859,32 @@
       "last_pushed_at": "2026-10-01T14:35:10.207Z",
       "language": "python",
       "lines": 22
+    },
+    "problem:121": {
+      "kind": "problem",
+      "id": "121",
+      "title": "Vector Element-wise Sum",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/121",
+      "path": "problems/0121-vector-element-wise-sum",
+      "first_solved_at": "2025-04-15T12:59:33.691Z",
+      "last_pushed_at": "2025-04-15T12:59:33.691Z",
+      "language": "python",
+      "lines": 4
+    },
+    "problem:122": {
+      "kind": "problem",
+      "id": "122",
+      "title": "Policy Gradient with REINFORCE",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/122",
+      "path": "problems/0122-policy-gradient-with-reinforce",
+      "first_solved_at": "2025-04-15T13:00:36.248Z",
+      "last_pushed_at": "2025-04-15T13:00:36.248Z",
+      "language": "python",
+      "lines": 19
     }
   }
 }
