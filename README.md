@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**145** solved · 145 problems · 0 labs · 0 math
+**148** solved · 148 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -17,6 +17,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Binary Classification with Logistic Regression](https://www.deep-ml.com/problems/104) | easy | 2025-04-07 | [solution](problems/0104-binary-classification-with-logistic-regression) |
 | [Calculate 2x2 Matrix Inverse](https://www.deep-ml.com/problems/8) | easy | 2025-04-06 | [solution](problems/0008-calculate-2x2-matrix-inverse) |
 | [Calculate Accuracy Score](https://www.deep-ml.com/problems/36) | easy | 2025-04-07 | [solution](problems/0036-calculate-accuracy-score) |
+| [Calculate Computational Efficiency of MoE](https://www.deep-ml.com/problems/123) | easy | 2025-04-22 | [solution](problems/0123-calculate-computational-efficiency-of-moe) |
 | [Calculate Cosine Similarity Between Vectors](https://www.deep-ml.com/problems/76) | easy | 2025-04-07 | [solution](problems/0076-calculate-cosine-similarity-between-vectors) |
 | [Calculate Covariance Matrix](https://www.deep-ml.com/problems/10) | easy | 2025-04-07 | [solution](problems/0010-calculate-covariance-matrix) |
 | [Calculate Dice Score for Classification](https://www.deep-ml.com/problems/73) | easy | 2025-04-07 | [solution](problems/0073-calculate-dice-score-for-classification) |
@@ -117,6 +118,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Self-Attention Mechanism](https://www.deep-ml.com/problems/53) | medium | 2025-04-07 | [solution](problems/0053-implement-self-attention-mechanism) |
 | [Implement TF-IDF (Term Frequency-Inverse Document Frequency)](https://www.deep-ml.com/problems/60) | medium | 2025-04-07 | [solution](problems/0060-implement-tf-idf-term-frequency-inverse-document-frequency) |
 | [Implement the Huber Loss Function](https://www.deep-ml.com/problems/192) | medium | 2026-10-01 | [solution](problems/0192-implement-the-huber-loss-function) |
+| [Implement the Noisy Top-K Gating Function](https://www.deep-ml.com/problems/124) | medium | 2025-04-22 | [solution](problems/0124-implement-the-noisy-top-k-gating-function) |
 | [Implementing a Simple RNN](https://www.deep-ml.com/problems/54) | medium | 2025-04-07 | [solution](problems/0054-implementing-a-simple-rnn) |
 | [Implementing Basic Autograd Operations](https://www.deep-ml.com/problems/26) | medium | 2025-04-06 | [solution](problems/0026-implementing-basic-autograd-operations) |
 | [Instance Normalization (IN) Implementation](https://www.deep-ml.com/problems/143) | medium | 2026-10-01 | [solution](problems/0143-instance-normalization-in-implementation) |
@@ -143,6 +145,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Gaussian Process for Regression](https://www.deep-ml.com/problems/186) | hard | 2026-10-01 | [solution](problems/0186-gaussian-process-for-regression) |
 | [GPT-2 Text Generation](https://www.deep-ml.com/problems/88) | hard | 2025-04-06 | [solution](problems/0088-gpt-2-text-generation) |
 | [Implement a Simple RNN with Backpropagation Through Time (BPTT)](https://www.deep-ml.com/problems/62) | hard | 2025-04-06 | [solution](problems/0062-implement-a-simple-rnn-with-backpropagation-through-time-bptt) |
+| [Implement a Sparse Mixture of Experts Layer](https://www.deep-ml.com/problems/125) | hard | 2025-04-22 | [solution](problems/0125-implement-a-sparse-mixture-of-experts-layer) |
 | [Implement AdaBoost Fit Method](https://www.deep-ml.com/problems/38) | hard | 2025-04-06 | [solution](problems/0038-implement-adaboost-fit-method) |
 | [Implement Multi-Head Attention](https://www.deep-ml.com/problems/94) | hard | 2025-04-06 | [solution](problems/0094-implement-multi-head-attention) |
 | [Implement the Conjugate Gradient Method for Solving Linear Systems](https://www.deep-ml.com/problems/63) | hard | 2025-04-06 | [solution](problems/0063-implement-the-conjugate-gradient-method-for-solving-linear-systems) |

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T14:36:22.902Z",
+  "generated_at": "2026-10-01T14:36:25.899Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1885,6 +1885,45 @@
       "last_pushed_at": "2025-04-15T13:00:36.248Z",
       "language": "python",
       "lines": 19
+    },
+    "problem:125": {
+      "kind": "problem",
+      "id": "125",
+      "title": "Implement a Sparse Mixture of Experts Layer",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/125",
+      "path": "problems/0125-implement-a-sparse-mixture-of-experts-layer",
+      "first_solved_at": "2025-04-22T10:06:28.172Z",
+      "last_pushed_at": "2025-04-22T10:06:28.172Z",
+      "language": "python",
+      "lines": 32
+    },
+    "problem:124": {
+      "kind": "problem",
+      "id": "124",
+      "title": "Implement the Noisy Top-K Gating Function",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/124",
+      "path": "problems/0124-implement-the-noisy-top-k-gating-function",
+      "first_solved_at": "2025-04-22T10:08:20.930Z",
+      "last_pushed_at": "2025-04-22T10:08:20.930Z",
+      "language": "python",
+      "lines": 23
+    },
+    "problem:123": {
+      "kind": "problem",
+      "id": "123",
+      "title": "Calculate Computational Efficiency of MoE",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/123",
+      "path": "problems/0123-calculate-computational-efficiency-of-moe",
+      "first_solved_at": "2025-04-22T10:10:28.861Z",
+      "last_pushed_at": "2025-04-22T10:10:28.861Z",
+      "language": "python",
+      "lines": 5
     }
   }
 }
