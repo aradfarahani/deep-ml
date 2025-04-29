@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**149** solved · 149 problems · 0 labs · 0 math
+**150** solved · 150 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -95,6 +95,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Create Composite Hypervector for a Dataset Row](https://www.deep-ml.com/problems/74) | medium | 2025-04-07 | [solution](problems/0074-create-composite-hypervector-for-a-dataset-row) |
 | [Divide Dataset Based on Feature Threshold](https://www.deep-ml.com/problems/31) | medium | 2025-04-06 | [solution](problems/0031-divide-dataset-based-on-feature-threshold) |
 | [Evaluate Translation Quality with METEOR Score](https://www.deep-ml.com/problems/110) | medium | 2025-04-08 | [solution](problems/0110-evaluate-translation-quality-with-meteor-score) |
+| [Find Captain Redbeard's Hidden Treasure](https://www.deep-ml.com/problems/127) | medium | 2025-04-29 | [solution](problems/0127-find-captain-redbeard-s-hidden-treasure) |
 | [Find the column space of a matrix](https://www.deep-ml.com/problems/68) | medium | 2025-04-07 | [solution](problems/0068-find-the-column-space-of-a-matrix) |
 | [Gauss-Seidel Method for Solving Linear Systems](https://www.deep-ml.com/problems/57) | medium | 2025-04-07 | [solution](problems/0057-gauss-seidel-method-for-solving-linear-systems) |
 | [Gaussian Elimination for Solving Linear Systems](https://www.deep-ml.com/problems/58) | medium | 2025-04-07 | [solution](problems/0058-gaussian-elimination-for-solving-linear-systems) |
