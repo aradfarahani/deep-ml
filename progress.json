@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T14:36:32.828Z",
+  "generated_at": "2026-10-01T14:36:35.519Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1963,6 +1963,71 @@
       "last_pushed_at": "2025-05-07T19:32:02.247Z",
       "language": "python",
       "lines": 8
+    },
+    "problem:129": {
+      "kind": "problem",
+      "id": "129",
+      "title": "Calculate Unigram Probability from Corpus",
+      "difficulty": "easy",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/129",
+      "path": "problems/0129-calculate-unigram-probability-from-corpus",
+      "first_solved_at": "2025-05-18T13:28:58.761Z",
+      "last_pushed_at": "2025-05-18T13:28:58.761Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:130": {
+      "kind": "problem",
+      "id": "130",
+      "title": "Implement a Simple CNN Training Function with Backpropagation",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/130",
+      "path": "problems/0130-implement-a-simple-cnn-training-function-with-backpropagation",
+      "first_solved_at": "2025-05-18T13:29:35.600Z",
+      "last_pushed_at": "2025-05-18T13:29:35.600Z",
+      "language": "python",
+      "lines": 24
+    },
+    "problem:131": {
+      "kind": "problem",
+      "id": "131",
+      "title": "Implement Efficient Sparse Window Attention",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/131",
+      "path": "problems/0131-implement-efficient-sparse-window-attention",
+      "first_solved_at": "2025-05-18T13:30:24.035Z",
+      "last_pushed_at": "2025-05-18T13:30:24.035Z",
+      "language": "python",
+      "lines": 23
+    },
+    "problem:132": {
+      "kind": "problem",
+      "id": "132",
+      "title": "Simulate Markov Chain Transitions",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/132",
+      "path": "problems/0132-simulate-markov-chain-transitions",
+      "first_solved_at": "2025-05-18T13:31:15.226Z",
+      "last_pushed_at": "2025-05-18T13:31:15.226Z",
+      "language": "python",
+      "lines": 23
+    },
+    "problem:133": {
+      "kind": "problem",
+      "id": "133",
+      "title": "Implement Q-Learning Algorithm for MDPs",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/133",
+      "path": "problems/0133-implement-q-learning-algorithm-for-mdps",
+      "first_solved_at": "2025-05-18T13:31:53.215Z",
+      "last_pushed_at": "2025-05-18T13:31:53.215Z",
+      "language": "python",
+      "lines": 24
     }
   }
 }
