@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T14:36:35.519Z",
+  "generated_at": "2026-10-01T14:36:37.937Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -2028,6 +2028,32 @@
       "last_pushed_at": "2025-05-18T13:31:53.215Z",
       "language": "python",
       "lines": 24
+    },
+    "problem:134": {
+      "kind": "problem",
+      "id": "134",
+      "title": "Compute Multi-class Cross-Entropy Loss",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/134",
+      "path": "problems/0134-compute-multi-class-cross-entropy-loss",
+      "first_solved_at": "2025-05-25T08:48:43.779Z",
+      "last_pushed_at": "2025-05-25T08:48:43.779Z",
+      "language": "python",
+      "lines": 10
+    },
+    "problem:135": {
+      "kind": "problem",
+      "id": "135",
+      "title": "Implement Early Stopping Based on Validation Loss",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/135",
+      "path": "problems/0135-implement-early-stopping-based-on-validation-loss",
+      "first_solved_at": "2025-05-25T08:49:08.828Z",
+      "last_pushed_at": "2025-05-25T08:49:08.828Z",
+      "language": "python",
+      "lines": 19
     }
   }
 }
