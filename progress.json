@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T14:36:40.366Z",
+  "generated_at": "2026-10-01T14:36:43.422Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -2080,6 +2080,136 @@
       "last_pushed_at": "2025-05-29T11:16:49.560Z",
       "language": "python",
       "lines": 25
+    },
+    "problem:138": {
+      "kind": "problem",
+      "id": "138",
+      "title": "Find the Best Gini-Based Split for a Binary Decision Tree",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/138",
+      "path": "problems/0138-find-the-best-gini-based-split-for-a-binary-decision-tree",
+      "first_solved_at": "2025-06-26T17:19:15.836Z",
+      "last_pushed_at": "2025-06-26T17:19:15.836Z",
+      "language": "python",
+      "lines": 24
+    },
+    "problem:139": {
+      "kind": "problem",
+      "id": "139",
+      "title": "Elastic Net Regression via Gradient Descent",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/139",
+      "path": "problems/0139-elastic-net-regression-via-gradient-descent",
+      "first_solved_at": "2025-06-26T21:00:57.144Z",
+      "last_pushed_at": "2025-06-26T21:00:57.144Z",
+      "language": "python",
+      "lines": 26
+    },
+    "problem:140": {
+      "kind": "problem",
+      "id": "140",
+      "title": "Bernoulli Naive Bayes Classifier",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/140",
+      "path": "problems/0140-bernoulli-naive-bayes-classifier",
+      "first_solved_at": "2025-06-26T21:01:39.519Z",
+      "last_pushed_at": "2025-06-26T21:01:39.519Z",
+      "language": "python",
+      "lines": 26
+    },
+    "problem:141": {
+      "kind": "problem",
+      "id": "141",
+      "title": "Shift and Scale Array to Target Range",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/141",
+      "path": "problems/0141-shift-and-scale-array-to-target-range",
+      "first_solved_at": "2025-06-26T21:02:07.057Z",
+      "last_pushed_at": "2025-06-26T21:02:07.057Z",
+      "language": "python",
+      "lines": 22
+    },
+    "problem:142": {
+      "kind": "problem",
+      "id": "142",
+      "title": "Gridworld Policy Evaluation",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/142",
+      "path": "problems/0142-gridworld-policy-evaluation",
+      "first_solved_at": "2025-06-26T21:02:59.319Z",
+      "last_pushed_at": "2025-06-26T21:02:59.319Z",
+      "language": "python",
+      "lines": 22
+    },
+    "problem:144": {
+      "kind": "problem",
+      "id": "144",
+      "title": "Apriori Frequent Itemset Mining",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/144",
+      "path": "problems/0144-apriori-frequent-itemset-mining",
+      "first_solved_at": "2025-06-26T21:06:59.354Z",
+      "last_pushed_at": "2025-06-26T21:06:59.354Z",
+      "language": "python",
+      "lines": 24
+    },
+    "problem:145": {
+      "kind": "problem",
+      "id": "145",
+      "title": "Adagrad Optimizer",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/145",
+      "path": "problems/0145-adagrad-optimizer",
+      "first_solved_at": "2025-06-26T21:12:55.940Z",
+      "last_pushed_at": "2025-06-26T21:12:55.940Z",
+      "language": "python",
+      "lines": 27
+    },
+    "problem:146": {
+      "kind": "problem",
+      "id": "146",
+      "title": "Momentum Optimizer",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/146",
+      "path": "problems/0146-momentum-optimizer",
+      "first_solved_at": "2025-06-26T21:14:20.965Z",
+      "last_pushed_at": "2025-06-26T21:14:20.965Z",
+      "language": "python",
+      "lines": 25
+    },
+    "problem:147": {
+      "kind": "problem",
+      "id": "147",
+      "title": "GeLU Activation Function ",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/147",
+      "path": "problems/0147-gelu-activation-function",
+      "first_solved_at": "2025-06-26T21:15:30.145Z",
+      "last_pushed_at": "2025-06-26T21:15:30.145Z",
+      "language": "python",
+      "lines": 4
+    },
+    "problem:148": {
+      "kind": "problem",
+      "id": "148",
+      "title": "Adamax Optimizer",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/148",
+      "path": "problems/0148-adamax-optimizer",
+      "first_solved_at": "2025-06-26T21:16:03.051Z",
+      "last_pushed_at": "2025-06-26T21:16:03.051Z",
+      "language": "python",
+      "lines": 23
     }
   }
 }
