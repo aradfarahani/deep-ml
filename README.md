@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**191** solved · 191 problems · 0 labs · 0 math
+**203** solved · 203 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -29,6 +29,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Jaccard Index for Binary Classification](https://www.deep-ml.com/problems/72) | easy | 2025-04-07 | [solution](problems/0072-calculate-jaccard-index-for-binary-classification) |
 | [Calculate Mean Absolute Error (MAE)](https://www.deep-ml.com/problems/93) | easy | 2025-04-07 | [solution](problems/0093-calculate-mean-absolute-error-mae) |
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2025-04-06 | [solution](problems/0004-calculate-mean-by-row-or-column) |
+| [Calculate Portfolio Variance](https://www.deep-ml.com/problems/183) | easy | 2025-09-14 | [solution](problems/0183-calculate-portfolio-variance) |
 | [Calculate R-squared for Regression Analysis](https://www.deep-ml.com/problems/69) | easy | 2025-04-07 | [solution](problems/0069-calculate-r-squared-for-regression-analysis) |
 | [Calculate Root Mean Square Error (RMSE)](https://www.deep-ml.com/problems/71) | easy | 2025-04-07 | [solution](problems/0071-calculate-root-mean-square-error-rmse) |
 | [Calculate the Discounted Return for a Given Trajectory](https://www.deep-ml.com/problems/167) | easy | 2025-07-21 | [solution](problems/0167-calculate-the-discounted-return-for-a-given-trajectory) |
@@ -45,6 +46,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Dynamic Tanh: Normalization-Free Transformer Activation](https://www.deep-ml.com/problems/128) | easy | 2025-05-07 | [solution](problems/0128-dynamic-tanh-normalization-free-transformer-activation) |
 | [Early Stopping Based on Validation Loss Plateau](https://www.deep-ml.com/problems/199) | easy | 2026-10-01 | [solution](problems/0199-early-stopping-based-on-validation-loss-plateau) |
 | [Empirical Probability Mass Function (PMF)](https://www.deep-ml.com/problems/184) | easy | 2026-10-01 | [solution](problems/0184-empirical-probability-mass-function-pmf) |
+| [Expected Value and Variance of an n-Sided Die](https://www.deep-ml.com/problems/179) | easy | 2025-09-14 | [solution](problems/0179-expected-value-and-variance-of-an-n-sided-die) |
 | [Exponential Weighted Average of Rewards](https://www.deep-ml.com/problems/161) | easy | 2025-07-21 | [solution](problems/0161-exponential-weighted-average-of-rewards) |
 | [ExponentialLR Learning Rate Scheduler](https://www.deep-ml.com/problems/154) | easy | 2025-07-21 | [solution](problems/0154-exponentiallr-learning-rate-scheduler) |
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2025-04-07 | [solution](problems/0016-feature-scaling-implementation) |
@@ -73,6 +75,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement the Swish Activation Function](https://www.deep-ml.com/problems/102) | easy | 2025-04-07 | [solution](problems/0102-implement-the-swish-activation-function) |
 | [Implement Weight Decay as L2 Regularization](https://www.deep-ml.com/problems/198) | easy | 2026-10-01 | [solution](problems/0198-implement-weight-decay-as-l2-regularization) |
 | [Implementation of Log Softmax Function](https://www.deep-ml.com/problems/39) | easy | 2025-04-07 | [solution](problems/0039-implementation-of-log-softmax-function) |
+| [Incremental Mean for Online Reward Estimation](https://www.deep-ml.com/problems/159) | easy | 2025-09-14 | [solution](problems/0159-incremental-mean-for-online-reward-estimation) |
 | [KL Divergence Between Two Normal Distributions](https://www.deep-ml.com/problems/56) | easy | 2025-04-07 | [solution](problems/0056-kl-divergence-between-two-normal-distributions) |
 | [Leaky ReLU Activation Function](https://www.deep-ml.com/problems/44) | easy | 2025-04-07 | [solution](problems/0044-leaky-relu-activation-function) |
 | [Linear Kernel Function](https://www.deep-ml.com/problems/45) | easy | 2025-04-07 | [solution](problems/0045-linear-kernel-function) |
@@ -89,6 +92,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Poisson Distribution Probability Calculator](https://www.deep-ml.com/problems/81) | easy | 2025-04-07 | [solution](problems/0081-poisson-distribution-probability-calculator) |
 | [Random Shuffle of Dataset](https://www.deep-ml.com/problems/29) | easy | 2025-04-07 | [solution](problems/0029-random-shuffle-of-dataset) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2025-04-06 | [solution](problems/0003-reshape-matrix) |
+| [Sampling Distribution of the Mean](https://www.deep-ml.com/problems/181) | easy | 2025-09-14 | [solution](problems/0181-sampling-distribution-of-the-mean) |
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2025-04-07 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
 | [Shift and Scale Array to Target Range](https://www.deep-ml.com/problems/141) | easy | 2025-06-26 | [solution](problems/0141-shift-and-scale-array-to-target-range) |
 | [Sigmoid Activation Function Understanding](https://www.deep-ml.com/problems/22) | easy | 2025-04-07 | [solution](problems/0022-sigmoid-activation-function-understanding) |
@@ -111,9 +115,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2025-04-06 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Calculate KL Divergence Between Two Multivariate Gaussian Distributions](https://www.deep-ml.com/problems/136) | medium | 2025-05-29 | [solution](problems/0136-calculate-kl-divergence-between-two-multivariate-gaussian-distributions) |
 | [Calculate Performance Metrics for a Classification Model](https://www.deep-ml.com/problems/77) | medium | 2025-04-07 | [solution](problems/0077-calculate-performance-metrics-for-a-classification-model) |
+| [Central Limit Theorem Simulation](https://www.deep-ml.com/problems/182) | medium | 2025-09-14 | [solution](problems/0182-central-limit-theorem-simulation) |
+| [Chi-square Probability Distribution](https://www.deep-ml.com/problems/176) | medium | 2025-09-14 | [solution](problems/0176-chi-square-probability-distribution) |
 | [Compute Confusion Matrix with Normalization](https://www.deep-ml.com/problems/193) | medium | 2026-10-01 | [solution](problems/0193-compute-confusion-matrix-with-normalization) |
 | [Compute Orthonormal Basis for 2D Vectors](https://www.deep-ml.com/problems/117) | medium | 2025-04-07 | [solution](problems/0117-compute-orthonormal-basis-for-2d-vectors) |
 | [Compute Pointwise Mutual Information](https://www.deep-ml.com/problems/111) | medium | 2025-04-08 | [solution](problems/0111-compute-pointwise-mutual-information) |
+| [Conditional Probability from Joint Distribution](https://www.deep-ml.com/problems/180) | medium | 2025-09-14 | [solution](problems/0180-conditional-probability-from-joint-distribution) |
 | [CosineAnnealingLR Learning Rate Scheduler](https://www.deep-ml.com/problems/155) | medium | 2025-07-21 | [solution](problems/0155-cosineannealinglr-learning-rate-scheduler) |
 | [Create Composite Hypervector for a Dataset Row](https://www.deep-ml.com/problems/74) | medium | 2025-04-07 | [solution](problems/0074-create-composite-hypervector-for-a-dataset-row) |
 | [Divide Dataset Based on Feature Threshold](https://www.deep-ml.com/problems/31) | medium | 2025-04-06 | [solution](problems/0031-divide-dataset-based-on-feature-threshold) |
@@ -145,6 +152,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Local Response Normalization (LRN)](https://www.deep-ml.com/problems/189) | medium | 2026-10-01 | [solution](problems/0189-implement-local-response-normalization-lrn) |
 | [Implement Long Short-Term Memory (LSTM) Network](https://www.deep-ml.com/problems/59) | medium | 2025-04-07 | [solution](problems/0059-implement-long-short-term-memory-lstm-network) |
 | [Implement Masked Self-Attention](https://www.deep-ml.com/problems/107) | medium | 2025-04-07 | [solution](problems/0107-implement-masked-self-attention) |
+| [Implement MuonClip (qk-clip) for Stabilizing Attention](https://www.deep-ml.com/problems/177) | medium | 2025-09-14 | [solution](problems/0177-implement-muonclip-qk-clip-for-stabilizing-attention) |
 | [Implement Position-wise Feed-Forward Block with Residual and Dropout](https://www.deep-ml.com/problems/178) | medium | 2026-10-01 | [solution](problems/0178-implement-position-wise-feed-forward-block-with-residual-and-dropout) |
 | [Implement PReLU Forward and Backward Pass](https://www.deep-ml.com/problems/98) | medium | 2025-04-07 | [solution](problems/0098-implement-prelu-forward-and-backward-pass) |
 | [Implement Q-Learning Algorithm for MDPs](https://www.deep-ml.com/problems/133) | medium | 2025-05-18 | [solution](problems/0133-implement-q-learning-algorithm-for-mdps) |
@@ -155,6 +163,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement the Bellman Equation for Value Iteration](https://www.deep-ml.com/problems/157) | medium | 2025-07-21 | [solution](problems/0157-implement-the-bellman-equation-for-value-iteration) |
 | [Implement the Huber Loss Function](https://www.deep-ml.com/problems/192) | medium | 2026-10-01 | [solution](problems/0192-implement-the-huber-loss-function) |
 | [Implement the Noisy Top-K Gating Function](https://www.deep-ml.com/problems/124) | medium | 2025-04-22 | [solution](problems/0124-implement-the-noisy-top-k-gating-function) |
+| [Implement the SARSA Algorithm on policy](https://www.deep-ml.com/problems/175) | medium | 2025-09-14 | [solution](problems/0175-implement-the-sarsa-algorithm-on-policy) |
 | [Implementing a Simple RNN](https://www.deep-ml.com/problems/54) | medium | 2025-04-07 | [solution](problems/0054-implementing-a-simple-rnn) |
 | [Implementing Basic Autograd Operations](https://www.deep-ml.com/problems/26) | medium | 2025-04-06 | [solution](problems/0026-implementing-basic-autograd-operations) |
 | [Implementing ROUGE Score](https://www.deep-ml.com/problems/152) | medium | 2025-07-21 | [solution](problems/0152-implementing-rouge-score) |
@@ -165,8 +174,10 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Linear Regression - Power Grid Optimization](https://www.deep-ml.com/problems/92) | medium | 2025-04-07 | [solution](problems/0092-linear-regression-power-grid-optimization) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2025-04-06 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2025-04-06 | [solution](problems/0007-matrix-transformation) |
+| [Minimax Algorithm for Tic-Tac-Toe](https://www.deep-ml.com/problems/171) | medium | 2025-09-14 | [solution](problems/0171-minimax-algorithm-for-tic-tac-toe) |
 | [Mixed Precision Training](https://www.deep-ml.com/problems/160) | medium | 2025-07-21 | [solution](problems/0160-mixed-precision-training) |
 | [Muon Optimizer Step with Matrix Preconditioning](https://www.deep-ml.com/problems/170) | medium | 2025-07-21 | [solution](problems/0170-muon-optimizer-step-with-matrix-preconditioning) |
+| [Muon Optimizer Update with Newton-Schulz Iteration](https://www.deep-ml.com/problems/172) | medium | 2025-09-14 | [solution](problems/0172-muon-optimizer-update-with-newton-schulz-iteration) |
 | [Mutual Information](https://www.deep-ml.com/problems/204) | medium | 2026-10-01 | [solution](problems/0204-mutual-information) |
 | [Normal Distribution PDF Calculator](https://www.deep-ml.com/problems/80) | medium | 2025-04-07 | [solution](problems/0080-normal-distribution-pdf-calculator) |
 | [Optical Flow EPE with Masks (OmniWorld-style metric)](https://www.deep-ml.com/problems/185) | medium | 2026-10-01 | [solution](problems/0185-optical-flow-epe-with-masks-omniworld-style-metric) |
@@ -201,6 +212,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [QR Decomposition](https://www.deep-ml.com/problems/201) | hard | 2026-10-01 | [solution](problems/0201-qr-decomposition) |
 | [Singular Value Decomposition (SVD) of 2x2 Matrix](https://www.deep-ml.com/problems/12) | hard | 2025-04-06 | [solution](problems/0012-singular-value-decomposition-svd-of-2x2-matrix) |
 | [SVD of a 2x2 Matrix](https://www.deep-ml.com/problems/28) | hard | 2025-04-06 | [solution](problems/0028-svd-of-a-2x2-matrix) |
+| [Train a Simple GAN on 1D Gaussian Data](https://www.deep-ml.com/problems/174) | hard | 2025-09-14 | [solution](problems/0174-train-a-simple-gan-on-1d-gaussian-data) |
 | [Train Logistic Regression with Gradient Descent](https://www.deep-ml.com/problems/106) | hard | 2025-04-06 | [solution](problems/0106-train-logistic-regression-with-gradient-descent) |
 | [Train Softmax Regression with Gradient Descent](https://www.deep-ml.com/problems/105) | hard | 2025-04-06 | [solution](problems/0105-train-softmax-regression-with-gradient-descent) |
 
