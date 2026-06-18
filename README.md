@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**203** solved · 203 problems · 0 labs · 0 math
+**206** solved · 206 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -107,6 +107,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Adadelta Optimizer](https://www.deep-ml.com/problems/149) | medium | 2025-07-21 | [solution](problems/0149-adadelta-optimizer) |
 | [Adam Optimizer](https://www.deep-ml.com/problems/87) | medium | 2025-04-07 | [solution](problems/0087-adam-optimizer) |
 | [Apriori Frequent Itemset Mining](https://www.deep-ml.com/problems/144) | medium | 2025-06-26 | [solution](problems/0144-apriori-frequent-itemset-mining) |
+| [Autoregressive Token Generation with Block-Size Context Cropping](https://www.deep-ml.com/problems/1082) | medium | 2026-06-18 | [solution](problems/1082-autoregressive-token-generation-with-block-size-context-cropping) |
 | [Bernoulli Naive Bayes Classifier](https://www.deep-ml.com/problems/140) | medium | 2025-06-26 | [solution](problems/0140-bernoulli-naive-bayes-classifier) |
 | [Binomial Distribution Probability](https://www.deep-ml.com/problems/79) | medium | 2025-04-07 | [solution](problems/0079-binomial-distribution-probability) |
 | [BM25 Ranking ](https://www.deep-ml.com/problems/90) | medium | 2025-04-06 | [solution](problems/0090-bm25-ranking) |
@@ -146,6 +147,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2025-04-06 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
 | [Implement Group Normalization](https://www.deep-ml.com/problems/126) | medium | 2025-04-28 | [solution](problems/0126-implement-group-normalization) |
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2025-04-06 | [solution](problems/0018-implement-k-fold-cross-validation) |
+| [Implement K-Nearest Neighbors](https://www.deep-ml.com/problems/173) | medium | 2026-06-18 | [solution](problems/0173-implement-k-nearest-neighbors) |
 | [Implement Label Smoothing for Multi-Class Cross-Entropy](https://www.deep-ml.com/problems/194) | medium | 2026-10-01 | [solution](problems/0194-implement-label-smoothing-for-multi-class-cross-entropy) |
 | [Implement Lasso Regression using ISTA](https://www.deep-ml.com/problems/50) | medium | 2025-04-07 | [solution](problems/0050-implement-lasso-regression-using-ista) |
 | [Implement Layer Normalization for Sequence Data](https://www.deep-ml.com/problems/109) | medium | 2025-04-07 | [solution](problems/0109-implement-layer-normalization-for-sequence-data) |
@@ -184,6 +186,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Optimal String Alignment Distance](https://www.deep-ml.com/problems/51) | medium | 2025-04-07 | [solution](problems/0051-optimal-string-alignment-distance) |
 | [Overlapping Max Pooling](https://www.deep-ml.com/problems/190) | medium | 2026-10-01 | [solution](problems/0190-overlapping-max-pooling) |
 | [Principal Component Analysis (PCA) Implementation](https://www.deep-ml.com/problems/19) | medium | 2025-04-06 | [solution](problems/0019-principal-component-analysis-pca-implementation) |
+| [Self-Critique Loss for Constitutional AI](https://www.deep-ml.com/problems/863) | medium | 2026-06-18 | [solution](problems/0863-self-critique-loss-for-constitutional-ai) |
 | [Simple Convolutional 2D Layer](https://www.deep-ml.com/problems/41) | medium | 2025-04-06 | [solution](problems/0041-simple-convolutional-2d-layer) |
 | [Simulate Markov Chain Transitions](https://www.deep-ml.com/problems/132) | medium | 2025-05-18 | [solution](problems/0132-simulate-markov-chain-transitions) |
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2025-04-06 | [solution](problems/0025-single-neuron-with-backpropagation) |

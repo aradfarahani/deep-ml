@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T14:36:49.529Z",
+  "generated_at": "2026-10-01T14:36:53.297Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -2639,6 +2639,45 @@
       "last_pushed_at": "2025-09-14T13:18:05.488Z",
       "language": "python",
       "lines": 7
+    },
+    "problem:863": {
+      "kind": "problem",
+      "id": "863",
+      "title": "Self-Critique Loss for Constitutional AI",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/863",
+      "path": "problems/0863-self-critique-loss-for-constitutional-ai",
+      "first_solved_at": "2026-06-18T10:42:04.814Z",
+      "last_pushed_at": "2026-06-18T10:42:04.814Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:1082": {
+      "kind": "problem",
+      "id": "1082",
+      "title": "Autoregressive Token Generation with Block-Size Context Cropping",
+      "difficulty": "medium",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/1082",
+      "path": "problems/1082-autoregressive-token-generation-with-block-size-context-cropping",
+      "first_solved_at": "2026-06-18T10:45:21.114Z",
+      "last_pushed_at": "2026-06-18T10:45:21.114Z",
+      "language": "python",
+      "lines": 20
+    },
+    "problem:173": {
+      "kind": "problem",
+      "id": "173",
+      "title": "Implement K-Nearest Neighbors",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/173",
+      "path": "problems/0173-implement-k-nearest-neighbors",
+      "first_solved_at": "2026-06-18T10:47:19.692Z",
+      "last_pushed_at": "2026-06-18T10:47:19.692Z",
+      "language": "python",
+      "lines": 33
     }
   }
 }
