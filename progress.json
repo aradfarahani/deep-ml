@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T14:22:33.034Z",
+  "generated_at": "2026-10-01T14:23:10.033Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1714,6 +1714,19 @@
       "path": "problems/0194-implement-label-smoothing-for-multi-class-cross-entropy",
       "first_solved_at": "2026-10-01T14:22:35.069Z",
       "last_pushed_at": "2026-10-01T14:22:35.069Z",
+      "language": "python",
+      "lines": 44
+    },
+    "problem:195": {
+      "kind": "problem",
+      "id": "195",
+      "title": "Matrix Determinant & Trace",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/195",
+      "path": "problems/0195-matrix-determinant-trace",
+      "first_solved_at": "2026-10-01T14:23:12.058Z",
+      "last_pushed_at": "2026-10-01T14:23:12.058Z",
       "language": "python",
       "lines": 44
     }
