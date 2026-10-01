@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T15:04:08.462Z",
+  "generated_at": "2026-10-01T15:04:46.134Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -2691,6 +2691,19 @@
       "last_pushed_at": "2026-10-01T15:04:07.804Z",
       "language": "python",
       "lines": 46
+    },
+    "problem:207": {
+      "kind": "problem",
+      "id": "207",
+      "title": "Monte Carlo Tree Search",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/207",
+      "path": "problems/0207-monte-carlo-tree-search",
+      "first_solved_at": "2026-10-01T15:04:45.567Z",
+      "last_pushed_at": "2026-10-01T15:04:45.567Z",
+      "language": "python",
+      "lines": 74
     }
   }
 }
