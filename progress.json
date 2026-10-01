@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T14:16:19.386Z",
+  "generated_at": "2026-10-01T14:20:30.795Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1664,6 +1664,19 @@
       "last_pushed_at": "2026-10-01T14:16:21.602Z",
       "language": "python",
       "lines": 15
+    },
+    "problem:191": {
+      "kind": "problem",
+      "id": "191",
+      "title": "PCA Color Augmentation",
+      "difficulty": "hard",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/problems/191",
+      "path": "problems/0191-pca-color-augmentation",
+      "first_solved_at": "2026-10-01T14:20:32.991Z",
+      "last_pushed_at": "2026-10-01T14:20:32.991Z",
+      "language": "python",
+      "lines": 33
     }
   }
 }

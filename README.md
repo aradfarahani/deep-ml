@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**128** solved · 128 problems · 0 labs · 0 math
+**129** solved · 129 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -134,6 +134,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement the Conjugate Gradient Method for Solving Linear Systems](https://www.deep-ml.com/problems/63) | hard | 2025-04-06 | [solution](problems/0063-implement-the-conjugate-gradient-method-for-solving-linear-systems) |
 | [Implement the GRPO Objective Function](https://www.deep-ml.com/problems/101) | hard | 2025-04-06 | [solution](problems/0101-implement-the-grpo-objective-function) |
 | [Implementing a Custom Dense Layer in Python](https://www.deep-ml.com/problems/40) | hard | 2025-04-06 | [solution](problems/0040-implementing-a-custom-dense-layer-in-python) |
+| [PCA Color Augmentation](https://www.deep-ml.com/problems/191) | hard | 2026-10-01 | [solution](problems/0191-pca-color-augmentation) |
 | [Pegasos Kernel SVM Implementation](https://www.deep-ml.com/problems/21) | hard | 2025-04-06 | [solution](problems/0021-pegasos-kernel-svm-implementation) |
 | [Positional Encoding Calculator](https://www.deep-ml.com/problems/85) | hard | 2025-04-06 | [solution](problems/0085-positional-encoding-calculator) |
 | [Singular Value Decomposition (SVD) of 2x2 Matrix](https://www.deep-ml.com/problems/12) | hard | 2025-04-06 | [solution](problems/0012-singular-value-decomposition-svd-of-2x2-matrix) |
