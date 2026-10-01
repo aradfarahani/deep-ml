@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T16:09:38.278Z",
+  "generated_at": "2026-10-01T16:10:02.009Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -2730,6 +2730,19 @@
       "last_pushed_at": "2026-10-01T16:09:36.259Z",
       "language": "python",
       "lines": 49
+    },
+    "problem:210": {
+      "kind": "problem",
+      "id": "210",
+      "title": "Dr. GRPO: Complete Objective Function",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/210",
+      "path": "problems/0210-dr-grpo-complete-objective-function",
+      "first_solved_at": "2026-10-01T16:10:01.392Z",
+      "last_pushed_at": "2026-10-01T16:10:01.392Z",
+      "language": "python",
+      "lines": 48
     }
   }
 }
