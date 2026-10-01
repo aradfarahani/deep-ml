@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**211** solved · 211 problems · 0 labs · 0 math
+**212** solved · 212 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -222,6 +222,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Train a Simple GAN on 1D Gaussian Data](https://www.deep-ml.com/problems/174) | hard | 2025-09-14 | [solution](problems/0174-train-a-simple-gan-on-1d-gaussian-data) |
 | [Train Logistic Regression with Gradient Descent](https://www.deep-ml.com/problems/106) | hard | 2025-04-06 | [solution](problems/0106-train-logistic-regression-with-gradient-descent) |
 | [Train Softmax Regression with Gradient Descent](https://www.deep-ml.com/problems/105) | hard | 2025-04-06 | [solution](problems/0105-train-softmax-regression-with-gradient-descent) |
+| [Two-Sample T-Test Implementation](https://www.deep-ml.com/problems/211) | hard | 2026-10-01 | [solution](problems/0211-two-sample-t-test-implementation) |
 | [Variational Inference: ELBO Computation](https://www.deep-ml.com/problems/206) | hard | 2026-10-01 | [solution](problems/0206-variational-inference-elbo-computation) |
 
 ---
