@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T14:20:30.795Z",
+  "generated_at": "2026-10-01T14:21:05.539Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1677,6 +1677,19 @@
       "last_pushed_at": "2026-10-01T14:20:32.991Z",
       "language": "python",
       "lines": 33
+    },
+    "problem:192": {
+      "kind": "problem",
+      "id": "192",
+      "title": "Implement the Huber Loss Function",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/192",
+      "path": "problems/0192-implement-the-huber-loss-function",
+      "first_solved_at": "2026-10-01T14:21:07.707Z",
+      "last_pushed_at": "2026-10-01T14:21:07.707Z",
+      "language": "python",
+      "lines": 12
     }
   }
 }
