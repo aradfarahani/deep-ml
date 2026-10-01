@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**209** solved · 209 problems · 0 labs · 0 math
+**210** solved · 210 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -200,6 +200,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Gambler's Problem: Value Iteration](https://www.deep-ml.com/problems/164) | hard | 2025-07-21 | [solution](problems/0164-gambler-s-problem-value-iteration) |
 | [Gaussian Process for Regression](https://www.deep-ml.com/problems/186) | hard | 2026-10-01 | [solution](problems/0186-gaussian-process-for-regression) |
 | [GPT-2 Text Generation](https://www.deep-ml.com/problems/88) | hard | 2025-04-06 | [solution](problems/0088-gpt-2-text-generation) |
+| [GSPO: Group Sequence Policy Optimization](https://www.deep-ml.com/problems/209) | hard | 2026-10-01 | [solution](problems/0209-gspo-group-sequence-policy-optimization) |
 | [Implement a Dense Block with 2D Convolutions](https://www.deep-ml.com/problems/137) | hard | 2025-05-29 | [solution](problems/0137-implement-a-dense-block-with-2d-convolutions) |
 | [Implement a Simple CNN Training Function with Backpropagation](https://www.deep-ml.com/problems/130) | hard | 2025-05-18 | [solution](problems/0130-implement-a-simple-cnn-training-function-with-backpropagation) |
 | [Implement a Simple RNN with Backpropagation Through Time (BPTT)](https://www.deep-ml.com/problems/62) | hard | 2025-04-06 | [solution](problems/0062-implement-a-simple-rnn-with-backpropagation-through-time-bptt) |

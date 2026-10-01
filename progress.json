@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T16:09:13.457Z",
+  "generated_at": "2026-10-01T16:09:38.278Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -2717,6 +2717,19 @@
       "last_pushed_at": "2026-10-01T16:09:12.669Z",
       "language": "python",
       "lines": 63
+    },
+    "problem:209": {
+      "kind": "problem",
+      "id": "209",
+      "title": "GSPO: Group Sequence Policy Optimization",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/209",
+      "path": "problems/0209-gspo-group-sequence-policy-optimization",
+      "first_solved_at": "2026-10-01T16:09:36.259Z",
+      "last_pushed_at": "2026-10-01T16:09:36.259Z",
+      "language": "python",
+      "lines": 49
     }
   }
 }
