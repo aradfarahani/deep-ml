@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**142** solved · 142 problems · 0 labs · 0 math
+**143** solved · 143 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -129,6 +129,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Normal Distribution PDF Calculator](https://www.deep-ml.com/problems/80) | medium | 2025-04-07 | [solution](problems/0080-normal-distribution-pdf-calculator) |
 | [Optical Flow EPE with Masks (OmniWorld-style metric)](https://www.deep-ml.com/problems/185) | medium | 2026-10-01 | [solution](problems/0185-optical-flow-epe-with-masks-omniworld-style-metric) |
 | [Optimal String Alignment Distance](https://www.deep-ml.com/problems/51) | medium | 2025-04-07 | [solution](problems/0051-optimal-string-alignment-distance) |
+| [Overlapping Max Pooling](https://www.deep-ml.com/problems/190) | medium | 2026-10-01 | [solution](problems/0190-overlapping-max-pooling) |
 | [Principal Component Analysis (PCA) Implementation](https://www.deep-ml.com/problems/19) | medium | 2025-04-06 | [solution](problems/0019-principal-component-analysis-pca-implementation) |
 | [Simple Convolutional 2D Layer](https://www.deep-ml.com/problems/41) | medium | 2025-04-06 | [solution](problems/0041-simple-convolutional-2d-layer) |
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2025-04-06 | [solution](problems/0025-single-neuron-with-backpropagation) |
