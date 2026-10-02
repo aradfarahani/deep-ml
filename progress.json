@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T09:29:00.625Z",
+  "generated_at": "2026-10-02T09:29:28.832Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -3055,6 +3055,19 @@
       "last_pushed_at": "2026-10-02T09:28:59.849Z",
       "language": "python",
       "lines": 53
+    },
+    "problem:236": {
+      "kind": "problem",
+      "id": "236",
+      "title": "Mean Ablation for Circuit Discovery",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/236",
+      "path": "problems/0236-mean-ablation-for-circuit-discovery",
+      "first_solved_at": "2026-10-02T09:29:28.343Z",
+      "last_pushed_at": "2026-10-02T09:29:28.343Z",
+      "language": "python",
+      "lines": 22
     }
   }
 }
