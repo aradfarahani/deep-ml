@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**244** solved · 244 problems · 0 labs · 0 math
+**245** solved · 245 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -160,6 +160,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Gradient Bandit Action Selection](https://www.deep-ml.com/problems/163) | medium | 2025-07-21 | [solution](problems/0163-gradient-bandit-action-selection) |
 | [Gradient Clipping by Global Norm](https://www.deep-ml.com/problems/197) | medium | 2026-10-01 | [solution](problems/0197-gradient-clipping-by-global-norm) |
 | [Gridworld Policy Evaluation](https://www.deep-ml.com/problems/142) | medium | 2025-06-26 | [solution](problems/0142-gridworld-policy-evaluation) |
+| [Hypergeometric Distribution PMF](https://www.deep-ml.com/problems/245) | medium | 2026-10-02 | [solution](problems/0245-hypergeometric-distribution-pmf) |
 | [Implement Adam Optimization Algorithm](https://www.deep-ml.com/problems/49) | medium | 2025-04-07 | [solution](problems/0049-implement-adam-optimization-algorithm) |
 | [Implement AdamW Optimizer Step](https://www.deep-ml.com/problems/169) | medium | 2025-07-21 | [solution](problems/0169-implement-adamw-optimizer-step) |
 | [Implement Batch Normalization for BCHW Input](https://www.deep-ml.com/problems/115) | medium | 2025-04-07 | [solution](problems/0115-implement-batch-normalization-for-bchw-input) |
