@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**214** solved · 214 problems · 0 labs · 0 math
+**215** solved · 215 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -118,6 +118,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate KL Divergence Between Two Multivariate Gaussian Distributions](https://www.deep-ml.com/problems/136) | medium | 2025-05-29 | [solution](problems/0136-calculate-kl-divergence-between-two-multivariate-gaussian-distributions) |
 | [Calculate Performance Metrics for a Classification Model](https://www.deep-ml.com/problems/77) | medium | 2025-04-07 | [solution](problems/0077-calculate-performance-metrics-for-a-classification-model) |
 | [Central Limit Theorem Simulation](https://www.deep-ml.com/problems/182) | medium | 2025-09-14 | [solution](problems/0182-central-limit-theorem-simulation) |
+| [Chain Rule for Composite Functions](https://www.deep-ml.com/problems/214) | medium | 2026-10-02 | [solution](problems/0214-chain-rule-for-composite-functions) |
 | [Chi-square Probability Distribution](https://www.deep-ml.com/problems/176) | medium | 2025-09-14 | [solution](problems/0176-chi-square-probability-distribution) |
 | [Compute Confusion Matrix with Normalization](https://www.deep-ml.com/problems/193) | medium | 2026-10-01 | [solution](problems/0193-compute-confusion-matrix-with-normalization) |
 | [Compute Orthonormal Basis for 2D Vectors](https://www.deep-ml.com/problems/117) | medium | 2025-04-07 | [solution](problems/0117-compute-orthonormal-basis-for-2d-vectors) |
