@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**242** solved · 242 problems · 0 labs · 0 math
+**243** solved · 243 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -132,6 +132,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Chain Rule for Composite Functions](https://www.deep-ml.com/problems/214) | medium | 2026-10-02 | [solution](problems/0214-chain-rule-for-composite-functions) |
 | [Chi-square Probability Distribution](https://www.deep-ml.com/problems/176) | medium | 2025-09-14 | [solution](problems/0176-chi-square-probability-distribution) |
 | [Compute Confusion Matrix with Normalization](https://www.deep-ml.com/problems/193) | medium | 2026-10-01 | [solution](problems/0193-compute-confusion-matrix-with-normalization) |
+| [Compute Covariance from Joint Probability Mass Function](https://www.deep-ml.com/problems/243) | medium | 2026-10-02 | [solution](problems/0243-compute-covariance-from-joint-probability-mass-function) |
 | [Compute Orthonormal Basis for 2D Vectors](https://www.deep-ml.com/problems/117) | medium | 2025-04-07 | [solution](problems/0117-compute-orthonormal-basis-for-2d-vectors) |
 | [Compute Pointwise Mutual Information](https://www.deep-ml.com/problems/111) | medium | 2025-04-08 | [solution](problems/0111-compute-pointwise-mutual-information) |
 | [Compute the Hessian Matrix](https://www.deep-ml.com/problems/218) | medium | 2026-10-02 | [solution](problems/0218-compute-the-hessian-matrix) |
