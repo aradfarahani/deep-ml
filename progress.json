@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T07:30:42.794Z",
+  "generated_at": "2026-10-02T07:31:09.481Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -2938,6 +2938,19 @@
       "last_pushed_at": "2026-10-02T07:30:41.977Z",
       "language": "python",
       "lines": 15
+    },
+    "problem:226": {
+      "kind": "problem",
+      "id": "226",
+      "title": "Pass@k and Majority Voting Evaluation Metrics",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/226",
+      "path": "problems/0226-pass-k-and-majority-voting-evaluation-metrics",
+      "first_solved_at": "2026-10-02T07:31:08.922Z",
+      "last_pushed_at": "2026-10-02T07:31:08.922Z",
+      "language": "python",
+      "lines": 53
     }
   }
 }
