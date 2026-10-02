@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**238** solved · 238 problems · 0 labs · 0 math
+**239** solved · 239 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -14,6 +14,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Adagrad Optimizer](https://www.deep-ml.com/problems/145) | easy | 2025-06-26 | [solution](problems/0145-adagrad-optimizer) |
 | [Adamax Optimizer](https://www.deep-ml.com/problems/148) | easy | 2025-06-26 | [solution](problems/0148-adamax-optimizer) |
+| [Apply Zero Padding to an Image](https://www.deep-ml.com/problems/239) | easy | 2026-10-02 | [solution](problems/0239-apply-zero-padding-to-an-image) |
 | [Batch Iterator for Dataset](https://www.deep-ml.com/problems/30) | easy | 2025-04-07 | [solution](problems/0030-batch-iterator-for-dataset) |
 | [Bhattacharyya Distance Between Two Distributions](https://www.deep-ml.com/problems/120) | easy | 2025-04-07 | [solution](problems/0120-bhattacharyya-distance-between-two-distributions) |
 | [Binary Classification with Logistic Regression](https://www.deep-ml.com/problems/104) | easy | 2025-04-07 | [solution](problems/0104-binary-classification-with-logistic-regression) |

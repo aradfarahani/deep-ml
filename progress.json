@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T09:30:24.729Z",
+  "generated_at": "2026-10-02T09:30:51.185Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -3094,6 +3094,19 @@
       "last_pushed_at": "2026-10-02T09:30:24.032Z",
       "language": "python",
       "lines": 38
+    },
+    "problem:239": {
+      "kind": "problem",
+      "id": "239",
+      "title": "Apply Zero Padding to an Image",
+      "difficulty": "easy",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/problems/239",
+      "path": "problems/0239-apply-zero-padding-to-an-image",
+      "first_solved_at": "2026-10-02T09:30:50.659Z",
+      "last_pushed_at": "2026-10-02T09:30:50.659Z",
+      "language": "python",
+      "lines": 36
     }
   }
 }
