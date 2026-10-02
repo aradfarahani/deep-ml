@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T07:27:45.326Z",
+  "generated_at": "2026-10-02T07:28:16.062Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -2886,6 +2886,19 @@
       "last_pushed_at": "2026-10-02T07:27:44.786Z",
       "language": "python",
       "lines": 80
+    },
+    "problem:222": {
+      "kind": "problem",
+      "id": "222",
+      "title": "LoRA: Low-Rank Adaptation Forward Pass",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/222",
+      "path": "problems/0222-lora-low-rank-adaptation-forward-pass",
+      "first_solved_at": "2026-10-02T07:28:15.510Z",
+      "last_pushed_at": "2026-10-02T07:28:15.510Z",
+      "language": "python",
+      "lines": 33
     }
   }
 }
