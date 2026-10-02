@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**234** solved · 234 problems · 0 labs · 0 math
+**235** solved · 235 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -180,6 +180,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement the Huber Loss Function](https://www.deep-ml.com/problems/192) | medium | 2026-10-01 | [solution](problems/0192-implement-the-huber-loss-function) |
 | [Implement the Noisy Top-K Gating Function](https://www.deep-ml.com/problems/124) | medium | 2025-04-22 | [solution](problems/0124-implement-the-noisy-top-k-gating-function) |
 | [Implement the SARSA Algorithm on policy](https://www.deep-ml.com/problems/175) | medium | 2025-09-14 | [solution](problems/0175-implement-the-sarsa-algorithm-on-policy) |
+| [Implement the SGTM Parameter Update Step](https://www.deep-ml.com/problems/235) | medium | 2026-10-02 | [solution](problems/0235-implement-the-sgtm-parameter-update-step) |
 | [Implementing a Simple RNN](https://www.deep-ml.com/problems/54) | medium | 2025-04-07 | [solution](problems/0054-implementing-a-simple-rnn) |
 | [Implementing Basic Autograd Operations](https://www.deep-ml.com/problems/26) | medium | 2025-04-06 | [solution](problems/0026-implementing-basic-autograd-operations) |
 | [Implementing ROUGE Score](https://www.deep-ml.com/problems/152) | medium | 2025-07-21 | [solution](problems/0152-implementing-rouge-score) |

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T09:27:47.820Z",
+  "generated_at": "2026-10-02T09:29:00.625Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -3040,6 +3040,19 @@
       "path": "problems/0234-block-wise-fp8-quantization",
       "first_solved_at": "2026-10-02T09:27:47.055Z",
       "last_pushed_at": "2026-10-02T09:27:47.055Z",
+      "language": "python",
+      "lines": 53
+    },
+    "problem:235": {
+      "kind": "problem",
+      "id": "235",
+      "title": "Implement the SGTM Parameter Update Step",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/235",
+      "path": "problems/0235-implement-the-sgtm-parameter-update-step",
+      "first_solved_at": "2026-10-02T09:28:59.849Z",
+      "last_pushed_at": "2026-10-02T09:28:59.849Z",
       "language": "python",
       "lines": 53
     }
