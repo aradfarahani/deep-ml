@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**219** solved · 219 problems · 0 labs · 0 math
+**220** solved · 220 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -130,6 +130,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Confidence Interval for Population Mean](https://www.deep-ml.com/problems/212) | medium | 2026-10-01 | [solution](problems/0212-confidence-interval-for-population-mean) |
 | [CosineAnnealingLR Learning Rate Scheduler](https://www.deep-ml.com/problems/155) | medium | 2025-07-21 | [solution](problems/0155-cosineannealinglr-learning-rate-scheduler) |
 | [Create Composite Hypervector for a Dataset Row](https://www.deep-ml.com/problems/74) | medium | 2025-04-07 | [solution](problems/0074-create-composite-hypervector-for-a-dataset-row) |
+| [Derivative of Softmax](https://www.deep-ml.com/problems/219) | medium | 2026-10-02 | [solution](problems/0219-derivative-of-softmax) |
 | [Divide Dataset Based on Feature Threshold](https://www.deep-ml.com/problems/31) | medium | 2025-04-06 | [solution](problems/0031-divide-dataset-based-on-feature-threshold) |
 | [Dr. GRPO: Complete Objective Function](https://www.deep-ml.com/problems/210) | medium | 2026-10-01 | [solution](problems/0210-dr-grpo-complete-objective-function) |
 | [Dropout Layer](https://www.deep-ml.com/problems/151) | medium | 2025-07-21 | [solution](problems/0151-dropout-layer) |
