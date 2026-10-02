@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T07:34:39.470Z",
+  "generated_at": "2026-10-02T07:35:04.100Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -3003,6 +3003,19 @@
       "last_pushed_at": "2026-10-02T07:34:38.963Z",
       "language": "python",
       "lines": 44
+    },
+    "problem:232": {
+      "kind": "problem",
+      "id": "232",
+      "title": "PTX Loss for Catastrophic Forgetting Prevention (RLHF)",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/232",
+      "path": "problems/0232-ptx-loss-for-catastrophic-forgetting-prevention-rlhf",
+      "first_solved_at": "2026-10-02T07:35:03.610Z",
+      "last_pushed_at": "2026-10-02T07:35:03.610Z",
+      "language": "python",
+      "lines": 38
     }
   }
 }
