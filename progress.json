@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T09:27:06.865Z",
+  "generated_at": "2026-10-02T09:27:47.820Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -3029,6 +3029,19 @@
       "last_pushed_at": "2026-10-02T09:27:06.298Z",
       "language": "python",
       "lines": 35
+    },
+    "problem:234": {
+      "kind": "problem",
+      "id": "234",
+      "title": "Block-wise FP8 Quantization",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/234",
+      "path": "problems/0234-block-wise-fp8-quantization",
+      "first_solved_at": "2026-10-02T09:27:47.055Z",
+      "last_pushed_at": "2026-10-02T09:27:47.055Z",
+      "language": "python",
+      "lines": 53
     }
   }
 }
