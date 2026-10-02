@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**228** solved · 228 problems · 0 labs · 0 math
+**229** solved · 229 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -117,6 +117,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Bernoulli Naive Bayes Classifier](https://www.deep-ml.com/problems/140) | medium | 2025-06-26 | [solution](problems/0140-bernoulli-naive-bayes-classifier) |
 | [Binomial Distribution Probability](https://www.deep-ml.com/problems/79) | medium | 2025-04-07 | [solution](problems/0079-binomial-distribution-probability) |
 | [BM25 Ranking ](https://www.deep-ml.com/problems/90) | medium | 2025-04-06 | [solution](problems/0090-bm25-ranking) |
+| [Budget-Constrained RL Loss](https://www.deep-ml.com/problems/228) | medium | 2026-10-02 | [solution](problems/0228-budget-constrained-rl-loss) |
 | [Build a Simple ETL Pipeline (MLOps)](https://www.deep-ml.com/problems/187) | medium | 2026-10-01 | [solution](problems/0187-build-a-simple-etl-pipeline-mlops) |
 | [Calculate Correlation Matrix](https://www.deep-ml.com/problems/37) | medium | 2025-04-06 | [solution](problems/0037-calculate-correlation-matrix) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2025-04-06 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |

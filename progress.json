@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T07:32:13.115Z",
+  "generated_at": "2026-10-02T07:32:59.159Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -2964,6 +2964,19 @@
       "last_pushed_at": "2026-10-02T07:32:12.600Z",
       "language": "python",
       "lines": 31
+    },
+    "problem:228": {
+      "kind": "problem",
+      "id": "228",
+      "title": "Budget-Constrained RL Loss",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/228",
+      "path": "problems/0228-budget-constrained-rl-loss",
+      "first_solved_at": "2026-10-02T07:32:58.677Z",
+      "last_pushed_at": "2026-10-02T07:32:58.677Z",
+      "language": "python",
+      "lines": 37
     }
   }
 }
