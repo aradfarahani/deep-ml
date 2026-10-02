@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**230** solved · 230 problems · 0 labs · 0 math
+**231** solved · 231 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -210,6 +210,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2025-04-06 | [solution](problems/0025-single-neuron-with-backpropagation) |
 | [Solve Linear Equations using Jacobi Method](https://www.deep-ml.com/problems/11) | medium | 2025-04-06 | [solution](problems/0011-solve-linear-equations-using-jacobi-method) |
 | [Solve System of Linear Equations Using Cramer's Rule](https://www.deep-ml.com/problems/119) | medium | 2025-04-07 | [solution](problems/0119-solve-system-of-linear-equations-using-cramer-s-rule) |
+| [Temperature Decay Scheduler](https://www.deep-ml.com/problems/231) | medium | 2026-10-02 | [solution](problems/0231-temperature-decay-scheduler) |
 | [The Pattern Weaver's Code](https://www.deep-ml.com/problems/89) | medium | 2025-04-07 | [solution](problems/0089-the-pattern-weaver-s-code) |
 | [Warmup + Cosine Decay Schedule](https://www.deep-ml.com/problems/196) | medium | 2026-10-01 | [solution](problems/0196-warmup-cosine-decay-schedule) |
 | [3D CNN Forward Pass Implementation](https://www.deep-ml.com/problems/230) | hard | 2026-10-02 | [solution](problems/0230-3d-cnn-forward-pass-implementation) |

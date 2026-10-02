@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T07:34:16.004Z",
+  "generated_at": "2026-10-02T07:34:39.470Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -2990,6 +2990,19 @@
       "last_pushed_at": "2026-10-02T07:34:15.273Z",
       "language": "python",
       "lines": 62
+    },
+    "problem:231": {
+      "kind": "problem",
+      "id": "231",
+      "title": "Temperature Decay Scheduler",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/231",
+      "path": "problems/0231-temperature-decay-scheduler",
+      "first_solved_at": "2026-10-02T07:34:38.963Z",
+      "last_pushed_at": "2026-10-02T07:34:38.963Z",
+      "language": "python",
+      "lines": 44
     }
   }
 }
