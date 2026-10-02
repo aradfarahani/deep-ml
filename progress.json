@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T09:31:47.987Z",
+  "generated_at": "2026-10-02T09:32:19.020Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -3131,6 +3131,19 @@
       "path": "problems/0241-sobel-edge-detection",
       "first_solved_at": "2026-10-02T09:31:47.259Z",
       "last_pushed_at": "2026-10-02T09:31:47.259Z",
+      "language": "python",
+      "lines": 65
+    },
+    "problem:242": {
+      "kind": "problem",
+      "id": "242",
+      "title": "Non-Maximum Suppression for Object Detection",
+      "difficulty": "hard",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/problems/242",
+      "path": "problems/0242-non-maximum-suppression-for-object-detection",
+      "first_solved_at": "2026-10-02T09:32:18.303Z",
+      "last_pushed_at": "2026-10-02T09:32:18.303Z",
       "language": "python",
       "lines": 65
     }
