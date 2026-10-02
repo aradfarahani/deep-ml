@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**225** solved · 225 problems · 0 labs · 0 math
+**226** solved · 226 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -79,6 +79,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implementation of Log Softmax Function](https://www.deep-ml.com/problems/39) | easy | 2025-04-07 | [solution](problems/0039-implementation-of-log-softmax-function) |
 | [Incremental Mean for Online Reward Estimation](https://www.deep-ml.com/problems/159) | easy | 2025-09-14 | [solution](problems/0159-incremental-mean-for-online-reward-estimation) |
 | [KL Divergence Between Two Normal Distributions](https://www.deep-ml.com/problems/56) | easy | 2025-04-07 | [solution](problems/0056-kl-divergence-between-two-normal-distributions) |
+| [KL Divergence Estimator for GRPO](https://www.deep-ml.com/problems/225) | easy | 2026-10-02 | [solution](problems/0225-kl-divergence-estimator-for-grpo) |
 | [Leaky ReLU Activation Function](https://www.deep-ml.com/problems/44) | easy | 2025-04-07 | [solution](problems/0044-leaky-relu-activation-function) |
 | [Linear Kernel Function](https://www.deep-ml.com/problems/45) | easy | 2025-04-07 | [solution](problems/0045-linear-kernel-function) |
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2025-04-07 | [solution](problems/0015-linear-regression-using-gradient-descent) |
