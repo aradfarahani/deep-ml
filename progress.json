@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T16:11:10.310Z",
+  "generated_at": "2026-10-02T07:21:57.110Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -2769,6 +2769,19 @@
       "last_pushed_at": "2026-10-01T16:11:09.762Z",
       "language": "python",
       "lines": 42
+    },
+    "problem:213": {
+      "kind": "problem",
+      "id": "213",
+      "title": "Bayesian Inference for Beta-Binomial Model",
+      "difficulty": "medium",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/213",
+      "path": "problems/0213-bayesian-inference-for-beta-binomial-model",
+      "first_solved_at": "2026-10-02T07:21:56.557Z",
+      "last_pushed_at": "2026-10-02T07:21:56.557Z",
+      "language": "python",
+      "lines": 26
     }
   }
 }
