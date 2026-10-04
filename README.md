@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**335** solved · 335 problems · 0 labs · 0 math
+**336** solved · 336 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -277,6 +277,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix Rank](https://www.deep-ml.com/problems/329) | medium | 2026-10-04 | [solution](problems/0329-matrix-rank) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2025-04-06 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2025-04-06 | [solution](problems/0007-matrix-transformation) |
+| [Maximum A Posteriori (MAP) Estimation for Bernoulli Parameter](https://www.deep-ml.com/problems/338) | medium | 2026-10-04 | [solution](problems/0338-maximum-a-posteriori-map-estimation-for-bernoulli-parameter) |
 | [Maximum Likelihood Estimation for Gaussian Distribution](https://www.deep-ml.com/problems/337) | medium | 2026-10-04 | [solution](problems/0337-maximum-likelihood-estimation-for-gaussian-distribution) |
 | [Mean Ablation for Circuit Discovery](https://www.deep-ml.com/problems/236) | medium | 2026-10-02 | [solution](problems/0236-mean-ablation-for-circuit-discovery) |
 | [Minimax Algorithm for Tic-Tac-Toe](https://www.deep-ml.com/problems/171) | medium | 2025-09-14 | [solution](problems/0171-minimax-algorithm-for-tic-tac-toe) |

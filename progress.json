@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T10:30:13.898Z",
+  "generated_at": "2026-10-04T10:30:54.449Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -4355,6 +4355,19 @@
       "last_pushed_at": "2026-10-04T10:30:13.342Z",
       "language": "python",
       "lines": 21
+    },
+    "problem:338": {
+      "kind": "problem",
+      "id": "338",
+      "title": "Maximum A Posteriori (MAP) Estimation for Bernoulli Parameter",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/338",
+      "path": "problems/0338-maximum-a-posteriori-map-estimation-for-bernoulli-parameter",
+      "first_solved_at": "2026-10-04T10:30:53.668Z",
+      "last_pushed_at": "2026-10-04T10:30:53.668Z",
+      "language": "python",
+      "lines": 38
     }
   }
 }
