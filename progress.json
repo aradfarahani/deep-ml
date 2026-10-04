@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T10:48:20.649Z",
+  "generated_at": "2026-10-04T10:54:18.296Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -4745,6 +4745,19 @@
       "last_pushed_at": "2026-10-04T10:48:20.035Z",
       "language": "python",
       "lines": 26
+    },
+    "problem:369": {
+      "kind": "problem",
+      "id": "369",
+      "title": "Implement Xavier/Glorot Weight Initialization",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/369",
+      "path": "problems/0369-implement-xavier-glorot-weight-initialization",
+      "first_solved_at": "2026-10-04T10:54:17.593Z",
+      "last_pushed_at": "2026-10-04T10:54:17.593Z",
+      "language": "python",
+      "lines": 35
     }
   }
 }
