@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**387** solved · 387 problems · 0 labs · 0 math
+**388** solved · 388 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -250,6 +250,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2025-04-06 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
 | [Implement Grid Search](https://www.deep-ml.com/problems/288) | medium | 2026-10-04 | [solution](problems/0288-implement-grid-search) |
 | [Implement Group Normalization](https://www.deep-ml.com/problems/126) | medium | 2025-04-28 | [solution](problems/0126-implement-group-normalization) |
+| [Implement Grouped Query Attention (GQA)](https://www.deep-ml.com/problems/391) | medium | 2026-10-04 | [solution](problems/0391-implement-grouped-query-attention-gqa) |
 | [Implement GRU Cell](https://www.deep-ml.com/problems/287) | medium | 2026-10-04 | [solution](problems/0287-implement-gru-cell) |
 | [Implement He Weight Initialization for Neural Networks](https://www.deep-ml.com/problems/370) | medium | 2026-10-04 | [solution](problems/0370-implement-he-weight-initialization-for-neural-networks) |
 | [Implement Hierarchical Clustering (Agglomerative)](https://www.deep-ml.com/problems/364) | medium | 2026-10-04 | [solution](problems/0364-implement-hierarchical-clustering-agglomerative) |
