@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**270** solved · 270 problems · 0 labs · 0 math
+**271** solved · 271 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -168,6 +168,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Find Captain Redbeard's Hidden Treasure](https://www.deep-ml.com/problems/127) | medium | 2025-04-29 | [solution](problems/0127-find-captain-redbeard-s-hidden-treasure) |
 | [Find the Best Gini-Based Split for a Binary Decision Tree](https://www.deep-ml.com/problems/138) | medium | 2025-06-26 | [solution](problems/0138-find-the-best-gini-based-split-for-a-binary-decision-tree) |
 | [Find the column space of a matrix](https://www.deep-ml.com/problems/68) | medium | 2025-04-07 | [solution](problems/0068-find-the-column-space-of-a-matrix) |
+| [First-Visit Monte Carlo Prediction](https://www.deep-ml.com/problems/272) | medium | 2026-10-04 | [solution](problems/0272-first-visit-monte-carlo-prediction) |
 | [Gauss-Seidel Method for Solving Linear Systems](https://www.deep-ml.com/problems/57) | medium | 2025-04-07 | [solution](problems/0057-gauss-seidel-method-for-solving-linear-systems) |
 | [Gaussian Elimination for Solving Linear Systems](https://www.deep-ml.com/problems/58) | medium | 2025-04-07 | [solution](problems/0058-gaussian-elimination-for-solving-linear-systems) |
 | [Gaussian Naive Bayes Classifier](https://www.deep-ml.com/problems/261) | medium | 2026-10-04 | [solution](problems/0261-gaussian-naive-bayes-classifier) |
