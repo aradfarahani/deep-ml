@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**345** solved · 345 problems · 0 labs · 0 math
+**346** solved · 346 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -190,6 +190,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Derivative of Softmax](https://www.deep-ml.com/problems/219) | medium | 2026-10-02 | [solution](problems/0219-derivative-of-softmax) |
 | [Diffusion Reconstruction Loss](https://www.deep-ml.com/problems/302) | medium | 2026-10-04 | [solution](problems/0302-diffusion-reconstruction-loss) |
 | [Divide Dataset Based on Feature Threshold](https://www.deep-ml.com/problems/31) | medium | 2025-04-06 | [solution](problems/0031-divide-dataset-based-on-feature-threshold) |
+| [Domain Expert Model Fusion](https://www.deep-ml.com/problems/348) | medium | 2026-10-04 | [solution](problems/0348-domain-expert-model-fusion) |
 | [Dr. GRPO: Complete Objective Function](https://www.deep-ml.com/problems/210) | medium | 2026-10-01 | [solution](problems/0210-dr-grpo-complete-objective-function) |
 | [Dropout Layer](https://www.deep-ml.com/problems/151) | medium | 2025-07-21 | [solution](problems/0151-dropout-layer) |
 | [Elastic Net Regression via Gradient Descent](https://www.deep-ml.com/problems/139) | medium | 2025-06-26 | [solution](problems/0139-elastic-net-regression-via-gradient-descent) |

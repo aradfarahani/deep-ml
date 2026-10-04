@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T10:35:47.409Z",
+  "generated_at": "2026-10-04T10:37:36.327Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -4485,6 +4485,19 @@
       "last_pushed_at": "2026-10-04T10:35:46.869Z",
       "language": "python",
       "lines": 43
+    },
+    "problem:348": {
+      "kind": "problem",
+      "id": "348",
+      "title": "Domain Expert Model Fusion",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/348",
+      "path": "problems/0348-domain-expert-model-fusion",
+      "first_solved_at": "2026-10-04T10:37:33.167Z",
+      "last_pushed_at": "2026-10-04T10:37:33.167Z",
+      "language": "python",
+      "lines": 38
     }
   }
 }
