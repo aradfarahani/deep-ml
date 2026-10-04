@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T09:34:48.594Z",
+  "generated_at": "2026-10-04T09:35:12.615Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -3471,6 +3471,19 @@
       "last_pushed_at": "2026-10-04T09:34:48.027Z",
       "language": "python",
       "lines": 46
+    },
+    "problem:269": {
+      "kind": "problem",
+      "id": "269",
+      "title": "A/B Test Statistical Analysis for Model Comparison",
+      "difficulty": "hard",
+      "category": "MLOps",
+      "url": "https://www.deep-ml.com/problems/269",
+      "path": "problems/0269-a-b-test-statistical-analysis-for-model-comparison",
+      "first_solved_at": "2026-10-04T09:35:11.792Z",
+      "last_pushed_at": "2026-10-04T09:35:11.792Z",
+      "language": "python",
+      "lines": 105
     }
   }
 }
