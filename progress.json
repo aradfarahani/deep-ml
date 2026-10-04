@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T09:23:33.846Z",
+  "generated_at": "2026-10-04T09:23:56.558Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -3341,6 +3341,19 @@
       "last_pushed_at": "2026-10-04T09:23:36.816Z",
       "language": "python",
       "lines": 23
+    },
+    "problem:258": {
+      "kind": "problem",
+      "id": "258",
+      "title": "Calinski-Harabasz Index for Clustering Evaluation",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/258",
+      "path": "problems/0258-calinski-harabasz-index-for-clustering-evaluation",
+      "first_solved_at": "2026-10-04T09:23:59.674Z",
+      "last_pushed_at": "2026-10-04T09:23:59.674Z",
+      "language": "python",
+      "lines": 47
     }
   }
 }

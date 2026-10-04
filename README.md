@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**257** solved · 257 problems · 0 labs · 0 math
+**258** solved · 258 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -135,6 +135,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2025-04-06 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Calculate KL Divergence Between Two Multivariate Gaussian Distributions](https://www.deep-ml.com/problems/136) | medium | 2025-05-29 | [solution](problems/0136-calculate-kl-divergence-between-two-multivariate-gaussian-distributions) |
 | [Calculate Performance Metrics for a Classification Model](https://www.deep-ml.com/problems/77) | medium | 2025-04-07 | [solution](problems/0077-calculate-performance-metrics-for-a-classification-model) |
+| [Calinski-Harabasz Index for Clustering Evaluation](https://www.deep-ml.com/problems/258) | medium | 2026-10-04 | [solution](problems/0258-calinski-harabasz-index-for-clustering-evaluation) |
 | [Central Limit Theorem Simulation](https://www.deep-ml.com/problems/182) | medium | 2025-09-14 | [solution](problems/0182-central-limit-theorem-simulation) |
 | [Chain Rule for Composite Functions](https://www.deep-ml.com/problems/214) | medium | 2026-10-02 | [solution](problems/0214-chain-rule-for-composite-functions) |
 | [Chi-square Probability Distribution](https://www.deep-ml.com/problems/176) | medium | 2025-09-14 | [solution](problems/0176-chi-square-probability-distribution) |
