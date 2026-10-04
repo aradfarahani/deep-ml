@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**372** solved · 372 problems · 0 labs · 0 math
+**373** solved · 373 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -298,6 +298,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Jensen-Shannon Divergence](https://www.deep-ml.com/problems/203) | medium | 2026-10-01 | [solution](problems/0203-jensen-shannon-divergence) |
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2025-04-06 | [solution](problems/0017-k-means-clustering) |
 | [Knowledge Distillation Loss](https://www.deep-ml.com/problems/227) | medium | 2026-10-02 | [solution](problems/0227-knowledge-distillation-loss) |
+| [KV Cache for Efficient Autoregressive Attention](https://www.deep-ml.com/problems/376) | medium | 2026-10-04 | [solution](problems/0376-kv-cache-for-efficient-autoregressive-attention) |
 | [Lagrange Multipliers for Constrained Quadratic Optimization](https://www.deep-ml.com/problems/314) | medium | 2026-10-04 | [solution](problems/0314-lagrange-multipliers-for-constrained-quadratic-optimization) |
 | [Linear Regression - Power Grid Optimization](https://www.deep-ml.com/problems/92) | medium | 2025-04-07 | [solution](problems/0092-linear-regression-power-grid-optimization) |
 | [LoRA: Low-Rank Adaptation Forward Pass](https://www.deep-ml.com/problems/222) | medium | 2026-10-02 | [solution](problems/0222-lora-low-rank-adaptation-forward-pass) |
