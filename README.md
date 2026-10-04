@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**273** solved · 273 problems · 0 labs · 0 math
+**274** solved · 274 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -204,6 +204,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Relativistic Critic Rewards for Adversarial Reasoning](https://www.deep-ml.com/problems/268) | medium | 2026-10-04 | [solution](problems/0268-implement-relativistic-critic-rewards-for-adversarial-reasoning) |
 | [Implement RMSProp Optimizer](https://www.deep-ml.com/problems/200) | medium | 2026-10-01 | [solution](problems/0200-implement-rmsprop-optimizer) |
 | [Implement Self-Attention Mechanism](https://www.deep-ml.com/problems/53) | medium | 2025-04-07 | [solution](problems/0053-implement-self-attention-mechanism) |
+| [Implement Stratified Train-Test Split](https://www.deep-ml.com/problems/275) | medium | 2026-10-04 | [solution](problems/0275-implement-stratified-train-test-split) |
 | [Implement TF-IDF (Term Frequency-Inverse Document Frequency)](https://www.deep-ml.com/problems/60) | medium | 2025-04-07 | [solution](problems/0060-implement-tf-idf-term-frequency-inverse-document-frequency) |
 | [Implement the Bellman Equation for Value Iteration](https://www.deep-ml.com/problems/157) | medium | 2025-07-21 | [solution](problems/0157-implement-the-bellman-equation-for-value-iteration) |
 | [Implement the Huber Loss Function](https://www.deep-ml.com/problems/192) | medium | 2026-10-01 | [solution](problems/0192-implement-the-huber-loss-function) |
