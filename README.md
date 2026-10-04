@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**381** solved · 381 problems · 0 labs · 0 math
+**382** solved · 382 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -152,6 +152,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Apriori Frequent Itemset Mining](https://www.deep-ml.com/problems/144) | medium | 2025-06-26 | [solution](problems/0144-apriori-frequent-itemset-mining) |
 | [Autoregressive Token Generation with Block-Size Context Cropping](https://www.deep-ml.com/problems/1082) | medium | 2026-06-18 | [solution](problems/1082-autoregressive-token-generation-with-block-size-context-cropping) |
 | [Bayesian Inference for Beta-Binomial Model](https://www.deep-ml.com/problems/213) | medium | 2026-10-02 | [solution](problems/0213-bayesian-inference-for-beta-binomial-model) |
+| [Beam Search Decoding](https://www.deep-ml.com/problems/385) | medium | 2026-10-04 | [solution](problems/0385-beam-search-decoding) |
 | [Bernoulli Naive Bayes Classifier](https://www.deep-ml.com/problems/140) | medium | 2025-06-26 | [solution](problems/0140-bernoulli-naive-bayes-classifier) |
 | [Beta Distribution PDF and Statistics](https://www.deep-ml.com/problems/339) | medium | 2026-10-04 | [solution](problems/0339-beta-distribution-pdf-and-statistics) |
 | [Bilinear Image Resizing](https://www.deep-ml.com/problems/240) | medium | 2026-10-02 | [solution](problems/0240-bilinear-image-resizing) |
