@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**386** solved · 386 problems · 0 labs · 0 math
+**387** solved · 387 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -266,6 +266,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Masked Self-Attention](https://www.deep-ml.com/problems/107) | medium | 2025-04-07 | [solution](problems/0107-implement-masked-self-attention) |
 | [Implement mHC Forward Pass](https://www.deep-ml.com/problems/298) | medium | 2026-10-04 | [solution](problems/0298-implement-mhc-forward-pass) |
 | [Implement Mini-Batch K-Means](https://www.deep-ml.com/problems/363) | medium | 2026-10-04 | [solution](problems/0363-implement-mini-batch-k-means) |
+| [Implement Multiquery Attention (MQA)](https://www.deep-ml.com/problems/390) | medium | 2026-10-04 | [solution](problems/0390-implement-multiquery-attention-mqa) |
 | [Implement MuonClip (qk-clip) for Stabilizing Attention](https://www.deep-ml.com/problems/177) | medium | 2025-09-14 | [solution](problems/0177-implement-muonclip-qk-clip-for-stabilizing-attention) |
 | [Implement Neural Memory Update with Surprise and Momentum](https://www.deep-ml.com/problems/267) | medium | 2026-10-04 | [solution](problems/0267-implement-neural-memory-update-with-surprise-and-momentum) |
 | [Implement Out-of-Bag Score Calculation](https://www.deep-ml.com/problems/345) | medium | 2026-10-04 | [solution](problems/0345-implement-out-of-bag-score-calculation) |
