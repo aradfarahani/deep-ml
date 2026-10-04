@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**371** solved · 371 problems · 0 labs · 0 math
+**372** solved · 372 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -114,6 +114,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [KL Divergence Estimator for GRPO](https://www.deep-ml.com/problems/225) | easy | 2026-10-02 | [solution](problems/0225-kl-divergence-estimator-for-grpo) |
 | [Label Encoding for Ordinal Variables](https://www.deep-ml.com/problems/356) | easy | 2026-10-04 | [solution](problems/0356-label-encoding-for-ordinal-variables) |
 | [Leaky ReLU Activation Function](https://www.deep-ml.com/problems/44) | easy | 2025-04-07 | [solution](problems/0044-leaky-relu-activation-function) |
+| [Learned Positional Embeddings](https://www.deep-ml.com/problems/375) | easy | 2026-10-04 | [solution](problems/0375-learned-positional-embeddings) |
 | [Linear Kernel Function](https://www.deep-ml.com/problems/45) | easy | 2025-04-07 | [solution](problems/0045-linear-kernel-function) |
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2025-04-07 | [solution](problems/0015-linear-regression-using-gradient-descent) |
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2025-04-07 | [solution](problems/0014-linear-regression-using-normal-equation) |
