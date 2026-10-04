@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**302** solved · 302 problems · 0 labs · 0 math
+**303** solved · 303 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -75,6 +75,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Gini Impurity Calculation for a Set of Classes](https://www.deep-ml.com/problems/64) | easy | 2025-04-07 | [solution](problems/0064-implement-gini-impurity-calculation-for-a-set-of-classes) |
 | [Implement Global Average Pooling](https://www.deep-ml.com/problems/114) | easy | 2025-04-07 | [solution](problems/0114-implement-global-average-pooling) |
 | [Implement Gradient Clipping by Value](https://www.deep-ml.com/problems/292) | easy | 2026-10-04 | [solution](problems/0292-implement-gradient-clipping-by-value) |
+| [Implement Hard Voting Classifier](https://www.deep-ml.com/problems/305) | easy | 2026-10-04 | [solution](problems/0305-implement-hard-voting-classifier) |
 | [Implement He Weight Initialization](https://www.deep-ml.com/problems/290) | easy | 2026-10-04 | [solution](problems/0290-implement-he-weight-initialization) |
 | [Implement Hinge Loss for SVM](https://www.deep-ml.com/problems/283) | easy | 2026-10-04 | [solution](problems/0283-implement-hinge-loss-for-svm) |
 | [Implement Orthogonal Projection of a Vector onto a Line](https://www.deep-ml.com/problems/66) | easy | 2025-04-07 | [solution](problems/0066-implement-orthogonal-projection-of-a-vector-onto-a-line) |
