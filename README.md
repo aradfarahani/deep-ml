@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**269** solved · 269 problems · 0 labs · 0 math
+**270** solved · 270 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -183,6 +183,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement DBSCAN Clustering Algorithm](https://www.deep-ml.com/problems/259) | medium | 2026-10-04 | [solution](problems/0259-implement-dbscan-clustering-algorithm) |
 | [Implement Efficient Sparse Window Attention](https://www.deep-ml.com/problems/131) | medium | 2025-05-18 | [solution](problems/0131-implement-efficient-sparse-window-attention) |
 | [Implement Focal Loss for Imbalanced Classification](https://www.deep-ml.com/problems/255) | medium | 2026-10-04 | [solution](problems/0255-implement-focal-loss-for-imbalanced-classification) |
+| [Implement Gated Attention](https://www.deep-ml.com/problems/271) | medium | 2026-10-04 | [solution](problems/0271-implement-gated-attention) |
 | [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2025-04-06 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
 | [Implement Group Normalization](https://www.deep-ml.com/problems/126) | medium | 2025-04-28 | [solution](problems/0126-implement-group-normalization) |
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2025-04-06 | [solution](problems/0018-implement-k-fold-cross-validation) |
