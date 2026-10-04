@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T09:48:36.503Z",
+  "generated_at": "2026-10-04T09:49:00.889Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -3536,6 +3536,19 @@
       "last_pushed_at": "2026-10-04T09:48:35.795Z",
       "language": "python",
       "lines": 42
+    },
+    "problem:274": {
+      "kind": "problem",
+      "id": "274",
+      "title": "TD(λ) with Eligibility Traces",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/274",
+      "path": "problems/0274-td-with-eligibility-traces",
+      "first_solved_at": "2026-10-04T09:49:00.172Z",
+      "last_pushed_at": "2026-10-04T09:49:00.172Z",
+      "language": "python",
+      "lines": 46
     }
   }
 }
