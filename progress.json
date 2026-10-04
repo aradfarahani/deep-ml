@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T10:09:56.234Z",
+  "generated_at": "2026-10-04T10:10:26.021Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -3861,6 +3861,19 @@
       "last_pushed_at": "2026-10-04T10:09:55.549Z",
       "language": "python",
       "lines": 36
+    },
+    "problem:300": {
+      "kind": "problem",
+      "id": "300",
+      "title": "Implement Volume Bars Sampling",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/300",
+      "path": "problems/0300-implement-volume-bars-sampling",
+      "first_solved_at": "2026-10-04T10:10:25.212Z",
+      "last_pushed_at": "2026-10-04T10:10:25.212Z",
+      "language": "python",
+      "lines": 57
     }
   }
 }
