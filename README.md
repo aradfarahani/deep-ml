@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**340** solved · 340 problems · 0 labs · 0 math
+**341** solved · 341 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -246,6 +246,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Prediction Distribution Monitoring](https://www.deep-ml.com/problems/295) | medium | 2026-10-04 | [solution](problems/0295-implement-prediction-distribution-monitoring) |
 | [Implement PReLU Forward and Backward Pass](https://www.deep-ml.com/problems/98) | medium | 2025-04-07 | [solution](problems/0098-implement-prelu-forward-and-backward-pass) |
 | [Implement Q-Learning Algorithm for MDPs](https://www.deep-ml.com/problems/133) | medium | 2025-05-18 | [solution](problems/0133-implement-q-learning-algorithm-for-mdps) |
+| [Implement Random Forest Feature Importance](https://www.deep-ml.com/problems/343) | medium | 2026-10-04 | [solution](problems/0343-implement-random-forest-feature-importance) |
 | [Implement RBF (Gaussian) Kernel Function](https://www.deep-ml.com/problems/280) | medium | 2026-10-04 | [solution](problems/0280-implement-rbf-gaussian-kernel-function) |
 | [Implement Reduced Row Echelon Form (RREF) Function](https://www.deep-ml.com/problems/48) | medium | 2025-04-06 | [solution](problems/0048-implement-reduced-row-echelon-form-rref-function) |
 | [Implement Relativistic Critic Rewards for Adversarial Reasoning](https://www.deep-ml.com/problems/268) | medium | 2026-10-04 | [solution](problems/0268-implement-relativistic-critic-rewards-for-adversarial-reasoning) |
