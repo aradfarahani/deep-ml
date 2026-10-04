@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T10:24:58.976Z",
+  "generated_at": "2026-10-04T10:25:32.821Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -4212,6 +4212,19 @@
       "last_pushed_at": "2026-10-04T10:24:58.378Z",
       "language": "python",
       "lines": 69
+    },
+    "problem:327": {
+      "kind": "problem",
+      "id": "327",
+      "title": "Engram Context-Aware Gating",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/327",
+      "path": "problems/0327-engram-context-aware-gating",
+      "first_solved_at": "2026-10-04T10:25:32.172Z",
+      "last_pushed_at": "2026-10-04T10:25:32.172Z",
+      "language": "python",
+      "lines": 40
     }
   }
 }
