@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**318** solved · 318 problems · 0 labs · 0 math
+**319** solved · 319 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -142,6 +142,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Bilinear Image Resizing](https://www.deep-ml.com/problems/240) | medium | 2026-10-02 | [solution](problems/0240-bilinear-image-resizing) |
 | [Binomial Distribution Probability](https://www.deep-ml.com/problems/79) | medium | 2025-04-07 | [solution](problems/0079-binomial-distribution-probability) |
 | [Birthday Problem Probability](https://www.deep-ml.com/problems/246) | medium | 2026-10-02 | [solution](problems/0246-birthday-problem-probability) |
+| [BLEU Score for Text Generation](https://www.deep-ml.com/problems/321) | medium | 2026-10-04 | [solution](problems/0321-bleu-score-for-text-generation) |
 | [Block-wise FP8 Quantization](https://www.deep-ml.com/problems/234) | medium | 2026-10-02 | [solution](problems/0234-block-wise-fp8-quantization) |
 | [BM25 Ranking ](https://www.deep-ml.com/problems/90) | medium | 2025-04-06 | [solution](problems/0090-bm25-ranking) |
 | [Boxed Answer Extraction for Math Benchmarks](https://www.deep-ml.com/problems/318) | medium | 2026-10-04 | [solution](problems/0318-boxed-answer-extraction-for-math-benchmarks) |
