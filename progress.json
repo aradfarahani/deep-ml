@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T10:07:03.759Z",
+  "generated_at": "2026-10-04T10:07:25.825Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -3796,6 +3796,19 @@
       "last_pushed_at": "2026-10-04T10:07:03.091Z",
       "language": "python",
       "lines": 34
+    },
+    "problem:295": {
+      "kind": "problem",
+      "id": "295",
+      "title": "Implement Prediction Distribution Monitoring",
+      "difficulty": "medium",
+      "category": "MLOps",
+      "url": "https://www.deep-ml.com/problems/295",
+      "path": "problems/0295-implement-prediction-distribution-monitoring",
+      "first_solved_at": "2026-10-04T10:07:25.253Z",
+      "last_pushed_at": "2026-10-04T10:07:25.253Z",
+      "language": "python",
+      "lines": 47
     }
   }
 }
