@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T10:20:29.508Z",
+  "generated_at": "2026-10-04T10:20:50.041Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -4108,6 +4108,19 @@
       "last_pushed_at": "2026-10-04T10:20:28.518Z",
       "language": "python",
       "lines": 35
+    },
+    "problem:319": {
+      "kind": "problem",
+      "id": "319",
+      "title": "Math Answer Verification with Equivalence Checking",
+      "difficulty": "medium",
+      "category": "LLM",
+      "url": "https://www.deep-ml.com/problems/319",
+      "path": "problems/0319-math-answer-verification-with-equivalence-checking",
+      "first_solved_at": "2026-10-04T10:20:49.208Z",
+      "last_pushed_at": "2026-10-04T10:20:49.208Z",
+      "language": "python",
+      "lines": 62
     }
   }
 }

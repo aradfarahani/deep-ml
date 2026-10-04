@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**316** solved · 316 problems · 0 labs · 0 math
+**317** solved · 317 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -260,6 +260,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Lagrange Multipliers for Constrained Quadratic Optimization](https://www.deep-ml.com/problems/314) | medium | 2026-10-04 | [solution](problems/0314-lagrange-multipliers-for-constrained-quadratic-optimization) |
 | [Linear Regression - Power Grid Optimization](https://www.deep-ml.com/problems/92) | medium | 2025-04-07 | [solution](problems/0092-linear-regression-power-grid-optimization) |
 | [LoRA: Low-Rank Adaptation Forward Pass](https://www.deep-ml.com/problems/222) | medium | 2026-10-02 | [solution](problems/0222-lora-low-rank-adaptation-forward-pass) |
+| [Math Answer Verification with Equivalence Checking](https://www.deep-ml.com/problems/319) | medium | 2026-10-04 | [solution](problems/0319-math-answer-verification-with-equivalence-checking) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2025-04-06 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2025-04-06 | [solution](problems/0007-matrix-transformation) |
 | [Mean Ablation for Circuit Discovery](https://www.deep-ml.com/problems/236) | medium | 2026-10-02 | [solution](problems/0236-mean-ablation-for-circuit-discovery) |
