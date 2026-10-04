@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T11:34:13.290Z",
+  "generated_at": "2026-10-04T11:34:34.031Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -4966,6 +4966,19 @@
       "last_pushed_at": "2026-10-04T11:34:12.569Z",
       "language": "python",
       "lines": 38
+    },
+    "problem:386": {
+      "kind": "problem",
+      "id": "386",
+      "title": "Spectral Normalization",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/386",
+      "path": "problems/0386-spectral-normalization",
+      "first_solved_at": "2026-10-04T11:34:33.411Z",
+      "last_pushed_at": "2026-10-04T11:34:33.411Z",
+      "language": "python",
+      "lines": 37
     }
   }
 }

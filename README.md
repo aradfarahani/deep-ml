@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**382** solved · 382 problems · 0 labs · 0 math
+**383** solved · 383 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -350,6 +350,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Sobel Edge Detection](https://www.deep-ml.com/problems/241) | medium | 2026-10-02 | [solution](problems/0241-sobel-edge-detection) |
 | [Solve Linear Equations using Jacobi Method](https://www.deep-ml.com/problems/11) | medium | 2025-04-06 | [solution](problems/0011-solve-linear-equations-using-jacobi-method) |
 | [Solve System of Linear Equations Using Cramer's Rule](https://www.deep-ml.com/problems/119) | medium | 2025-04-07 | [solution](problems/0119-solve-system-of-linear-equations-using-cramer-s-rule) |
+| [Spectral Normalization](https://www.deep-ml.com/problems/386) | medium | 2026-10-04 | [solution](problems/0386-spectral-normalization) |
 | [Temperature Decay Scheduler](https://www.deep-ml.com/problems/231) | medium | 2026-10-02 | [solution](problems/0231-temperature-decay-scheduler) |
 | [Temperature Sampling](https://www.deep-ml.com/problems/378) | medium | 2026-10-04 | [solution](problems/0378-temperature-sampling) |
 | [The Pattern Weaver's Code](https://www.deep-ml.com/problems/89) | medium | 2025-04-07 | [solution](problems/0089-the-pattern-weaver-s-code) |
