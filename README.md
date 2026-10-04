@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**348** solved · 348 problems · 0 labs · 0 math
+**349** solved · 349 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -260,6 +260,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Self-Attention Mechanism](https://www.deep-ml.com/problems/53) | medium | 2025-04-07 | [solution](problems/0053-implement-self-attention-mechanism) |
 | [Implement Soft Voting Classifier](https://www.deep-ml.com/problems/306) | medium | 2026-10-04 | [solution](problems/0306-implement-soft-voting-classifier) |
 | [Implement Stratified Train-Test Split](https://www.deep-ml.com/problems/275) | medium | 2026-10-04 | [solution](problems/0275-implement-stratified-train-test-split) |
+| [Implement t-SNE Gradient Calculation](https://www.deep-ml.com/problems/352) | medium | 2026-10-04 | [solution](problems/0352-implement-t-sne-gradient-calculation) |
 | [Implement TF-IDF (Term Frequency-Inverse Document Frequency)](https://www.deep-ml.com/problems/60) | medium | 2025-04-07 | [solution](problems/0060-implement-tf-idf-term-frequency-inverse-document-frequency) |
 | [Implement the Bellman Equation for Value Iteration](https://www.deep-ml.com/problems/157) | medium | 2025-07-21 | [solution](problems/0157-implement-the-bellman-equation-for-value-iteration) |
 | [Implement the Huber Loss Function](https://www.deep-ml.com/problems/192) | medium | 2026-10-01 | [solution](problems/0192-implement-the-huber-loss-function) |
