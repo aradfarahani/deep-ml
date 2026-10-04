@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**363** solved · 363 problems · 0 labs · 0 math
+**364** solved · 364 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -241,6 +241,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement GRU Cell](https://www.deep-ml.com/problems/287) | medium | 2026-10-04 | [solution](problems/0287-implement-gru-cell) |
 | [Implement Hierarchical Clustering (Agglomerative)](https://www.deep-ml.com/problems/364) | medium | 2026-10-04 | [solution](problems/0364-implement-hierarchical-clustering-agglomerative) |
 | [Implement INT8 Quantization](https://www.deep-ml.com/problems/294) | medium | 2026-10-04 | [solution](problems/0294-implement-int8-quantization) |
+| [Implement Isolation Forest for Anomaly Detection](https://www.deep-ml.com/problems/367) | medium | 2026-10-04 | [solution](problems/0367-implement-isolation-forest-for-anomaly-detection) |
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2025-04-06 | [solution](problems/0018-implement-k-fold-cross-validation) |
 | [Implement K-Means++ Initialization](https://www.deep-ml.com/problems/362) | medium | 2026-10-04 | [solution](problems/0362-implement-k-means-initialization) |
 | [Implement K-Nearest Neighbors](https://www.deep-ml.com/problems/173) | medium | 2026-06-18 | [solution](problems/0173-implement-k-nearest-neighbors) |
