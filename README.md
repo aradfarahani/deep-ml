@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**253** solved · 253 problems · 0 labs · 0 math
+**254** solved · 254 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -225,6 +225,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [PTX Loss for Catastrophic Forgetting Prevention (RLHF)](https://www.deep-ml.com/problems/232) | medium | 2026-10-02 | [solution](problems/0232-ptx-loss-for-catastrophic-forgetting-prevention-rlhf) |
 | [QLoRA: Quantized Low-Rank Adaptation Forward Pass](https://www.deep-ml.com/problems/223) | medium | 2026-10-02 | [solution](problems/0223-qlora-quantized-low-rank-adaptation-forward-pass) |
 | [Self-Critique Loss for Constitutional AI](https://www.deep-ml.com/problems/863) | medium | 2026-06-18 | [solution](problems/0863-self-critique-loss-for-constitutional-ai) |
+| [Silhouette Score for Clustering Evaluation](https://www.deep-ml.com/problems/254) | medium | 2026-10-04 | [solution](problems/0254-silhouette-score-for-clustering-evaluation) |
 | [Simple Convolutional 2D Layer](https://www.deep-ml.com/problems/41) | medium | 2025-04-06 | [solution](problems/0041-simple-convolutional-2d-layer) |
 | [Simulate Markov Chain Transitions](https://www.deep-ml.com/problems/132) | medium | 2025-05-18 | [solution](problems/0132-simulate-markov-chain-transitions) |
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2025-04-06 | [solution](problems/0025-single-neuron-with-backpropagation) |
