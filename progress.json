@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T10:38:36.912Z",
+  "generated_at": "2026-10-04T10:39:07.595Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -4511,6 +4511,19 @@
       "last_pushed_at": "2026-10-04T10:38:35.938Z",
       "language": "python",
       "lines": 35
+    },
+    "problem:351": {
+      "kind": "problem",
+      "id": "351",
+      "title": "Implement LLE (Locally Linear Embedding)",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/351",
+      "path": "problems/0351-implement-lle-locally-linear-embedding",
+      "first_solved_at": "2026-10-04T10:39:06.927Z",
+      "last_pushed_at": "2026-10-04T10:39:06.927Z",
+      "language": "python",
+      "lines": 58
     }
   }
 }
