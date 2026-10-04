@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**389** solved · 389 problems · 0 labs · 0 math
+**390** solved · 390 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -295,6 +295,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement the SARSA Algorithm on policy](https://www.deep-ml.com/problems/175) | medium | 2025-09-14 | [solution](problems/0175-implement-the-sarsa-algorithm-on-policy) |
 | [Implement the SGTM Parameter Update Step](https://www.deep-ml.com/problems/235) | medium | 2026-10-02 | [solution](problems/0235-implement-the-sgtm-parameter-update-step) |
 | [Implement Tick Bars Sampling](https://www.deep-ml.com/problems/299) | medium | 2026-10-04 | [solution](problems/0299-implement-tick-bars-sampling) |
+| [Implement Variational Autoencoder (VAE) Loss (ELBO)](https://www.deep-ml.com/problems/393) | medium | 2026-10-04 | [solution](problems/0393-implement-variational-autoencoder-vae-loss-elbo) |
 | [Implement Volume Bars Sampling](https://www.deep-ml.com/problems/300) | medium | 2026-10-04 | [solution](problems/0300-implement-volume-bars-sampling) |
 | [Implement Xavier/Glorot Weight Initialization](https://www.deep-ml.com/problems/289) | medium | 2026-10-04 | [solution](problems/0289-implement-xavier-glorot-weight-initialization) |
 | [Implementing a Simple RNN](https://www.deep-ml.com/problems/54) | medium | 2025-04-07 | [solution](problems/0054-implementing-a-simple-rnn) |
