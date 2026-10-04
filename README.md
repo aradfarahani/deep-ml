@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**284** solved · 284 problems · 0 labs · 0 math
+**285** solved · 285 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -194,6 +194,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Gated Attention](https://www.deep-ml.com/problems/271) | medium | 2026-10-04 | [solution](problems/0271-implement-gated-attention) |
 | [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2025-04-06 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
 | [Implement Group Normalization](https://www.deep-ml.com/problems/126) | medium | 2025-04-28 | [solution](problems/0126-implement-group-normalization) |
+| [Implement GRU Cell](https://www.deep-ml.com/problems/287) | medium | 2026-10-04 | [solution](problems/0287-implement-gru-cell) |
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2025-04-06 | [solution](problems/0018-implement-k-fold-cross-validation) |
 | [Implement K-Nearest Neighbors](https://www.deep-ml.com/problems/173) | medium | 2026-06-18 | [solution](problems/0173-implement-k-nearest-neighbors) |
 | [Implement Label Smoothing for Multi-Class Cross-Entropy](https://www.deep-ml.com/problems/194) | medium | 2026-10-01 | [solution](problems/0194-implement-label-smoothing-for-multi-class-cross-entropy) |

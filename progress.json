@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T10:00:19.964Z",
+  "generated_at": "2026-10-04T10:01:06.332Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -3692,6 +3692,19 @@
       "last_pushed_at": "2026-10-04T10:00:19.054Z",
       "language": "python",
       "lines": 93
+    },
+    "problem:287": {
+      "kind": "problem",
+      "id": "287",
+      "title": "Implement GRU Cell",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/287",
+      "path": "problems/0287-implement-gru-cell",
+      "first_solved_at": "2026-10-04T10:01:05.651Z",
+      "last_pushed_at": "2026-10-04T10:01:05.651Z",
+      "language": "python",
+      "lines": 25
     }
   }
 }
