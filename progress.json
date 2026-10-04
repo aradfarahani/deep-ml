@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T10:10:51.181Z",
+  "generated_at": "2026-10-04T10:11:18.104Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -3887,6 +3887,19 @@
       "last_pushed_at": "2026-10-04T10:10:50.360Z",
       "language": "python",
       "lines": 41
+    },
+    "problem:302": {
+      "kind": "problem",
+      "id": "302",
+      "title": "Diffusion Reconstruction Loss",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/302",
+      "path": "problems/0302-diffusion-reconstruction-loss",
+      "first_solved_at": "2026-10-04T10:11:17.498Z",
+      "last_pushed_at": "2026-10-04T10:11:17.498Z",
+      "language": "python",
+      "lines": 32
     }
   }
 }
