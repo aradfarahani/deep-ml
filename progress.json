@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T11:23:19.398Z",
+  "generated_at": "2026-10-04T11:23:43.492Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -4875,6 +4875,19 @@
       "last_pushed_at": "2026-10-04T11:23:18.793Z",
       "language": "python",
       "lines": 25
+    },
+    "problem:379": {
+      "kind": "problem",
+      "id": "379",
+      "title": "RAFT: Iterative Reward-Ranked Fine-Tuning Loop",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/379",
+      "path": "problems/0379-raft-iterative-reward-ranked-fine-tuning-loop",
+      "first_solved_at": "2026-10-04T11:23:42.862Z",
+      "last_pushed_at": "2026-10-04T11:23:42.862Z",
+      "language": "python",
+      "lines": 31
     }
   }
 }
