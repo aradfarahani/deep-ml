@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T10:57:59.572Z",
+  "generated_at": "2026-10-04T10:58:20.343Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -4810,6 +4810,19 @@
       "last_pushed_at": "2026-10-04T10:57:58.902Z",
       "language": "python",
       "lines": 25
+    },
+    "problem:374": {
+      "kind": "problem",
+      "id": "374",
+      "title": "Character-Level Tokenizer (stoi/itos/BOS)",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/374",
+      "path": "problems/0374-character-level-tokenizer-stoi-itos-bos",
+      "first_solved_at": "2026-10-04T10:58:19.362Z",
+      "last_pushed_at": "2026-10-04T10:58:19.362Z",
+      "language": "python",
+      "lines": 36
     }
   }
 }
