@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T10:26:32.198Z",
+  "generated_at": "2026-10-04T10:27:05.624Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -4251,6 +4251,19 @@
       "last_pushed_at": "2026-10-04T10:26:31.594Z",
       "language": "python",
       "lines": 48
+    },
+    "problem:330": {
+      "kind": "problem",
+      "id": "330",
+      "title": "Compute the Null Space (Kernel) of a Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/330",
+      "path": "problems/0330-compute-the-null-space-kernel-of-a-matrix",
+      "first_solved_at": "2026-10-04T10:27:04.791Z",
+      "last_pushed_at": "2026-10-04T10:27:04.791Z",
+      "language": "python",
+      "lines": 30
     }
   }
 }
