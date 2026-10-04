@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**265** solved · 265 problems · 0 labs · 0 math
+**266** solved · 266 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -194,6 +194,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Long Short-Term Memory (LSTM) Network](https://www.deep-ml.com/problems/59) | medium | 2025-04-07 | [solution](problems/0059-implement-long-short-term-memory-lstm-network) |
 | [Implement Masked Self-Attention](https://www.deep-ml.com/problems/107) | medium | 2025-04-07 | [solution](problems/0107-implement-masked-self-attention) |
 | [Implement MuonClip (qk-clip) for Stabilizing Attention](https://www.deep-ml.com/problems/177) | medium | 2025-09-14 | [solution](problems/0177-implement-muonclip-qk-clip-for-stabilizing-attention) |
+| [Implement Neural Memory Update with Surprise and Momentum](https://www.deep-ml.com/problems/267) | medium | 2026-10-04 | [solution](problems/0267-implement-neural-memory-update-with-surprise-and-momentum) |
 | [Implement Position-wise Feed-Forward Block with Residual and Dropout](https://www.deep-ml.com/problems/178) | medium | 2026-10-01 | [solution](problems/0178-implement-position-wise-feed-forward-block-with-residual-and-dropout) |
 | [Implement PReLU Forward and Backward Pass](https://www.deep-ml.com/problems/98) | medium | 2025-04-07 | [solution](problems/0098-implement-prelu-forward-and-backward-pass) |
 | [Implement Q-Learning Algorithm for MDPs](https://www.deep-ml.com/problems/133) | medium | 2025-05-18 | [solution](problems/0133-implement-q-learning-algorithm-for-mdps) |
