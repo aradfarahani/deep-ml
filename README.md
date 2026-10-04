@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**333** solved · 333 problems · 0 labs · 0 math
+**334** solved · 334 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -47,6 +47,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Check Linear Independence of Vectors](https://www.deep-ml.com/problems/331) | easy | 2026-10-04 | [solution](problems/0331-check-linear-independence-of-vectors) |
 | [Compute Discounted Return](https://www.deep-ml.com/problems/165) | easy | 2025-07-21 | [solution](problems/0165-compute-discounted-return) |
 | [Compute Multi-class Cross-Entropy Loss](https://www.deep-ml.com/problems/134) | easy | 2025-05-25 | [solution](problems/0134-compute-multi-class-cross-entropy-loss) |
+| [Compute Posterior Probability using Bayes' Theorem](https://www.deep-ml.com/problems/336) | easy | 2026-10-04 | [solution](problems/0336-compute-posterior-probability-using-bayes-theorem) |
 | [Compute Temporal Difference Error](https://www.deep-ml.com/problems/257) | easy | 2026-10-04 | [solution](problems/0257-compute-temporal-difference-error) |
 | [Compute the Cross Product of Two 3D Vectors](https://www.deep-ml.com/problems/118) | easy | 2025-04-07 | [solution](problems/0118-compute-the-cross-product-of-two-3d-vectors) |
 | [Convert RGB Image to Grayscale](https://www.deep-ml.com/problems/237) | easy | 2026-10-02 | [solution](problems/0237-convert-rgb-image-to-grayscale) |
