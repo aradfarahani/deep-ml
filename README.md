@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**380** solved · 380 problems · 0 labs · 0 math
+**381** solved · 381 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -193,6 +193,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Compute Total Probability using Law of Total Probability](https://www.deep-ml.com/problems/244) | medium | 2026-10-02 | [solution](problems/0244-compute-total-probability-using-law-of-total-probability) |
 | [Conditional Probability from Joint Distribution](https://www.deep-ml.com/problems/180) | medium | 2025-09-14 | [solution](problems/0180-conditional-probability-from-joint-distribution) |
 | [Confidence Interval for Population Mean](https://www.deep-ml.com/problems/212) | medium | 2026-10-01 | [solution](problems/0212-confidence-interval-for-population-mean) |
+| [Contrastive Loss (InfoNCE / SimCLR-style)](https://www.deep-ml.com/problems/384) | medium | 2026-10-04 | [solution](problems/0384-contrastive-loss-infonce-simclr-style) |
 | [CosineAnnealingLR Learning Rate Scheduler](https://www.deep-ml.com/problems/155) | medium | 2025-07-21 | [solution](problems/0155-cosineannealinglr-learning-rate-scheduler) |
 | [Create Composite Hypervector for a Dataset Row](https://www.deep-ml.com/problems/74) | medium | 2025-04-07 | [solution](problems/0074-create-composite-hypervector-for-a-dataset-row) |
 | [Data Quality Scoring for ML Pipelines](https://www.deep-ml.com/problems/252) | medium | 2026-10-04 | [solution](problems/0252-data-quality-scoring-for-ml-pipelines) |
