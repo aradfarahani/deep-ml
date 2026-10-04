@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**279** solved · 279 problems · 0 labs · 0 math
+**280** solved · 280 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -36,6 +36,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate R-squared for Regression Analysis](https://www.deep-ml.com/problems/69) | easy | 2025-04-07 | [solution](problems/0069-calculate-r-squared-for-regression-analysis) |
 | [Calculate Root Mean Square Error (RMSE)](https://www.deep-ml.com/problems/71) | easy | 2025-04-07 | [solution](problems/0071-calculate-root-mean-square-error-rmse) |
 | [Calculate SLA Compliance Metrics for Model Service](https://www.deep-ml.com/problems/250) | easy | 2026-10-04 | [solution](problems/0250-calculate-sla-compliance-metrics-for-model-service) |
+| [Calculate SVM Margin Width](https://www.deep-ml.com/problems/282) | easy | 2026-10-04 | [solution](problems/0282-calculate-svm-margin-width) |
 | [Calculate the Discounted Return for a Given Trajectory](https://www.deep-ml.com/problems/167) | easy | 2025-07-21 | [solution](problems/0167-calculate-the-discounted-return-for-a-given-trajectory) |
 | [Calculate the Phi Coefficient](https://www.deep-ml.com/problems/95) | easy | 2025-04-07 | [solution](problems/0095-calculate-the-phi-coefficient) |
 | [Calculate Unigram Probability from Corpus](https://www.deep-ml.com/problems/129) | easy | 2025-05-18 | [solution](problems/0129-calculate-unigram-probability-from-corpus) |
