@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**360** solved · 360 problems · 0 labs · 0 math
+**361** solved · 361 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -237,6 +237,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Grid Search](https://www.deep-ml.com/problems/288) | medium | 2026-10-04 | [solution](problems/0288-implement-grid-search) |
 | [Implement Group Normalization](https://www.deep-ml.com/problems/126) | medium | 2025-04-28 | [solution](problems/0126-implement-group-normalization) |
 | [Implement GRU Cell](https://www.deep-ml.com/problems/287) | medium | 2026-10-04 | [solution](problems/0287-implement-gru-cell) |
+| [Implement Hierarchical Clustering (Agglomerative)](https://www.deep-ml.com/problems/364) | medium | 2026-10-04 | [solution](problems/0364-implement-hierarchical-clustering-agglomerative) |
 | [Implement INT8 Quantization](https://www.deep-ml.com/problems/294) | medium | 2026-10-04 | [solution](problems/0294-implement-int8-quantization) |
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2025-04-06 | [solution](problems/0018-implement-k-fold-cross-validation) |
 | [Implement K-Means++ Initialization](https://www.deep-ml.com/problems/362) | medium | 2026-10-04 | [solution](problems/0362-implement-k-means-initialization) |
