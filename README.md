@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**296** solved · 296 problems · 0 labs · 0 math
+**297** solved · 297 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -232,6 +232,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement the Noisy Top-K Gating Function](https://www.deep-ml.com/problems/124) | medium | 2025-04-22 | [solution](problems/0124-implement-the-noisy-top-k-gating-function) |
 | [Implement the SARSA Algorithm on policy](https://www.deep-ml.com/problems/175) | medium | 2025-09-14 | [solution](problems/0175-implement-the-sarsa-algorithm-on-policy) |
 | [Implement the SGTM Parameter Update Step](https://www.deep-ml.com/problems/235) | medium | 2026-10-02 | [solution](problems/0235-implement-the-sgtm-parameter-update-step) |
+| [Implement Tick Bars Sampling](https://www.deep-ml.com/problems/299) | medium | 2026-10-04 | [solution](problems/0299-implement-tick-bars-sampling) |
 | [Implement Xavier/Glorot Weight Initialization](https://www.deep-ml.com/problems/289) | medium | 2026-10-04 | [solution](problems/0289-implement-xavier-glorot-weight-initialization) |
 | [Implementing a Simple RNN](https://www.deep-ml.com/problems/54) | medium | 2025-04-07 | [solution](problems/0054-implementing-a-simple-rnn) |
 | [Implementing Basic Autograd Operations](https://www.deep-ml.com/problems/26) | medium | 2025-04-06 | [solution](problems/0026-implementing-basic-autograd-operations) |
