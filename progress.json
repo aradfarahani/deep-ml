@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T10:28:51.926Z",
+  "generated_at": "2026-10-04T10:29:16.049Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -4316,6 +4316,19 @@
       "last_pushed_at": "2026-10-04T10:28:51.324Z",
       "language": "python",
       "lines": 45
+    },
+    "problem:335": {
+      "kind": "problem",
+      "id": "335",
+      "title": "Train a Paris-Style Decentralized Expert Model",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/335",
+      "path": "problems/0335-train-a-paris-style-decentralized-expert-model",
+      "first_solved_at": "2026-10-04T10:29:15.075Z",
+      "last_pushed_at": "2026-10-04T10:29:15.075Z",
+      "language": "python",
+      "lines": 94
     }
   }
 }

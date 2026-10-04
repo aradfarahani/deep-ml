@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**332** solved · 332 problems · 0 labs · 0 math
+**333** solved · 333 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -310,6 +310,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Solve System of Linear Equations Using Cramer's Rule](https://www.deep-ml.com/problems/119) | medium | 2025-04-07 | [solution](problems/0119-solve-system-of-linear-equations-using-cramer-s-rule) |
 | [Temperature Decay Scheduler](https://www.deep-ml.com/problems/231) | medium | 2026-10-02 | [solution](problems/0231-temperature-decay-scheduler) |
 | [The Pattern Weaver's Code](https://www.deep-ml.com/problems/89) | medium | 2025-04-07 | [solution](problems/0089-the-pattern-weaver-s-code) |
+| [Train a Paris-Style Decentralized Expert Model](https://www.deep-ml.com/problems/335) | medium | 2026-10-04 | [solution](problems/0335-train-a-paris-style-decentralized-expert-model) |
 | [Warmup + Cosine Decay Schedule](https://www.deep-ml.com/problems/196) | medium | 2026-10-01 | [solution](problems/0196-warmup-cosine-decay-schedule) |
 | [3D CNN Forward Pass Implementation](https://www.deep-ml.com/problems/230) | hard | 2026-10-02 | [solution](problems/0230-3d-cnn-forward-pass-implementation) |
 | [A/B Test Statistical Analysis for Model Comparison](https://www.deep-ml.com/problems/269) | hard | 2026-10-04 | [solution](problems/0269-a-b-test-statistical-analysis-for-model-comparison) |
