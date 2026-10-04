@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T09:28:04.941Z",
+  "generated_at": "2026-10-04T09:28:17.425Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -3390,7 +3390,7 @@
       "url": "https://www.deep-ml.com/problems/261",
       "path": "problems/0261-gaussian-naive-bayes-classifier",
       "first_solved_at": "2026-10-04T09:28:07.806Z",
-      "last_pushed_at": "2026-10-04T09:28:07.806Z",
+      "last_pushed_at": "2026-10-04T09:28:20.496Z",
       "language": "python",
       "lines": 46
     }
