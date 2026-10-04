@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**250** solved · 250 problems · 0 labs · 0 math
+**251** solved · 251 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -117,6 +117,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [2D Translation Matrix Implementation](https://www.deep-ml.com/problems/55) | medium | 2025-04-07 | [solution](problems/0055-2d-translation-matrix-implementation) |
 | [Adadelta Optimizer](https://www.deep-ml.com/problems/149) | medium | 2025-07-21 | [solution](problems/0149-adadelta-optimizer) |
 | [Adam Optimizer](https://www.deep-ml.com/problems/87) | medium | 2025-04-07 | [solution](problems/0087-adam-optimizer) |
+| [Analyze Canary Deployment Health for Model Rollout](https://www.deep-ml.com/problems/251) | medium | 2026-10-04 | [solution](problems/0251-analyze-canary-deployment-health-for-model-rollout) |
 | [Apriori Frequent Itemset Mining](https://www.deep-ml.com/problems/144) | medium | 2025-06-26 | [solution](problems/0144-apriori-frequent-itemset-mining) |
 | [Autoregressive Token Generation with Block-Size Context Cropping](https://www.deep-ml.com/problems/1082) | medium | 2026-06-18 | [solution](problems/1082-autoregressive-token-generation-with-block-size-context-cropping) |
 | [Bayesian Inference for Beta-Binomial Model](https://www.deep-ml.com/problems/213) | medium | 2026-10-02 | [solution](problems/0213-bayesian-inference-for-beta-binomial-model) |
