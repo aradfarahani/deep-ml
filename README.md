@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**379** solved · 379 problems · 0 labs · 0 math
+**380** solved · 380 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -351,6 +351,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Temperature Decay Scheduler](https://www.deep-ml.com/problems/231) | medium | 2026-10-02 | [solution](problems/0231-temperature-decay-scheduler) |
 | [Temperature Sampling](https://www.deep-ml.com/problems/378) | medium | 2026-10-04 | [solution](problems/0378-temperature-sampling) |
 | [The Pattern Weaver's Code](https://www.deep-ml.com/problems/89) | medium | 2025-04-07 | [solution](problems/0089-the-pattern-weaver-s-code) |
+| [Top-p (Nucleus) Sampling](https://www.deep-ml.com/problems/383) | medium | 2026-10-04 | [solution](problems/0383-top-p-nucleus-sampling) |
 | [Train a Paris-Style Decentralized Expert Model](https://www.deep-ml.com/problems/335) | medium | 2026-10-04 | [solution](problems/0335-train-a-paris-style-decentralized-expert-model) |
 | [Warmup + Cosine Decay Schedule](https://www.deep-ml.com/problems/196) | medium | 2026-10-01 | [solution](problems/0196-warmup-cosine-decay-schedule) |
 | [XGBoost Objective Function Calculation](https://www.deep-ml.com/problems/347) | medium | 2026-10-04 | [solution](problems/0347-xgboost-objective-function-calculation) |
