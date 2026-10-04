@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T09:48:20.247Z",
+  "generated_at": "2026-10-04T09:48:36.503Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -3523,6 +3523,19 @@
       "last_pushed_at": "2026-10-04T09:48:19.325Z",
       "language": "python",
       "lines": 45
+    },
+    "problem:273": {
+      "kind": "problem",
+      "id": "273",
+      "title": "n-Step TD Prediction",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/273",
+      "path": "problems/0273-n-step-td-prediction",
+      "first_solved_at": "2026-10-04T09:48:35.795Z",
+      "last_pushed_at": "2026-10-04T09:48:35.795Z",
+      "language": "python",
+      "lines": 42
     }
   }
 }
