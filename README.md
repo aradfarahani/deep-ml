@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**338** solved · 338 problems · 0 labs · 0 math
+**339** solved · 339 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -206,6 +206,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Forward Diffusion Process](https://www.deep-ml.com/problems/303) | medium | 2026-10-04 | [solution](problems/0303-forward-diffusion-process) |
 | [Gauss-Seidel Method for Solving Linear Systems](https://www.deep-ml.com/problems/57) | medium | 2025-04-07 | [solution](problems/0057-gauss-seidel-method-for-solving-linear-systems) |
 | [Gaussian Elimination for Solving Linear Systems](https://www.deep-ml.com/problems/58) | medium | 2025-04-07 | [solution](problems/0058-gaussian-elimination-for-solving-linear-systems) |
+| [Gaussian Mixture Model with EM Algorithm](https://www.deep-ml.com/problems/341) | medium | 2026-10-04 | [solution](problems/0341-gaussian-mixture-model-with-em-algorithm) |
 | [Gaussian Naive Bayes Classifier](https://www.deep-ml.com/problems/261) | medium | 2026-10-04 | [solution](problems/0261-gaussian-naive-bayes-classifier) |
 | [Generate Random Subsets of a Dataset](https://www.deep-ml.com/problems/33) | medium | 2025-04-06 | [solution](problems/0033-generate-random-subsets-of-a-dataset) |
 | [Generate Sorted Polynomial Features](https://www.deep-ml.com/problems/32) | medium | 2025-04-06 | [solution](problems/0032-generate-sorted-polynomial-features) |
