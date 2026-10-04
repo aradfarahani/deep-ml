@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**256** solved · 256 problems · 0 labs · 0 math
+**257** solved · 257 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -41,6 +41,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Unigram Probability from Corpus](https://www.deep-ml.com/problems/129) | easy | 2025-05-18 | [solution](problems/0129-calculate-unigram-probability-from-corpus) |
 | [Compute Discounted Return](https://www.deep-ml.com/problems/165) | easy | 2025-07-21 | [solution](problems/0165-compute-discounted-return) |
 | [Compute Multi-class Cross-Entropy Loss](https://www.deep-ml.com/problems/134) | easy | 2025-05-25 | [solution](problems/0134-compute-multi-class-cross-entropy-loss) |
+| [Compute Temporal Difference Error](https://www.deep-ml.com/problems/257) | easy | 2026-10-04 | [solution](problems/0257-compute-temporal-difference-error) |
 | [Compute the Cross Product of Two 3D Vectors](https://www.deep-ml.com/problems/118) | easy | 2025-04-07 | [solution](problems/0118-compute-the-cross-product-of-two-3d-vectors) |
 | [Convert RGB Image to Grayscale](https://www.deep-ml.com/problems/237) | easy | 2026-10-02 | [solution](problems/0237-convert-rgb-image-to-grayscale) |
 | [Convert Vector to Diagonal Matrix](https://www.deep-ml.com/problems/35) | easy | 2025-04-07 | [solution](problems/0035-convert-vector-to-diagonal-matrix) |
