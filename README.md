@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**354** solved · 354 problems · 0 labs · 0 math
+**355** solved · 355 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -346,6 +346,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement a Sparse Mixture of Experts Layer](https://www.deep-ml.com/problems/125) | hard | 2025-04-22 | [solution](problems/0125-implement-a-sparse-mixture-of-experts-layer) |
 | [Implement AdaBoost Fit Method](https://www.deep-ml.com/problems/38) | hard | 2025-04-06 | [solution](problems/0038-implement-adaboost-fit-method) |
 | [Implement Bagging Classifier from Scratch](https://www.deep-ml.com/problems/307) | hard | 2026-10-04 | [solution](problems/0307-implement-bagging-classifier-from-scratch) |
+| [Implement Core MDN Residualization](https://www.deep-ml.com/problems/358) | hard | 2026-10-04 | [solution](problems/0358-implement-core-mdn-residualization) |
 | [Implement LLE (Locally Linear Embedding)](https://www.deep-ml.com/problems/351) | hard | 2026-10-04 | [solution](problems/0351-implement-lle-locally-linear-embedding) |
 | [Implement Multi-Head Attention](https://www.deep-ml.com/problems/94) | hard | 2025-04-06 | [solution](problems/0094-implement-multi-head-attention) |
 | [Implement Stacking Classifier](https://www.deep-ml.com/problems/346) | hard | 2026-10-04 | [solution](problems/0346-implement-stacking-classifier) |
