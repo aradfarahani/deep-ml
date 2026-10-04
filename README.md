@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**263** solved · 263 problems · 0 labs · 0 math
+**264** solved · 264 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -63,6 +63,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Gradient Checkpointing](https://www.deep-ml.com/problems/188) | easy | 2026-10-01 | [solution](problems/0188-gradient-checkpointing) |
 | [Grayscale Image Contrast Calculator](https://www.deep-ml.com/problems/82) | easy | 2025-04-07 | [solution](problems/0082-grayscale-image-contrast-calculator) |
 | [Group Relative Advantage for GRPO](https://www.deep-ml.com/problems/224) | easy | 2026-10-02 | [solution](problems/0224-group-relative-advantage-for-grpo) |
+| [Implement 2D Average Pooling](https://www.deep-ml.com/problems/265) | easy | 2026-10-04 | [solution](problems/0265-implement-2d-average-pooling) |
 | [Implement a Simple Residual Block with Shortcut Connection](https://www.deep-ml.com/problems/113) | easy | 2025-04-07 | [solution](problems/0113-implement-a-simple-residual-block-with-shortcut-connection) |
 | [Implement Binary Cross-Entropy Loss](https://www.deep-ml.com/problems/263) | easy | 2026-10-04 | [solution](problems/0263-implement-binary-cross-entropy-loss) |
 | [Implement Compressed Column Sparse Matrix Format (CSC)](https://www.deep-ml.com/problems/67) | easy | 2025-04-07 | [solution](problems/0067-implement-compressed-column-sparse-matrix-format-csc) |
