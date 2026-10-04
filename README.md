@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**268** solved · 268 problems · 0 labs · 0 math
+**269** solved · 269 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -266,6 +266,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement the Conjugate Gradient Method for Solving Linear Systems](https://www.deep-ml.com/problems/63) | hard | 2025-04-06 | [solution](problems/0063-implement-the-conjugate-gradient-method-for-solving-linear-systems) |
 | [Implement the GRPO Objective Function](https://www.deep-ml.com/problems/101) | hard | 2025-04-06 | [solution](problems/0101-implement-the-grpo-objective-function) |
 | [Implementing a Custom Dense Layer in Python](https://www.deep-ml.com/problems/40) | hard | 2025-04-06 | [solution](problems/0040-implementing-a-custom-dense-layer-in-python) |
+| [ML Pipeline DAG Scheduler with Critical Path Analysis](https://www.deep-ml.com/problems/270) | hard | 2026-10-04 | [solution](problems/0270-ml-pipeline-dag-scheduler-with-critical-path-analysis) |
 | [Monte Carlo Tree Search](https://www.deep-ml.com/problems/207) | hard | 2026-10-01 | [solution](problems/0207-monte-carlo-tree-search) |
 | [Non-Maximum Suppression for Object Detection](https://www.deep-ml.com/problems/242) | hard | 2026-10-02 | [solution](problems/0242-non-maximum-suppression-for-object-detection) |
 | [PCA Color Augmentation](https://www.deep-ml.com/problems/191) | hard | 2026-10-01 | [solution](problems/0191-pca-color-augmentation) |
