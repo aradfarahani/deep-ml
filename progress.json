@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T10:09:10.065Z",
+  "generated_at": "2026-10-04T10:09:29.220Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -3835,6 +3835,19 @@
       "last_pushed_at": "2026-10-04T10:09:08.488Z",
       "language": "python",
       "lines": 53
+    },
+    "problem:298": {
+      "kind": "problem",
+      "id": "298",
+      "title": "Implement mHC Forward Pass",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/298",
+      "path": "problems/0298-implement-mhc-forward-pass",
+      "first_solved_at": "2026-10-04T10:09:28.600Z",
+      "last_pushed_at": "2026-10-04T10:09:28.600Z",
+      "language": "python",
+      "lines": 30
     }
   }
 }
