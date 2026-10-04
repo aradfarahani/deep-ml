@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**342** solved · 342 problems · 0 labs · 0 math
+**343** solved · 343 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -242,6 +242,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement mHC Forward Pass](https://www.deep-ml.com/problems/298) | medium | 2026-10-04 | [solution](problems/0298-implement-mhc-forward-pass) |
 | [Implement MuonClip (qk-clip) for Stabilizing Attention](https://www.deep-ml.com/problems/177) | medium | 2025-09-14 | [solution](problems/0177-implement-muonclip-qk-clip-for-stabilizing-attention) |
 | [Implement Neural Memory Update with Surprise and Momentum](https://www.deep-ml.com/problems/267) | medium | 2026-10-04 | [solution](problems/0267-implement-neural-memory-update-with-surprise-and-momentum) |
+| [Implement Out-of-Bag Score Calculation](https://www.deep-ml.com/problems/345) | medium | 2026-10-04 | [solution](problems/0345-implement-out-of-bag-score-calculation) |
 | [Implement Position-wise Feed-Forward Block with Residual and Dropout](https://www.deep-ml.com/problems/178) | medium | 2026-10-01 | [solution](problems/0178-implement-position-wise-feed-forward-block-with-residual-and-dropout) |
 | [Implement Precision-Recall Curve](https://www.deep-ml.com/problems/278) | medium | 2026-10-04 | [solution](problems/0278-implement-precision-recall-curve) |
 | [Implement Prediction Distribution Monitoring](https://www.deep-ml.com/problems/295) | medium | 2026-10-04 | [solution](problems/0295-implement-prediction-distribution-monitoring) |
