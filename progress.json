@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T11:51:09.971Z",
+  "generated_at": "2026-10-04T12:05:15.417Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -5044,6 +5044,19 @@
       "last_pushed_at": "2026-10-04T11:51:09.409Z",
       "language": "python",
       "lines": 43
+    },
+    "problem:392": {
+      "kind": "problem",
+      "id": "392",
+      "title": "Implement Cosine Annealing with Warm Restarts",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/392",
+      "path": "problems/0392-implement-cosine-annealing-with-warm-restarts",
+      "first_solved_at": "2026-10-04T12:05:14.544Z",
+      "last_pushed_at": "2026-10-04T12:05:14.544Z",
+      "language": "python",
+      "lines": 32
     }
   }
 }
