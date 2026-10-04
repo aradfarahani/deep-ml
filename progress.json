@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T10:18:44.272Z",
+  "generated_at": "2026-10-04T10:19:33.697Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -4067,6 +4067,19 @@
       "path": "problems/0315-elo-rating-system-for-model-comparison",
       "first_solved_at": "2026-10-04T10:18:43.532Z",
       "last_pushed_at": "2026-10-04T10:18:43.532Z",
+      "language": "python",
+      "lines": 38
+    },
+    "problem:316": {
+      "kind": "problem",
+      "id": "316",
+      "title": "MMLU Log-Probability Scoring",
+      "difficulty": "medium",
+      "category": "LLM",
+      "url": "https://www.deep-ml.com/problems/316",
+      "path": "problems/0316-mmlu-log-probability-scoring",
+      "first_solved_at": "2026-10-04T10:19:33.030Z",
+      "last_pushed_at": "2026-10-04T10:19:33.030Z",
       "language": "python",
       "lines": 38
     }
