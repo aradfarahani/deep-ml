@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**277** solved · 277 problems · 0 labs · 0 math
+**278** solved · 278 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -202,6 +202,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Precision-Recall Curve](https://www.deep-ml.com/problems/278) | medium | 2026-10-04 | [solution](problems/0278-implement-precision-recall-curve) |
 | [Implement PReLU Forward and Backward Pass](https://www.deep-ml.com/problems/98) | medium | 2025-04-07 | [solution](problems/0098-implement-prelu-forward-and-backward-pass) |
 | [Implement Q-Learning Algorithm for MDPs](https://www.deep-ml.com/problems/133) | medium | 2025-05-18 | [solution](problems/0133-implement-q-learning-algorithm-for-mdps) |
+| [Implement RBF (Gaussian) Kernel Function](https://www.deep-ml.com/problems/280) | medium | 2026-10-04 | [solution](problems/0280-implement-rbf-gaussian-kernel-function) |
 | [Implement Reduced Row Echelon Form (RREF) Function](https://www.deep-ml.com/problems/48) | medium | 2025-04-06 | [solution](problems/0048-implement-reduced-row-echelon-form-rref-function) |
 | [Implement Relativistic Critic Rewards for Adversarial Reasoning](https://www.deep-ml.com/problems/268) | medium | 2026-10-04 | [solution](problems/0268-implement-relativistic-critic-rewards-for-adversarial-reasoning) |
 | [Implement RMSProp Optimizer](https://www.deep-ml.com/problems/200) | medium | 2026-10-01 | [solution](problems/0200-implement-rmsprop-optimizer) |
