@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**362** solved · 362 problems · 0 labs · 0 math
+**363** solved · 363 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -233,6 +233,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Focal Loss for Imbalanced Classification](https://www.deep-ml.com/problems/255) | medium | 2026-10-04 | [solution](problems/0255-implement-focal-loss-for-imbalanced-classification) |
 | [Implement Gated Attention](https://www.deep-ml.com/problems/271) | medium | 2026-10-04 | [solution](problems/0271-implement-gated-attention) |
 | [Implement Gaussian Mixture Model (GMM) E-step](https://www.deep-ml.com/problems/365) | medium | 2026-10-04 | [solution](problems/0365-implement-gaussian-mixture-model-gmm-e-step) |
+| [Implement Gaussian Mixture Model (GMM) M-step](https://www.deep-ml.com/problems/366) | medium | 2026-10-04 | [solution](problems/0366-implement-gaussian-mixture-model-gmm-m-step) |
 | [Implement Gradient Boosting Regressor Step](https://www.deep-ml.com/problems/344) | medium | 2026-10-04 | [solution](problems/0344-implement-gradient-boosting-regressor-step) |
 | [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2025-04-06 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
 | [Implement Grid Search](https://www.deep-ml.com/problems/288) | medium | 2026-10-04 | [solution](problems/0288-implement-grid-search) |
