@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T10:44:12.671Z",
+  "generated_at": "2026-10-04T10:44:49.511Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -4628,6 +4628,19 @@
       "last_pushed_at": "2026-10-04T10:44:11.877Z",
       "language": "python",
       "lines": 32
+    },
+    "problem:360": {
+      "kind": "problem",
+      "id": "360",
+      "title": "MDN with Label Collinearity Control",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/360",
+      "path": "problems/0360-mdn-with-label-collinearity-control",
+      "first_solved_at": "2026-10-04T10:44:46.922Z",
+      "last_pushed_at": "2026-10-04T10:44:46.922Z",
+      "language": "python",
+      "lines": 20
     }
   }
 }
