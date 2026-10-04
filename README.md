@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**384** solved · 384 problems · 0 labs · 0 math
+**385** solved · 385 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -347,6 +347,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Simple Convolutional 2D Layer](https://www.deep-ml.com/problems/41) | medium | 2025-04-06 | [solution](problems/0041-simple-convolutional-2d-layer) |
 | [Simulate Markov Chain Transitions](https://www.deep-ml.com/problems/132) | medium | 2025-05-18 | [solution](problems/0132-simulate-markov-chain-transitions) |
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2025-04-06 | [solution](problems/0025-single-neuron-with-backpropagation) |
+| [Sliding Window Attention](https://www.deep-ml.com/problems/388) | medium | 2026-10-04 | [solution](problems/0388-sliding-window-attention) |
 | [Sobel Edge Detection](https://www.deep-ml.com/problems/241) | medium | 2026-10-02 | [solution](problems/0241-sobel-edge-detection) |
 | [Solve Linear Equations using Jacobi Method](https://www.deep-ml.com/problems/11) | medium | 2025-04-06 | [solution](problems/0011-solve-linear-equations-using-jacobi-method) |
 | [Solve System of Linear Equations Using Cramer's Rule](https://www.deep-ml.com/problems/119) | medium | 2025-04-07 | [solution](problems/0119-solve-system-of-linear-equations-using-cramer-s-rule) |
