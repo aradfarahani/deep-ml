@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T10:44:49.511Z",
+  "generated_at": "2026-10-04T10:45:24.432Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -4641,6 +4641,19 @@
       "last_pushed_at": "2026-10-04T10:44:46.922Z",
       "language": "python",
       "lines": 20
+    },
+    "problem:361": {
+      "kind": "problem",
+      "id": "361",
+      "title": "Fine-Tune Model Weights with RLHF Policy Gradient",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/361",
+      "path": "problems/0361-fine-tune-model-weights-with-rlhf-policy-gradient",
+      "first_solved_at": "2026-10-04T10:45:23.796Z",
+      "last_pushed_at": "2026-10-04T10:45:23.796Z",
+      "language": "python",
+      "lines": 15
     }
   }
 }
