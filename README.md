@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**317** solved · 317 problems · 0 labs · 0 math
+**318** solved · 318 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -35,6 +35,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2025-04-06 | [solution](problems/0004-calculate-mean-by-row-or-column) |
 | [Calculate Model Inference Statistics for Monitoring](https://www.deep-ml.com/problems/248) | easy | 2026-10-02 | [solution](problems/0248-calculate-model-inference-statistics-for-monitoring) |
 | [Calculate P50/P95/P99 Latency Percentiles](https://www.deep-ml.com/problems/293) | easy | 2026-10-04 | [solution](problems/0293-calculate-p50-p95-p99-latency-percentiles) |
+| [Calculate Perplexity for Language Models](https://www.deep-ml.com/problems/320) | easy | 2026-10-04 | [solution](problems/0320-calculate-perplexity-for-language-models) |
 | [Calculate Portfolio Variance](https://www.deep-ml.com/problems/183) | easy | 2025-09-14 | [solution](problems/0183-calculate-portfolio-variance) |
 | [Calculate R-squared for Regression Analysis](https://www.deep-ml.com/problems/69) | easy | 2025-04-07 | [solution](problems/0069-calculate-r-squared-for-regression-analysis) |
 | [Calculate Root Mean Square Error (RMSE)](https://www.deep-ml.com/problems/71) | easy | 2025-04-07 | [solution](problems/0071-calculate-root-mean-square-error-rmse) |
