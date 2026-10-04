@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T11:34:34.031Z",
+  "generated_at": "2026-10-04T11:35:11.271Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -4979,6 +4979,19 @@
       "last_pushed_at": "2026-10-04T11:34:33.411Z",
       "language": "python",
       "lines": 37
+    },
+    "problem:387": {
+      "kind": "problem",
+      "id": "387",
+      "title": "Triplet Margin Loss",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/387",
+      "path": "problems/0387-triplet-margin-loss",
+      "first_solved_at": "2026-10-04T11:35:10.366Z",
+      "last_pushed_at": "2026-10-04T11:35:10.366Z",
+      "language": "python",
+      "lines": 34
     }
   }
 }
