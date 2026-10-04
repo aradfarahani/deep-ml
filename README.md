@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**346** solved · 346 problems · 0 labs · 0 math
+**347** solved · 347 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -160,6 +160,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Davies-Bouldin Index for Clustering Evaluation](https://www.deep-ml.com/problems/256) | medium | 2026-10-04 | [solution](problems/0256-calculate-davies-bouldin-index-for-clustering-evaluation) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2025-04-06 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Calculate Expected Calibration Error (ECE)](https://www.deep-ml.com/problems/260) | medium | 2026-10-04 | [solution](problems/0260-calculate-expected-calibration-error-ece) |
+| [Calculate Explained Variance Ratio for PCA](https://www.deep-ml.com/problems/350) | medium | 2026-10-04 | [solution](problems/0350-calculate-explained-variance-ratio-for-pca) |
 | [Calculate KL Divergence Between Two Multivariate Gaussian Distributions](https://www.deep-ml.com/problems/136) | medium | 2025-05-29 | [solution](problems/0136-calculate-kl-divergence-between-two-multivariate-gaussian-distributions) |
 | [Calculate Matthews Correlation Coefficient](https://www.deep-ml.com/problems/279) | medium | 2026-10-04 | [solution](problems/0279-calculate-matthews-correlation-coefficient) |
 | [Calculate Number of Parameters in Neural Network](https://www.deep-ml.com/problems/291) | medium | 2026-10-04 | [solution](problems/0291-calculate-number-of-parameters-in-neural-network) |
