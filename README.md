@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**377** solved · 377 problems · 0 labs · 0 math
+**378** solved · 378 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -337,6 +337,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Quotient Rule for Derivatives](https://www.deep-ml.com/problems/312) | medium | 2026-10-04 | [solution](problems/0312-quotient-rule-for-derivatives) |
 | [RAFT: Iterative Reward-Ranked Fine-Tuning Loop](https://www.deep-ml.com/problems/379) | medium | 2026-10-04 | [solution](problems/0379-raft-iterative-reward-ranked-fine-tuning-loop) |
 | [Reconstruction Error from PCA](https://www.deep-ml.com/problems/353) | medium | 2026-10-04 | [solution](problems/0353-reconstruction-error-from-pca) |
+| [Rotary Positional Embeddings (RoPE)](https://www.deep-ml.com/problems/381) | medium | 2026-10-04 | [solution](problems/0381-rotary-positional-embeddings-rope) |
 | [Rubric-Based LLM Judge Evaluation](https://www.deep-ml.com/problems/317) | medium | 2026-10-04 | [solution](problems/0317-rubric-based-llm-judge-evaluation) |
 | [Self-Critique Loss for Constitutional AI](https://www.deep-ml.com/problems/863) | medium | 2026-06-18 | [solution](problems/0863-self-critique-loss-for-constitutional-ai) |
 | [Silhouette Score for Clustering Evaluation](https://www.deep-ml.com/problems/254) | medium | 2026-10-04 | [solution](problems/0254-silhouette-score-for-clustering-evaluation) |
