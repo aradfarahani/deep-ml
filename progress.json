@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T10:43:42.411Z",
+  "generated_at": "2026-10-04T10:44:12.671Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -4615,6 +4615,19 @@
       "last_pushed_at": "2026-10-04T10:43:41.589Z",
       "language": "python",
       "lines": 11
+    },
+    "problem:359": {
+      "kind": "problem",
+      "id": "359",
+      "title": "Distance Correlation for Measuring Metadata Dependence",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/359",
+      "path": "problems/0359-distance-correlation-for-measuring-metadata-dependence",
+      "first_solved_at": "2026-10-04T10:44:11.877Z",
+      "last_pushed_at": "2026-10-04T10:44:11.877Z",
+      "language": "python",
+      "lines": 32
     }
   }
 }
