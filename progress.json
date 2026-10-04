@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T09:22:37.618Z",
+  "generated_at": "2026-10-04T09:23:09.269Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -3315,6 +3315,19 @@
       "last_pushed_at": "2026-10-04T09:22:40.685Z",
       "language": "python",
       "lines": 39
+    },
+    "problem:256": {
+      "kind": "problem",
+      "id": "256",
+      "title": "Calculate Davies-Bouldin Index for Clustering Evaluation",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/256",
+      "path": "problems/0256-calculate-davies-bouldin-index-for-clustering-evaluation",
+      "first_solved_at": "2026-10-04T09:23:12.115Z",
+      "last_pushed_at": "2026-10-04T09:23:12.115Z",
+      "language": "python",
+      "lines": 50
     }
   }
 }
