@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T15:21:27.489Z",
+  "generated_at": "2026-10-05T15:22:16.695Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -5590,6 +5590,19 @@
       "last_pushed_at": "2026-10-05T15:21:26.762Z",
       "language": "python",
       "lines": 28
+    },
+    "problem:434": {
+      "kind": "problem",
+      "id": "434",
+      "title": "Prefix Cache Hit Rate Calculator",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/434",
+      "path": "problems/0434-prefix-cache-hit-rate-calculator",
+      "first_solved_at": "2026-10-05T15:22:15.964Z",
+      "last_pushed_at": "2026-10-05T15:22:15.964Z",
+      "language": "python",
+      "lines": 30
     }
   }
 }
