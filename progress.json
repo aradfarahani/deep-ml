@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T15:45:03.995Z",
+  "generated_at": "2026-10-05T15:45:48.196Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -5850,6 +5850,19 @@
       "last_pushed_at": "2026-10-05T15:45:03.095Z",
       "language": "python",
       "lines": 35
+    },
+    "problem:454": {
+      "kind": "problem",
+      "id": "454",
+      "title": "Autoregressive Video Chunk FPS Calculator",
+      "difficulty": "easy",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/problems/454",
+      "path": "problems/0454-autoregressive-video-chunk-fps-calculator",
+      "first_solved_at": "2026-10-05T15:45:47.277Z",
+      "last_pushed_at": "2026-10-05T15:45:47.277Z",
+      "language": "python",
+      "lines": 29
     }
   }
 }
