@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**412** solved · 412 problems · 0 labs · 0 math
+**413** solved · 413 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -190,6 +190,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Classifier-Free Guidance for Conditional Diffusion](https://www.deep-ml.com/problems/397) | medium | 2026-10-05 | [solution](problems/0397-classifier-free-guidance-for-conditional-diffusion) |
 | [Classify Critical Points Using Hessian Eigenvalues](https://www.deep-ml.com/problems/311) | medium | 2026-10-04 | [solution](problems/0311-classify-critical-points-using-hessian-eigenvalues) |
 | [Code Execution Verifier for Programming Benchmarks](https://www.deep-ml.com/problems/324) | medium | 2026-10-04 | [solution](problems/0324-code-execution-verifier-for-programming-benchmarks) |
+| [Compute Attention Memory Traffic and FLOPs](https://www.deep-ml.com/problems/416) | medium | 2026-10-05 | [solution](problems/0416-compute-attention-memory-traffic-and-flops) |
 | [Compute Confusion Matrix with Normalization](https://www.deep-ml.com/problems/193) | medium | 2026-10-01 | [solution](problems/0193-compute-confusion-matrix-with-normalization) |
 | [Compute Covariance from Joint Probability Mass Function](https://www.deep-ml.com/problems/243) | medium | 2026-10-02 | [solution](problems/0243-compute-covariance-from-joint-probability-mass-function) |
 | [Compute Orthonormal Basis for 2D Vectors](https://www.deep-ml.com/problems/117) | medium | 2025-04-07 | [solution](problems/0117-compute-orthonormal-basis-for-2d-vectors) |
