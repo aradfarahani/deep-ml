@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T15:17:39.338Z",
+  "generated_at": "2026-10-05T15:17:59.258Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -5499,6 +5499,19 @@
       "last_pushed_at": "2026-10-05T15:17:38.328Z",
       "language": "python",
       "lines": 33
+    },
+    "problem:427": {
+      "kind": "problem",
+      "id": "427",
+      "title": "FP4 Quantization with Microscaling (MXFP4)",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/427",
+      "path": "problems/0427-fp4-quantization-with-microscaling-mxfp4",
+      "first_solved_at": "2026-10-05T15:17:58.240Z",
+      "last_pushed_at": "2026-10-05T15:17:58.240Z",
+      "language": "python",
+      "lines": 47
     }
   }
 }
