@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T15:37:36.333Z",
+  "generated_at": "2026-10-05T15:39:49.465Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -5783,6 +5783,19 @@
       "path": "problems/0448-context-parallelism-with-ring-attention-for-video-models",
       "first_solved_at": "2026-10-05T15:37:35.267Z",
       "last_pushed_at": "2026-10-05T15:37:35.267Z",
+      "language": "python",
+      "lines": 45
+    },
+    "problem:449": {
+      "kind": "problem",
+      "id": "449",
+      "title": "Autoscaling Replica Simulator with SLA Tracking",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/449",
+      "path": "problems/0449-autoscaling-replica-simulator-with-sla-tracking",
+      "first_solved_at": "2026-10-05T15:39:48.832Z",
+      "last_pushed_at": "2026-10-05T15:39:48.832Z",
       "language": "python",
       "lines": 45
     }
