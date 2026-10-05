@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**424** solved · 424 problems · 0 labs · 0 math
+**425** solved · 425 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -424,6 +424,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Multi-Head Latent Attention (MLA)](https://www.deep-ml.com/problems/405) | hard | 2026-10-05 | [solution](problems/0405-multi-head-latent-attention-mla) |
 | [Non-Maximum Suppression for Object Detection](https://www.deep-ml.com/problems/242) | hard | 2026-10-02 | [solution](problems/0242-non-maximum-suppression-for-object-detection) |
 | [NoPE (No Positional Embedding) with iRoPE Attention](https://www.deep-ml.com/problems/406) | hard | 2026-10-05 | [solution](problems/0406-nope-no-positional-embedding-with-irope-attention) |
+| [Number Format Precision Comparison (FP16 vs BF16 vs FP8 vs FP4)](https://www.deep-ml.com/problems/428) | hard | 2026-10-05 | [solution](problems/0428-number-format-precision-comparison-fp16-vs-bf16-vs-fp8-vs-fp4) |
 | [PCA Color Augmentation](https://www.deep-ml.com/problems/191) | hard | 2026-10-01 | [solution](problems/0191-pca-color-augmentation) |
 | [Pegasos Kernel SVM Implementation](https://www.deep-ml.com/problems/21) | hard | 2025-04-06 | [solution](problems/0021-pegasos-kernel-svm-implementation) |
 | [Policy Gradient with REINFORCE](https://www.deep-ml.com/problems/122) | hard | 2025-04-15 | [solution](problems/0122-policy-gradient-with-reinforce) |

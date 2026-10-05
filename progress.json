@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T15:17:59.258Z",
+  "generated_at": "2026-10-05T15:19:25.476Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -5512,6 +5512,19 @@
       "last_pushed_at": "2026-10-05T15:17:58.240Z",
       "language": "python",
       "lines": 47
+    },
+    "problem:428": {
+      "kind": "problem",
+      "id": "428",
+      "title": "Number Format Precision Comparison (FP16 vs BF16 vs FP8 vs FP4)",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/428",
+      "path": "problems/0428-number-format-precision-comparison-fp16-vs-bf16-vs-fp8-vs-fp4",
+      "first_solved_at": "2026-10-05T15:19:24.150Z",
+      "last_pushed_at": "2026-10-05T15:19:24.150Z",
+      "language": "python",
+      "lines": 104
     }
   }
 }
