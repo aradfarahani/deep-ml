@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**463** solved · 463 problems · 0 labs · 0 math
+**464** solved · 464 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -161,6 +161,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Analyze Canary Deployment Health for Model Rollout](https://www.deep-ml.com/problems/251) | medium | 2026-10-04 | [solution](problems/0251-analyze-canary-deployment-health-for-model-rollout) |
 | [Apriori Frequent Itemset Mining](https://www.deep-ml.com/problems/144) | medium | 2025-06-26 | [solution](problems/0144-apriori-frequent-itemset-mining) |
 | [ASR Real-Time Factor for Parallel Chunk Transcription](https://www.deep-ml.com/problems/444) | medium | 2026-10-05 | [solution](problems/0444-asr-real-time-factor-for-parallel-chunk-transcription) |
+| [Asynchronous Dynamic Programming for Value Iteration](https://www.deep-ml.com/problems/468) | medium | 2026-10-05 | [solution](problems/0468-asynchronous-dynamic-programming-for-value-iteration) |
 | [Autoregressive Token Generation with Block-Size Context Cropping](https://www.deep-ml.com/problems/1082) | medium | 2026-06-18 | [solution](problems/1082-autoregressive-token-generation-with-block-size-context-cropping) |
 | [Autoscaling Replica Simulator with SLA Tracking](https://www.deep-ml.com/problems/449) | medium | 2026-10-05 | [solution](problems/0449-autoscaling-replica-simulator-with-sla-tracking) |
 | [Bayesian Inference for Beta-Binomial Model](https://www.deep-ml.com/problems/213) | medium | 2026-10-02 | [solution](problems/0213-bayesian-inference-for-beta-binomial-model) |
