@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T15:26:00.491Z",
+  "generated_at": "2026-10-05T15:26:24.328Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -5681,6 +5681,19 @@
       "last_pushed_at": "2026-10-05T15:25:59.855Z",
       "language": "python",
       "lines": 62
+    },
+    "problem:441": {
+      "kind": "problem",
+      "id": "441",
+      "title": "Chunked Prefill Scheduling Alongside Decode",
+      "difficulty": "medium",
+      "category": "MLOps",
+      "url": "https://www.deep-ml.com/problems/441",
+      "path": "problems/0441-chunked-prefill-scheduling-alongside-decode",
+      "first_solved_at": "2026-10-05T15:26:23.742Z",
+      "last_pushed_at": "2026-10-05T15:26:23.742Z",
+      "language": "python",
+      "lines": 44
     }
   }
 }
