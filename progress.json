@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T15:19:44.757Z",
+  "generated_at": "2026-10-05T15:20:10.796Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -5538,6 +5538,19 @@
       "last_pushed_at": "2026-10-05T15:19:43.646Z",
       "language": "python",
       "lines": 42
+    },
+    "problem:430": {
+      "kind": "problem",
+      "id": "430",
+      "title": "Draft-Target Speculative Decoding Simulation",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/430",
+      "path": "problems/0430-draft-target-speculative-decoding-simulation",
+      "first_solved_at": "2026-10-05T15:20:09.766Z",
+      "last_pushed_at": "2026-10-05T15:20:09.766Z",
+      "language": "python",
+      "lines": 45
     }
   }
 }
