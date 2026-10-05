@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T15:26:52.910Z",
+  "generated_at": "2026-10-05T15:34:56.767Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -5707,6 +5707,19 @@
       "last_pushed_at": "2026-10-05T15:26:52.302Z",
       "language": "python",
       "lines": 41
+    },
+    "problem:443": {
+      "kind": "problem",
+      "id": "443",
+      "title": "Embedding Quantization Quality via Cosine Similarity",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/443",
+      "path": "problems/0443-embedding-quantization-quality-via-cosine-similarity",
+      "first_solved_at": "2026-10-05T15:34:55.623Z",
+      "last_pushed_at": "2026-10-05T15:34:55.623Z",
+      "language": "python",
+      "lines": 50
     }
   }
 }

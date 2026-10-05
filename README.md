@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**439** solved · 439 problems · 0 labs · 0 math
+**440** solved · 440 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -229,6 +229,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [EAGLE-Style Draft Model from Hidden States](https://www.deep-ml.com/problems/431) | medium | 2026-10-05 | [solution](problems/0431-eagle-style-draft-model-from-hidden-states) |
 | [Elastic Net Regression via Gradient Descent](https://www.deep-ml.com/problems/139) | medium | 2025-06-26 | [solution](problems/0139-elastic-net-regression-via-gradient-descent) |
 | [Elo Rating System for Model Comparison](https://www.deep-ml.com/problems/315) | medium | 2026-10-04 | [solution](problems/0315-elo-rating-system-for-model-comparison) |
+| [Embedding Quantization Quality via Cosine Similarity](https://www.deep-ml.com/problems/443) | medium | 2026-10-05 | [solution](problems/0443-embedding-quantization-quality-via-cosine-similarity) |
 | [End-to-End Latency Decomposition](https://www.deep-ml.com/problems/413) | medium | 2026-10-05 | [solution](problems/0413-end-to-end-latency-decomposition) |
 | [Engram Context-Aware Gating](https://www.deep-ml.com/problems/327) | medium | 2026-10-04 | [solution](problems/0327-engram-context-aware-gating) |
 | [Epsilon-Greedy Action Selection for n-Armed Bandit](https://www.deep-ml.com/problems/158) | medium | 2025-07-21 | [solution](problems/0158-epsilon-greedy-action-selection-for-n-armed-bandit) |
