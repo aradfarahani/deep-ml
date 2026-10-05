@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T15:01:46.782Z",
+  "generated_at": "2026-10-05T15:02:09.038Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -5278,6 +5278,19 @@
       "last_pushed_at": "2026-10-05T15:01:45.574Z",
       "language": "python",
       "lines": 55
+    },
+    "problem:410": {
+      "kind": "problem",
+      "id": "410",
+      "title": "Speculative Decoding End-to-End Simulation",
+      "difficulty": "hard",
+      "category": "LLM",
+      "url": "https://www.deep-ml.com/problems/410",
+      "path": "problems/0410-speculative-decoding-end-to-end-simulation",
+      "first_solved_at": "2026-10-05T15:02:07.992Z",
+      "last_pushed_at": "2026-10-05T15:02:07.992Z",
+      "language": "python",
+      "lines": 46
     }
   }
 }

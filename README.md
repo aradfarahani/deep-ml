@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**406** solved · 406 problems · 0 labs · 0 math
+**407** solved · 407 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -413,6 +413,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Positional Encoding Calculator](https://www.deep-ml.com/problems/85) | hard | 2025-04-06 | [solution](problems/0085-positional-encoding-calculator) |
 | [QR Decomposition](https://www.deep-ml.com/problems/201) | hard | 2026-10-01 | [solution](problems/0201-qr-decomposition) |
 | [Singular Value Decomposition (SVD) of 2x2 Matrix](https://www.deep-ml.com/problems/12) | hard | 2025-04-06 | [solution](problems/0012-singular-value-decomposition-svd-of-2x2-matrix) |
+| [Speculative Decoding End-to-End Simulation](https://www.deep-ml.com/problems/410) | hard | 2026-10-05 | [solution](problems/0410-speculative-decoding-end-to-end-simulation) |
 | [SVD of a 2x2 Matrix](https://www.deep-ml.com/problems/28) | hard | 2025-04-06 | [solution](problems/0028-svd-of-a-2x2-matrix) |
 | [TD(λ) with Eligibility Traces](https://www.deep-ml.com/problems/274) | hard | 2026-10-04 | [solution](problems/0274-td-with-eligibility-traces) |
 | [Train a Simple GAN on 1D Gaussian Data](https://www.deep-ml.com/problems/174) | hard | 2025-09-14 | [solution](problems/0174-train-a-simple-gan-on-1d-gaussian-data) |
