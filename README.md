@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**455** solved · 455 problems · 0 labs · 0 math
+**456** solved · 456 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -253,6 +253,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [First-Visit Monte Carlo Prediction](https://www.deep-ml.com/problems/272) | medium | 2026-10-04 | [solution](problems/0272-first-visit-monte-carlo-prediction) |
 | [Forward & Backward Diffusion Process](https://www.deep-ml.com/problems/304) | medium | 2026-10-04 | [solution](problems/0304-forward-backward-diffusion-process) |
 | [Forward Diffusion Process](https://www.deep-ml.com/problems/303) | medium | 2026-10-04 | [solution](problems/0303-forward-diffusion-process) |
+| [Frame-Aware Corrupt for Drift Simulation](https://www.deep-ml.com/problems/459) | medium | 2026-10-05 | [solution](problems/0459-frame-aware-corrupt-for-drift-simulation) |
 | [Gauss-Seidel Method for Solving Linear Systems](https://www.deep-ml.com/problems/57) | medium | 2025-04-07 | [solution](problems/0057-gauss-seidel-method-for-solving-linear-systems) |
 | [Gaussian Elimination for Solving Linear Systems](https://www.deep-ml.com/problems/58) | medium | 2025-04-07 | [solution](problems/0058-gaussian-elimination-for-solving-linear-systems) |
 | [Gaussian Mixture Model with EM Algorithm](https://www.deep-ml.com/problems/341) | medium | 2026-10-04 | [solution](problems/0341-gaussian-mixture-model-with-em-algorithm) |

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T15:47:48.138Z",
+  "generated_at": "2026-10-05T15:48:17.187Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -5915,6 +5915,19 @@
       "last_pushed_at": "2026-10-05T15:47:47.262Z",
       "language": "python",
       "lines": 13
+    },
+    "problem:459": {
+      "kind": "problem",
+      "id": "459",
+      "title": "Frame-Aware Corrupt for Drift Simulation",
+      "difficulty": "medium",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/problems/459",
+      "path": "problems/0459-frame-aware-corrupt-for-drift-simulation",
+      "first_solved_at": "2026-10-05T15:48:16.339Z",
+      "last_pushed_at": "2026-10-05T15:48:16.339Z",
+      "language": "python",
+      "lines": 41
     }
   }
 }
