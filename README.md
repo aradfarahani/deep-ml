@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**428** solved · 428 problems · 0 labs · 0 math
+**429** solved · 429 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -352,6 +352,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Muon Optimizer Step with Matrix Preconditioning](https://www.deep-ml.com/problems/170) | medium | 2025-07-21 | [solution](problems/0170-muon-optimizer-step-with-matrix-preconditioning) |
 | [Muon Optimizer Update with Newton-Schulz Iteration](https://www.deep-ml.com/problems/172) | medium | 2025-09-14 | [solution](problems/0172-muon-optimizer-update-with-newton-schulz-iteration) |
 | [Mutual Information](https://www.deep-ml.com/problems/204) | medium | 2026-10-01 | [solution](problems/0204-mutual-information) |
+| [N-gram Speculation Dictionary Construction and Lookup](https://www.deep-ml.com/problems/432) | medium | 2026-10-05 | [solution](problems/0432-n-gram-speculation-dictionary-construction-and-lookup) |
 | [n-Step TD Prediction](https://www.deep-ml.com/problems/273) | medium | 2026-10-04 | [solution](problems/0273-n-step-td-prediction) |
 | [Negative Binomial Distribution Probability](https://www.deep-ml.com/problems/247) | medium | 2026-10-02 | [solution](problems/0247-negative-binomial-distribution-probability) |
 | [Newton's Method for Optimization](https://www.deep-ml.com/problems/221) | medium | 2026-10-02 | [solution](problems/0221-newton-s-method-for-optimization) |
