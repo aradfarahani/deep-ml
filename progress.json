@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T15:45:48.196Z",
+  "generated_at": "2026-10-05T15:46:38.787Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -5863,6 +5863,19 @@
       "last_pushed_at": "2026-10-05T15:45:47.277Z",
       "language": "python",
       "lines": 29
+    },
+    "problem:455": {
+      "kind": "problem",
+      "id": "455",
+      "title": "Historical Context Compression Ratio",
+      "difficulty": "easy",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/problems/455",
+      "path": "problems/0455-historical-context-compression-ratio",
+      "first_solved_at": "2026-10-05T15:46:37.896Z",
+      "last_pushed_at": "2026-10-05T15:46:37.896Z",
+      "language": "python",
+      "lines": 43
     }
   }
 }
