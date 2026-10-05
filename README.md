@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**396** solved · 396 problems · 0 labs · 0 math
+**397** solved · 397 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -335,6 +335,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [n-Step TD Prediction](https://www.deep-ml.com/problems/273) | medium | 2026-10-04 | [solution](problems/0273-n-step-td-prediction) |
 | [Negative Binomial Distribution Probability](https://www.deep-ml.com/problems/247) | medium | 2026-10-02 | [solution](problems/0247-negative-binomial-distribution-probability) |
 | [Newton's Method for Optimization](https://www.deep-ml.com/problems/221) | medium | 2026-10-02 | [solution](problems/0221-newton-s-method-for-optimization) |
+| [Noise Prediction Loss for Diffusion Training](https://www.deep-ml.com/problems/400) | medium | 2026-10-05 | [solution](problems/0400-noise-prediction-loss-for-diffusion-training) |
 | [Normal Distribution PDF Calculator](https://www.deep-ml.com/problems/80) | medium | 2025-04-07 | [solution](problems/0080-normal-distribution-pdf-calculator) |
 | [Numerical Gradient Checking](https://www.deep-ml.com/problems/313) | medium | 2026-10-04 | [solution](problems/0313-numerical-gradient-checking) |
 | [Optical Flow EPE with Masks (OmniWorld-style metric)](https://www.deep-ml.com/problems/185) | medium | 2026-10-01 | [solution](problems/0185-optical-flow-epe-with-masks-omniworld-style-metric) |
