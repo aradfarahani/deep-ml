@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**453** solved · 453 problems · 0 labs · 0 math
+**454** solved · 454 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -267,6 +267,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Hypergeometric Distribution PMF](https://www.deep-ml.com/problems/245) | medium | 2026-10-02 | [solution](problems/0245-hypergeometric-distribution-pmf) |
 | [Implement Adam Optimization Algorithm](https://www.deep-ml.com/problems/49) | medium | 2025-04-07 | [solution](problems/0049-implement-adam-optimization-algorithm) |
 | [Implement AdamW Optimizer Step](https://www.deep-ml.com/problems/169) | medium | 2025-07-21 | [solution](problems/0169-implement-adamw-optimizer-step) |
+| [Implement Attention Sink Detection](https://www.deep-ml.com/problems/457) | medium | 2026-10-05 | [solution](problems/0457-implement-attention-sink-detection) |
 | [Implement Batch Normalization for BCHW Input](https://www.deep-ml.com/problems/115) | medium | 2025-04-07 | [solution](problems/0115-implement-batch-normalization-for-bchw-input) |
 | [Implement Cosine Annealing with Warm Restarts](https://www.deep-ml.com/problems/392) | medium | 2026-10-04 | [solution](problems/0392-implement-cosine-annealing-with-warm-restarts) |
 | [Implement DBSCAN Clustering Algorithm](https://www.deep-ml.com/problems/259) | medium | 2026-10-04 | [solution](problems/0259-implement-dbscan-clustering-algorithm) |
