@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**409** solved · 409 problems · 0 labs · 0 math
+**410** solved · 410 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -218,6 +218,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Dropout Layer](https://www.deep-ml.com/problems/151) | medium | 2025-07-21 | [solution](problems/0151-dropout-layer) |
 | [Elastic Net Regression via Gradient Descent](https://www.deep-ml.com/problems/139) | medium | 2025-06-26 | [solution](problems/0139-elastic-net-regression-via-gradient-descent) |
 | [Elo Rating System for Model Comparison](https://www.deep-ml.com/problems/315) | medium | 2026-10-04 | [solution](problems/0315-elo-rating-system-for-model-comparison) |
+| [End-to-End Latency Decomposition](https://www.deep-ml.com/problems/413) | medium | 2026-10-05 | [solution](problems/0413-end-to-end-latency-decomposition) |
 | [Engram Context-Aware Gating](https://www.deep-ml.com/problems/327) | medium | 2026-10-04 | [solution](problems/0327-engram-context-aware-gating) |
 | [Epsilon-Greedy Action Selection for n-Armed Bandit](https://www.deep-ml.com/problems/158) | medium | 2025-07-21 | [solution](problems/0158-epsilon-greedy-action-selection-for-n-armed-bandit) |
 | [Evaluate Expected Value in a Markov Decision Process](https://www.deep-ml.com/problems/166) | medium | 2025-07-21 | [solution](problems/0166-evaluate-expected-value-in-a-markov-decision-process) |
