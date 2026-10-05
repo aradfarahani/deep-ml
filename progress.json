@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T15:40:49.638Z",
+  "generated_at": "2026-10-05T15:44:36.642Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -5824,6 +5824,19 @@
       "last_pushed_at": "2026-10-05T15:40:48.799Z",
       "language": "python",
       "lines": 24
+    },
+    "problem:452": {
+      "kind": "problem",
+      "id": "452",
+      "title": "Continuous Batching vs Static Batching Throughput Comparison",
+      "difficulty": "medium",
+      "category": "MLOps",
+      "url": "https://www.deep-ml.com/problems/452",
+      "path": "problems/0452-continuous-batching-vs-static-batching-throughput-comparison",
+      "first_solved_at": "2026-10-05T15:44:35.816Z",
+      "last_pushed_at": "2026-10-05T15:44:35.816Z",
+      "language": "python",
+      "lines": 51
     }
   }
 }
