@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**390** solved · 390 problems · 0 labs · 0 math
+**391** solved · 391 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -383,6 +383,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Core MDN Residualization](https://www.deep-ml.com/problems/358) | hard | 2026-10-04 | [solution](problems/0358-implement-core-mdn-residualization) |
 | [Implement LLE (Locally Linear Embedding)](https://www.deep-ml.com/problems/351) | hard | 2026-10-04 | [solution](problems/0351-implement-lle-locally-linear-embedding) |
 | [Implement Multi-Head Attention](https://www.deep-ml.com/problems/94) | hard | 2025-04-06 | [solution](problems/0094-implement-multi-head-attention) |
+| [Implement Speculative Decoding Verification](https://www.deep-ml.com/problems/394) | hard | 2026-10-05 | [solution](problems/0394-implement-speculative-decoding-verification) |
 | [Implement Stacking Classifier](https://www.deep-ml.com/problems/346) | hard | 2026-10-04 | [solution](problems/0346-implement-stacking-classifier) |
 | [Implement the Conjugate Gradient Method for Solving Linear Systems](https://www.deep-ml.com/problems/63) | hard | 2025-04-06 | [solution](problems/0063-implement-the-conjugate-gradient-method-for-solving-linear-systems) |
 | [Implement the GRPO Objective Function](https://www.deep-ml.com/problems/101) | hard | 2025-04-06 | [solution](problems/0101-implement-the-grpo-objective-function) |
