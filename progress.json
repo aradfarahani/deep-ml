@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T15:09:00.201Z",
+  "generated_at": "2026-10-05T15:10:19.054Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -5408,6 +5408,19 @@
       "last_pushed_at": "2026-10-05T15:08:59.139Z",
       "language": "python",
       "lines": 52
+    },
+    "problem:420": {
+      "kind": "problem",
+      "id": "420",
+      "title": "Latent Space Patchification for Diffusion Transformers",
+      "difficulty": "medium",
+      "category": "Inference",
+      "url": "https://www.deep-ml.com/problems/420",
+      "path": "problems/0420-latent-space-patchification-for-diffusion-transformers",
+      "first_solved_at": "2026-10-05T15:10:17.909Z",
+      "last_pushed_at": "2026-10-05T15:10:17.909Z",
+      "language": "python",
+      "lines": 44
     }
   }
 }
