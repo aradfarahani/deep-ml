@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T15:24:47.886Z",
+  "generated_at": "2026-10-05T15:25:33.829Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -5655,6 +5655,19 @@
       "last_pushed_at": "2026-10-05T15:24:47.244Z",
       "language": "python",
       "lines": 41
+    },
+    "problem:439": {
+      "kind": "problem",
+      "id": "439",
+      "title": "Expert Parallelism Token Routing and Communication Cost",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/439",
+      "path": "problems/0439-expert-parallelism-token-routing-and-communication-cost",
+      "first_solved_at": "2026-10-05T15:25:33.226Z",
+      "last_pushed_at": "2026-10-05T15:25:33.226Z",
+      "language": "python",
+      "lines": 59
     }
   }
 }
