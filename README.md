@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**458** solved · 458 problems · 0 labs · 0 math
+**459** solved · 459 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -419,6 +419,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Train a Paris-Style Decentralized Expert Model](https://www.deep-ml.com/problems/335) | medium | 2026-10-04 | [solution](problems/0335-train-a-paris-style-decentralized-expert-model) |
 | [Triplet Margin Loss](https://www.deep-ml.com/problems/387) | medium | 2026-10-04 | [solution](problems/0387-triplet-margin-loss) |
 | [TTS Concurrent Real-Time Stream Capacity](https://www.deep-ml.com/problems/445) | medium | 2026-10-05 | [solution](problems/0445-tts-concurrent-real-time-stream-capacity) |
+| [Unified History Injection for Autoregressive Video Diffusion](https://www.deep-ml.com/problems/463) | medium | 2026-10-05 | [solution](problems/0463-unified-history-injection-for-autoregressive-video-diffusion) |
 | [UniPC Predictor-Corrector Step](https://www.deep-ml.com/problems/462) | medium | 2026-10-05 | [solution](problems/0462-unipc-predictor-corrector-step) |
 | [Video Generation Latent Space Memory Estimation](https://www.deep-ml.com/problems/446) | medium | 2026-10-05 | [solution](problems/0446-video-generation-latent-space-memory-estimation) |
 | [Warmup + Cosine Decay Schedule](https://www.deep-ml.com/problems/196) | medium | 2026-10-01 | [solution](problems/0196-warmup-cosine-decay-schedule) |
