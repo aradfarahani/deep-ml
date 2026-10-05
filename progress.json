@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T14:52:27.664Z",
+  "generated_at": "2026-10-05T14:52:48.247Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -5083,6 +5083,19 @@
       "last_pushed_at": "2026-10-05T14:52:26.521Z",
       "language": "python",
       "lines": 50
+    },
+    "problem:395": {
+      "kind": "problem",
+      "id": "395",
+      "title": "DDPM Noise Schedule (Linear Beta Schedule)",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/395",
+      "path": "problems/0395-ddpm-noise-schedule-linear-beta-schedule",
+      "first_solved_at": "2026-10-05T14:52:46.833Z",
+      "last_pushed_at": "2026-10-05T14:52:46.833Z",
+      "language": "python",
+      "lines": 27
     }
   }
 }
