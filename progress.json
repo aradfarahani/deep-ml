@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T15:36:37.508Z",
+  "generated_at": "2026-10-05T15:37:13.000Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -5759,6 +5759,19 @@
       "last_pushed_at": "2026-10-05T15:36:36.092Z",
       "language": "python",
       "lines": 35
+    },
+    "problem:447": {
+      "kind": "problem",
+      "id": "447",
+      "title": "Classifier-Free Guidance Skip Speedup Calculator",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/447",
+      "path": "problems/0447-classifier-free-guidance-skip-speedup-calculator",
+      "first_solved_at": "2026-10-05T15:37:11.699Z",
+      "last_pushed_at": "2026-10-05T15:37:11.699Z",
+      "language": "python",
+      "lines": 67
     }
   }
 }
