@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T15:37:13.000Z",
+  "generated_at": "2026-10-05T15:37:36.333Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -5772,6 +5772,19 @@
       "last_pushed_at": "2026-10-05T15:37:11.699Z",
       "language": "python",
       "lines": 67
+    },
+    "problem:448": {
+      "kind": "problem",
+      "id": "448",
+      "title": "Context Parallelism with Ring Attention for Video Models",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/448",
+      "path": "problems/0448-context-parallelism-with-ring-attention-for-video-models",
+      "first_solved_at": "2026-10-05T15:37:35.267Z",
+      "last_pushed_at": "2026-10-05T15:37:35.267Z",
+      "language": "python",
+      "lines": 45
     }
   }
 }
