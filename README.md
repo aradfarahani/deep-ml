@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**407** solved · 407 problems · 0 labs · 0 math
+**408** solved · 408 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -52,6 +52,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Compute Posterior Probability using Bayes' Theorem](https://www.deep-ml.com/problems/336) | easy | 2026-10-04 | [solution](problems/0336-compute-posterior-probability-using-bayes-theorem) |
 | [Compute Temporal Difference Error](https://www.deep-ml.com/problems/257) | easy | 2026-10-04 | [solution](problems/0257-compute-temporal-difference-error) |
 | [Compute the Cross Product of Two 3D Vectors](https://www.deep-ml.com/problems/118) | easy | 2025-04-07 | [solution](problems/0118-compute-the-cross-product-of-two-3d-vectors) |
+| [Compute TTFT ITL and TPS from a Token Timestamp Stream](https://www.deep-ml.com/problems/411) | easy | 2026-10-05 | [solution](problems/0411-compute-ttft-itl-and-tps-from-a-token-timestamp-stream) |
 | [Convert RGB Image to Grayscale](https://www.deep-ml.com/problems/237) | easy | 2026-10-02 | [solution](problems/0237-convert-rgb-image-to-grayscale) |
 | [Convert Vector to Diagonal Matrix](https://www.deep-ml.com/problems/35) | easy | 2025-04-07 | [solution](problems/0035-convert-vector-to-diagonal-matrix) |
 | [Demonstrate Law of Large Numbers with Sampling](https://www.deep-ml.com/problems/342) | easy | 2026-10-04 | [solution](problems/0342-demonstrate-law-of-large-numbers-with-sampling) |
