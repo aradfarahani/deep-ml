@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**461** solved · 461 problems · 0 labs · 0 math
+**462** solved · 462 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -133,6 +133,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Momentum Optimizer](https://www.deep-ml.com/problems/146) | easy | 2025-06-26 | [solution](problems/0146-momentum-optimizer) |
 | [Nesterov Accelerated Gradient Optimizer](https://www.deep-ml.com/problems/150) | easy | 2025-07-21 | [solution](problems/0150-nesterov-accelerated-gradient-optimizer) |
 | [One-Hot Encoding of Nominal Values](https://www.deep-ml.com/problems/34) | easy | 2025-04-07 | [solution](problems/0034-one-hot-encoding-of-nominal-values) |
+| [Optimal Policy Extraction from Q-Values](https://www.deep-ml.com/problems/466) | easy | 2026-10-05 | [solution](problems/0466-optimal-policy-extraction-from-q-values) |
 | [Pass@k and Majority Voting Evaluation Metrics](https://www.deep-ml.com/problems/226) | easy | 2026-10-02 | [solution](problems/0226-pass-k-and-majority-voting-evaluation-metrics) |
 | [Phi Transformation for Polynomial Features](https://www.deep-ml.com/problems/84) | easy | 2025-04-07 | [solution](problems/0084-phi-transformation-for-polynomial-features) |
 | [Poisson Distribution Probability Calculator](https://www.deep-ml.com/problems/81) | easy | 2025-04-07 | [solution](problems/0081-poisson-distribution-probability-calculator) |
