@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**392** solved · 392 problems · 0 labs · 0 math
+**393** solved · 393 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -240,6 +240,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Batch Normalization for BCHW Input](https://www.deep-ml.com/problems/115) | medium | 2025-04-07 | [solution](problems/0115-implement-batch-normalization-for-bchw-input) |
 | [Implement Cosine Annealing with Warm Restarts](https://www.deep-ml.com/problems/392) | medium | 2026-10-04 | [solution](problems/0392-implement-cosine-annealing-with-warm-restarts) |
 | [Implement DBSCAN Clustering Algorithm](https://www.deep-ml.com/problems/259) | medium | 2026-10-04 | [solution](problems/0259-implement-dbscan-clustering-algorithm) |
+| [Implement DDPM Reverse Sampling Step](https://www.deep-ml.com/problems/396) | medium | 2026-10-05 | [solution](problems/0396-implement-ddpm-reverse-sampling-step) |
 | [Implement Decision Tree for Regression](https://www.deep-ml.com/problems/286) | medium | 2026-10-04 | [solution](problems/0286-implement-decision-tree-for-regression) |
 | [Implement Dollar Bars Sampling](https://www.deep-ml.com/problems/301) | medium | 2026-10-04 | [solution](problems/0301-implement-dollar-bars-sampling) |
 | [Implement Efficient Sparse Window Attention](https://www.deep-ml.com/problems/131) | medium | 2025-05-18 | [solution](problems/0131-implement-efficient-sparse-window-attention) |

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T14:52:48.247Z",
+  "generated_at": "2026-10-05T14:53:10.174Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -5096,6 +5096,19 @@
       "last_pushed_at": "2026-10-05T14:52:46.833Z",
       "language": "python",
       "lines": 27
+    },
+    "problem:396": {
+      "kind": "problem",
+      "id": "396",
+      "title": "Implement DDPM Reverse Sampling Step",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/396",
+      "path": "problems/0396-implement-ddpm-reverse-sampling-step",
+      "first_solved_at": "2026-10-05T14:53:09.087Z",
+      "last_pushed_at": "2026-10-05T14:53:09.087Z",
+      "language": "python",
+      "lines": 37
     }
   }
 }
