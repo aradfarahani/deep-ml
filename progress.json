@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T15:26:24.328Z",
+  "generated_at": "2026-10-05T15:26:52.910Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -5694,6 +5694,19 @@
       "last_pushed_at": "2026-10-05T15:26:23.742Z",
       "language": "python",
       "lines": 44
+    },
+    "problem:442": {
+      "kind": "problem",
+      "id": "442",
+      "title": "VLM Visual Token Count from Image Resolution and Patch Size",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/442",
+      "path": "problems/0442-vlm-visual-token-count-from-image-resolution-and-patch-size",
+      "first_solved_at": "2026-10-05T15:26:52.302Z",
+      "last_pushed_at": "2026-10-05T15:26:52.302Z",
+      "language": "python",
+      "lines": 41
     }
   }
 }

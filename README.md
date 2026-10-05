@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**438** solved · 438 problems · 0 labs · 0 math
+**439** solved · 439 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -151,6 +151,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Upper Confidence Bound (UCB) Action Selection](https://www.deep-ml.com/problems/162) | easy | 2025-07-21 | [solution](problems/0162-upper-confidence-bound-ucb-action-selection) |
 | [Vector Element-wise Sum](https://www.deep-ml.com/problems/121) | easy | 2025-04-15 | [solution](problems/0121-vector-element-wise-sum) |
 | [Vector Norms (L1/L2/L-inf) and the Frobenius Norm](https://www.deep-ml.com/problems/328) | easy | 2026-10-04 | [solution](problems/0328-vector-norms-l1-l2-l-inf-and-the-frobenius-norm) |
+| [VLM Visual Token Count from Image Resolution and Patch Size](https://www.deep-ml.com/problems/442) | easy | 2026-10-05 | [solution](problems/0442-vlm-visual-token-count-from-image-resolution-and-patch-size) |
 | [2D Translation Matrix Implementation](https://www.deep-ml.com/problems/55) | medium | 2025-04-07 | [solution](problems/0055-2d-translation-matrix-implementation) |
 | [Adadelta Optimizer](https://www.deep-ml.com/problems/149) | medium | 2025-07-21 | [solution](problems/0149-adadelta-optimizer) |
 | [Adam Optimizer](https://www.deep-ml.com/problems/87) | medium | 2025-04-07 | [solution](problems/0087-adam-optimizer) |
