@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**403** solved · 403 problems · 0 labs · 0 math
+**404** solved · 404 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -351,6 +351,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Principal Component Analysis (PCA) Implementation](https://www.deep-ml.com/problems/19) | medium | 2025-04-06 | [solution](problems/0019-principal-component-analysis-pca-implementation) |
 | [Product Rule for Derivatives](https://www.deep-ml.com/problems/309) | medium | 2026-10-04 | [solution](problems/0309-product-rule-for-derivatives) |
 | [PTX Loss for Catastrophic Forgetting Prevention (RLHF)](https://www.deep-ml.com/problems/232) | medium | 2026-10-02 | [solution](problems/0232-ptx-loss-for-catastrophic-forgetting-prevention-rlhf) |
+| [QK-Norm (Query-Key Normalization)](https://www.deep-ml.com/problems/407) | medium | 2026-10-05 | [solution](problems/0407-qk-norm-query-key-normalization) |
 | [QLoRA: Quantized Low-Rank Adaptation Forward Pass](https://www.deep-ml.com/problems/223) | medium | 2026-10-02 | [solution](problems/0223-qlora-quantized-low-rank-adaptation-forward-pass) |
 | [Quotient Rule for Derivatives](https://www.deep-ml.com/problems/312) | medium | 2026-10-04 | [solution](problems/0312-quotient-rule-for-derivatives) |
 | [RAFT: Iterative Reward-Ranked Fine-Tuning Loop](https://www.deep-ml.com/problems/379) | medium | 2026-10-04 | [solution](problems/0379-raft-iterative-reward-ranked-fine-tuning-loop) |
