@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**447** solved · 447 problems · 0 labs · 0 math
+**448** solved · 448 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -172,6 +172,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [BM25 Ranking ](https://www.deep-ml.com/problems/90) | medium | 2025-04-06 | [solution](problems/0090-bm25-ranking) |
 | [Boxed Answer Extraction for Math Benchmarks](https://www.deep-ml.com/problems/318) | medium | 2026-10-04 | [solution](problems/0318-boxed-answer-extraction-for-math-benchmarks) |
 | [Bradley-Terry Model for Pairwise Rankings](https://www.deep-ml.com/problems/322) | medium | 2026-10-04 | [solution](problems/0322-bradley-terry-model-for-pairwise-rankings) |
+| [Break-Even Pay-Per-Token API vs Dedicated GPU](https://www.deep-ml.com/problems/451) | medium | 2026-10-05 | [solution](problems/0451-break-even-pay-per-token-api-vs-dedicated-gpu) |
 | [Budget-Constrained RL Loss](https://www.deep-ml.com/problems/228) | medium | 2026-10-02 | [solution](problems/0228-budget-constrained-rl-loss) |
 | [Build a Simple ETL Pipeline (MLOps)](https://www.deep-ml.com/problems/187) | medium | 2026-10-01 | [solution](problems/0187-build-a-simple-etl-pipeline-mlops) |
 | [Byte Pair Encoding (BPE) Tokenizer](https://www.deep-ml.com/problems/380) | medium | 2026-10-04 | [solution](problems/0380-byte-pair-encoding-bpe-tokenizer) |

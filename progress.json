@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T15:40:24.079Z",
+  "generated_at": "2026-10-05T15:40:49.638Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -5811,6 +5811,19 @@
       "last_pushed_at": "2026-10-05T15:40:23.221Z",
       "language": "python",
       "lines": 45
+    },
+    "problem:451": {
+      "kind": "problem",
+      "id": "451",
+      "title": "Break-Even Pay-Per-Token API vs Dedicated GPU",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/451",
+      "path": "problems/0451-break-even-pay-per-token-api-vs-dedicated-gpu",
+      "first_solved_at": "2026-10-05T15:40:48.799Z",
+      "last_pushed_at": "2026-10-05T15:40:48.799Z",
+      "language": "python",
+      "lines": 24
     }
   }
 }
