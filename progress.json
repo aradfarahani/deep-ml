@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T15:24:16.854Z",
+  "generated_at": "2026-10-05T15:24:47.886Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -5642,6 +5642,19 @@
       "last_pushed_at": "2026-10-05T15:24:16.037Z",
       "language": "python",
       "lines": 70
+    },
+    "problem:438": {
+      "kind": "problem",
+      "id": "438",
+      "title": "Tensor Parallelism All-Reduce Communication Cost",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/438",
+      "path": "problems/0438-tensor-parallelism-all-reduce-communication-cost",
+      "first_solved_at": "2026-10-05T15:24:47.244Z",
+      "last_pushed_at": "2026-10-05T15:24:47.244Z",
+      "language": "python",
+      "lines": 41
     }
   }
 }

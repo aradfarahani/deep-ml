@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**434** solved · 434 problems · 0 labs · 0 math
+**435** solved · 435 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -396,6 +396,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Speculative Decoding Acceptance Rate vs Temperature](https://www.deep-ml.com/problems/433) | medium | 2026-10-05 | [solution](problems/0433-speculative-decoding-acceptance-rate-vs-temperature) |
 | [Temperature Decay Scheduler](https://www.deep-ml.com/problems/231) | medium | 2026-10-02 | [solution](problems/0231-temperature-decay-scheduler) |
 | [Temperature Sampling](https://www.deep-ml.com/problems/378) | medium | 2026-10-04 | [solution](problems/0378-temperature-sampling) |
+| [Tensor Parallelism All-Reduce Communication Cost](https://www.deep-ml.com/problems/438) | medium | 2026-10-05 | [solution](problems/0438-tensor-parallelism-all-reduce-communication-cost) |
 | [The Pattern Weaver's Code](https://www.deep-ml.com/problems/89) | medium | 2025-04-07 | [solution](problems/0089-the-pattern-weaver-s-code) |
 | [Top-p (Nucleus) Sampling](https://www.deep-ml.com/problems/383) | medium | 2026-10-04 | [solution](problems/0383-top-p-nucleus-sampling) |
 | [Train a Paris-Style Decentralized Expert Model](https://www.deep-ml.com/problems/335) | medium | 2026-10-04 | [solution](problems/0335-train-a-paris-style-decentralized-expert-model) |
