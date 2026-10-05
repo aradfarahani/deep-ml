@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T15:21:04.191Z",
+  "generated_at": "2026-10-05T15:21:27.489Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -5577,6 +5577,19 @@
       "last_pushed_at": "2026-10-05T15:21:03.289Z",
       "language": "python",
       "lines": 30
+    },
+    "problem:433": {
+      "kind": "problem",
+      "id": "433",
+      "title": "Speculative Decoding Acceptance Rate vs Temperature",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/433",
+      "path": "problems/0433-speculative-decoding-acceptance-rate-vs-temperature",
+      "first_solved_at": "2026-10-05T15:21:26.762Z",
+      "last_pushed_at": "2026-10-05T15:21:26.762Z",
+      "language": "python",
+      "lines": 28
     }
   }
 }
