@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**400** solved · 400 problems · 0 labs · 0 math
+**401** solved · 401 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -291,6 +291,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Request Batching for Inference](https://www.deep-ml.com/problems/297) | medium | 2026-10-04 | [solution](problems/0297-implement-request-batching-for-inference) |
 | [Implement RMSProp Optimizer](https://www.deep-ml.com/problems/200) | medium | 2026-10-01 | [solution](problems/0200-implement-rmsprop-optimizer) |
 | [Implement ROC Curve Calculation](https://www.deep-ml.com/problems/276) | medium | 2026-10-04 | [solution](problems/0276-implement-roc-curve-calculation) |
+| [Implement Score Matching for Score-Based Diffusion](https://www.deep-ml.com/problems/404) | medium | 2026-10-05 | [solution](problems/0404-implement-score-matching-for-score-based-diffusion) |
 | [Implement Self-Attention Mechanism](https://www.deep-ml.com/problems/53) | medium | 2025-04-07 | [solution](problems/0053-implement-self-attention-mechanism) |
 | [Implement Soft Voting Classifier](https://www.deep-ml.com/problems/306) | medium | 2026-10-04 | [solution](problems/0306-implement-soft-voting-classifier) |
 | [Implement Stratified Train-Test Split](https://www.deep-ml.com/problems/275) | medium | 2026-10-04 | [solution](problems/0275-implement-stratified-train-test-split) |

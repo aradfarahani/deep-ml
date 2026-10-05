@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T14:58:36.682Z",
+  "generated_at": "2026-10-05T14:58:59.760Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -5200,6 +5200,19 @@
       "last_pushed_at": "2026-10-05T14:58:35.619Z",
       "language": "python",
       "lines": 30
+    },
+    "problem:404": {
+      "kind": "problem",
+      "id": "404",
+      "title": "Implement Score Matching for Score-Based Diffusion",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/404",
+      "path": "problems/0404-implement-score-matching-for-score-based-diffusion",
+      "first_solved_at": "2026-10-05T14:58:58.555Z",
+      "last_pushed_at": "2026-10-05T14:58:58.555Z",
+      "language": "python",
+      "lines": 35
     }
   }
 }
