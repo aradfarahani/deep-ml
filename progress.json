@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T14:55:09.850Z",
+  "generated_at": "2026-10-05T14:56:32.482Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -5161,6 +5161,19 @@
       "last_pushed_at": "2026-10-05T14:55:08.776Z",
       "language": "python",
       "lines": 29
+    },
+    "problem:401": {
+      "kind": "problem",
+      "id": "401",
+      "title": "Exponential Moving Average (EMA) for Diffusion Model Weights",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/401",
+      "path": "problems/0401-exponential-moving-average-ema-for-diffusion-model-weights",
+      "first_solved_at": "2026-10-05T14:56:30.991Z",
+      "last_pushed_at": "2026-10-05T14:56:30.991Z",
+      "language": "python",
+      "lines": 18
     }
   }
 }
