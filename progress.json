@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T15:23:48.437Z",
+  "generated_at": "2026-10-05T15:24:16.854Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -5629,6 +5629,19 @@
       "last_pushed_at": "2026-10-05T15:23:47.826Z",
       "language": "python",
       "lines": 52
+    },
+    "problem:437": {
+      "kind": "problem",
+      "id": "437",
+      "title": "Cache-Aware Request Routing Across Replicas",
+      "difficulty": "medium",
+      "category": "MLOps",
+      "url": "https://www.deep-ml.com/problems/437",
+      "path": "problems/0437-cache-aware-request-routing-across-replicas",
+      "first_solved_at": "2026-10-05T15:24:16.037Z",
+      "last_pushed_at": "2026-10-05T15:24:16.037Z",
+      "language": "python",
+      "lines": 70
     }
   }
 }
