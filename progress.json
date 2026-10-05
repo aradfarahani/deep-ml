@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T15:20:10.796Z",
+  "generated_at": "2026-10-05T15:20:34.398Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -5551,6 +5551,19 @@
       "last_pushed_at": "2026-10-05T15:20:09.766Z",
       "language": "python",
       "lines": 45
+    },
+    "problem:431": {
+      "kind": "problem",
+      "id": "431",
+      "title": "EAGLE-Style Draft Model from Hidden States",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/431",
+      "path": "problems/0431-eagle-style-draft-model-from-hidden-states",
+      "first_solved_at": "2026-10-05T15:20:33.296Z",
+      "last_pushed_at": "2026-10-05T15:20:33.296Z",
+      "language": "python",
+      "lines": 44
     }
   }
 }
