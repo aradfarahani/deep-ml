@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T15:55:51.780Z",
+  "generated_at": "2026-10-05T15:56:21.174Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -6032,6 +6032,19 @@
       "last_pushed_at": "2026-10-05T15:55:50.735Z",
       "language": "python",
       "lines": 30
+    },
+    "problem:469": {
+      "kind": "problem",
+      "id": "469",
+      "title": "Generalized Policy Iteration (GPI) Simulation",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/469",
+      "path": "problems/0469-generalized-policy-iteration-gpi-simulation",
+      "first_solved_at": "2026-10-05T15:56:20.311Z",
+      "last_pushed_at": "2026-10-05T15:56:20.311Z",
+      "language": "python",
+      "lines": 44
     }
   }
 }

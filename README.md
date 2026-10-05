@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**464** solved · 464 problems · 0 labs · 0 math
+**465** solved · 465 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -262,6 +262,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Gaussian Elimination for Solving Linear Systems](https://www.deep-ml.com/problems/58) | medium | 2025-04-07 | [solution](problems/0058-gaussian-elimination-for-solving-linear-systems) |
 | [Gaussian Mixture Model with EM Algorithm](https://www.deep-ml.com/problems/341) | medium | 2026-10-04 | [solution](problems/0341-gaussian-mixture-model-with-em-algorithm) |
 | [Gaussian Naive Bayes Classifier](https://www.deep-ml.com/problems/261) | medium | 2026-10-04 | [solution](problems/0261-gaussian-naive-bayes-classifier) |
+| [Generalized Policy Iteration (GPI) Simulation](https://www.deep-ml.com/problems/469) | medium | 2026-10-05 | [solution](problems/0469-generalized-policy-iteration-gpi-simulation) |
 | [Generate Random Subsets of a Dataset](https://www.deep-ml.com/problems/33) | medium | 2025-04-06 | [solution](problems/0033-generate-random-subsets-of-a-dataset) |
 | [Generate Sorted Polynomial Features](https://www.deep-ml.com/problems/32) | medium | 2025-04-06 | [solution](problems/0032-generate-sorted-polynomial-features) |
 | [Gradient Bandit Action Selection](https://www.deep-ml.com/problems/163) | medium | 2025-07-21 | [solution](problems/0163-gradient-bandit-action-selection) |
