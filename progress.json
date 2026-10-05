@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T14:56:32.482Z",
+  "generated_at": "2026-10-05T14:58:12.543Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -5174,6 +5174,19 @@
       "last_pushed_at": "2026-10-05T14:56:30.991Z",
       "language": "python",
       "lines": 18
+    },
+    "problem:402": {
+      "kind": "problem",
+      "id": "402",
+      "title": "Latent Diffusion Encoding and Decoding",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/402",
+      "path": "problems/0402-latent-diffusion-encoding-and-decoding",
+      "first_solved_at": "2026-10-05T14:58:11.460Z",
+      "last_pushed_at": "2026-10-05T14:58:11.460Z",
+      "language": "python",
+      "lines": 24
     }
   }
 }
