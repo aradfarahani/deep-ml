@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T15:57:34.131Z",
+  "generated_at": "2026-10-05T15:58:11.576Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -6058,6 +6058,19 @@
       "last_pushed_at": "2026-10-05T15:57:33.239Z",
       "language": "python",
       "lines": 61
+    },
+    "problem:471": {
+      "kind": "problem",
+      "id": "471",
+      "title": "Epsilon-Soft On-Policy Monte Carlo Control",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/471",
+      "path": "problems/0471-epsilon-soft-on-policy-monte-carlo-control",
+      "first_solved_at": "2026-10-05T15:58:10.625Z",
+      "last_pushed_at": "2026-10-05T15:58:10.625Z",
+      "language": "python",
+      "lines": 55
     }
   }
 }

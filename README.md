@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**466** solved · 466 problems · 0 labs · 0 math
+**467** solved · 467 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -245,6 +245,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [End-to-End Latency Decomposition](https://www.deep-ml.com/problems/413) | medium | 2026-10-05 | [solution](problems/0413-end-to-end-latency-decomposition) |
 | [Engram Context-Aware Gating](https://www.deep-ml.com/problems/327) | medium | 2026-10-04 | [solution](problems/0327-engram-context-aware-gating) |
 | [Epsilon-Greedy Action Selection for n-Armed Bandit](https://www.deep-ml.com/problems/158) | medium | 2025-07-21 | [solution](problems/0158-epsilon-greedy-action-selection-for-n-armed-bandit) |
+| [Epsilon-Soft On-Policy Monte Carlo Control](https://www.deep-ml.com/problems/471) | medium | 2026-10-05 | [solution](problems/0471-epsilon-soft-on-policy-monte-carlo-control) |
 | [Estimate KV Cache Size from Model Config](https://www.deep-ml.com/problems/418) | medium | 2026-10-05 | [solution](problems/0418-estimate-kv-cache-size-from-model-config) |
 | [Evaluate Expected Value in a Markov Decision Process](https://www.deep-ml.com/problems/166) | medium | 2025-07-21 | [solution](problems/0166-evaluate-expected-value-in-a-markov-decision-process) |
 | [Evaluate Translation Quality with METEOR Score](https://www.deep-ml.com/problems/110) | medium | 2025-04-08 | [solution](problems/0110-evaluate-translation-quality-with-meteor-score) |
