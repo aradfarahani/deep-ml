@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T15:22:16.695Z",
+  "generated_at": "2026-10-05T15:22:58.794Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -5603,6 +5603,19 @@
       "last_pushed_at": "2026-10-05T15:22:15.964Z",
       "language": "python",
       "lines": 30
+    },
+    "problem:435": {
+      "kind": "problem",
+      "id": "435",
+      "title": "KV Cache Memory Budget and Eviction Policy",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/435",
+      "path": "problems/0435-kv-cache-memory-budget-and-eviction-policy",
+      "first_solved_at": "2026-10-05T15:22:57.972Z",
+      "last_pushed_at": "2026-10-05T15:22:57.972Z",
+      "language": "python",
+      "lines": 45
     }
   }
 }

@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**431** solved · 431 problems · 0 labs · 0 math
+**432** solved · 432 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -329,6 +329,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Kernel Fusion Memory Savings Calculator](https://www.deep-ml.com/problems/424) | medium | 2026-10-05 | [solution](problems/0424-kernel-fusion-memory-savings-calculator) |
 | [Knowledge Distillation Loss](https://www.deep-ml.com/problems/227) | medium | 2026-10-02 | [solution](problems/0227-knowledge-distillation-loss) |
 | [KV Cache for Efficient Autoregressive Attention](https://www.deep-ml.com/problems/376) | medium | 2026-10-04 | [solution](problems/0376-kv-cache-for-efficient-autoregressive-attention) |
+| [KV Cache Memory Budget and Eviction Policy](https://www.deep-ml.com/problems/435) | medium | 2026-10-05 | [solution](problems/0435-kv-cache-memory-budget-and-eviction-policy) |
 | [Lagrange Multipliers for Constrained Quadratic Optimization](https://www.deep-ml.com/problems/314) | medium | 2026-10-04 | [solution](problems/0314-lagrange-multipliers-for-constrained-quadratic-optimization) |
 | [Latent Diffusion Encoding and Decoding](https://www.deep-ml.com/problems/402) | medium | 2026-10-05 | [solution](problems/0402-latent-diffusion-encoding-and-decoding) |
 | [Latent Space Patchification for Diffusion Transformers](https://www.deep-ml.com/problems/420) | medium | 2026-10-05 | [solution](problems/0420-latent-space-patchification-for-diffusion-transformers) |
