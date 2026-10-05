@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T15:53:46.199Z",
+  "generated_at": "2026-10-05T15:54:16.146Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -6006,6 +6006,19 @@
       "last_pushed_at": "2026-10-05T15:53:45.528Z",
       "language": "python",
       "lines": 30
+    },
+    "problem:467": {
+      "kind": "problem",
+      "id": "467",
+      "title": "Policy Iteration for Markov Decision Processes",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/467",
+      "path": "problems/0467-policy-iteration-for-markov-decision-processes",
+      "first_solved_at": "2026-10-05T15:54:15.262Z",
+      "last_pushed_at": "2026-10-05T15:54:15.262Z",
+      "language": "python",
+      "lines": 51
     }
   }
 }
