@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**395** solved · 395 problems · 0 labs · 0 math
+**396** solved · 396 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -204,6 +204,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Decision Tree Pruning with Cost-Complexity](https://www.deep-ml.com/problems/285) | medium | 2026-10-04 | [solution](problems/0285-decision-tree-pruning-with-cost-complexity) |
 | [Derivative of Cross-Entropy Loss w.r.t. Logits](https://www.deep-ml.com/problems/220) | medium | 2026-10-02 | [solution](problems/0220-derivative-of-cross-entropy-loss-w-r-t-logits) |
 | [Derivative of Softmax](https://www.deep-ml.com/problems/219) | medium | 2026-10-02 | [solution](problems/0219-derivative-of-softmax) |
+| [Diffusion Model U-Net Time Embedding](https://www.deep-ml.com/problems/399) | medium | 2026-10-05 | [solution](problems/0399-diffusion-model-u-net-time-embedding) |
 | [Diffusion Reconstruction Loss](https://www.deep-ml.com/problems/302) | medium | 2026-10-04 | [solution](problems/0302-diffusion-reconstruction-loss) |
 | [Direct Preference Optimization (DPO) Loss](https://www.deep-ml.com/problems/382) | medium | 2026-10-04 | [solution](problems/0382-direct-preference-optimization-dpo-loss) |
 | [Distance Correlation for Measuring Metadata Dependence](https://www.deep-ml.com/problems/359) | medium | 2026-10-04 | [solution](problems/0359-distance-correlation-for-measuring-metadata-dependence) |

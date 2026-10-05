@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T14:54:24.693Z",
+  "generated_at": "2026-10-05T14:54:43.901Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -5135,6 +5135,19 @@
       "last_pushed_at": "2026-10-05T14:54:23.501Z",
       "language": "python",
       "lines": 24
+    },
+    "problem:399": {
+      "kind": "problem",
+      "id": "399",
+      "title": "Diffusion Model U-Net Time Embedding",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/399",
+      "path": "problems/0399-diffusion-model-u-net-time-embedding",
+      "first_solved_at": "2026-10-05T14:54:42.861Z",
+      "last_pushed_at": "2026-10-05T14:54:42.861Z",
+      "language": "python",
+      "lines": 36
     }
   }
 }
