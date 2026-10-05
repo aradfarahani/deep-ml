@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**425** solved · 425 problems · 0 labs · 0 math
+**426** solved · 426 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -369,6 +369,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [PTX Loss for Catastrophic Forgetting Prevention (RLHF)](https://www.deep-ml.com/problems/232) | medium | 2026-10-02 | [solution](problems/0232-ptx-loss-for-catastrophic-forgetting-prevention-rlhf) |
 | [QK-Norm (Query-Key Normalization)](https://www.deep-ml.com/problems/407) | medium | 2026-10-05 | [solution](problems/0407-qk-norm-query-key-normalization) |
 | [QLoRA: Quantized Low-Rank Adaptation Forward Pass](https://www.deep-ml.com/problems/223) | medium | 2026-10-02 | [solution](problems/0223-qlora-quantized-low-rank-adaptation-forward-pass) |
+| [Quantization Quality Check via Perplexity Delta](https://www.deep-ml.com/problems/429) | medium | 2026-10-05 | [solution](problems/0429-quantization-quality-check-via-perplexity-delta) |
 | [Quotient Rule for Derivatives](https://www.deep-ml.com/problems/312) | medium | 2026-10-04 | [solution](problems/0312-quotient-rule-for-derivatives) |
 | [RAFT: Iterative Reward-Ranked Fine-Tuning Loop](https://www.deep-ml.com/problems/379) | medium | 2026-10-04 | [solution](problems/0379-raft-iterative-reward-ranked-fine-tuning-loop) |
 | [Reconstruction Error from PCA](https://www.deep-ml.com/problems/353) | medium | 2026-10-04 | [solution](problems/0353-reconstruction-error-from-pca) |

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T15:19:25.476Z",
+  "generated_at": "2026-10-05T15:19:44.757Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -5525,6 +5525,19 @@
       "last_pushed_at": "2026-10-05T15:19:24.150Z",
       "language": "python",
       "lines": 104
+    },
+    "problem:429": {
+      "kind": "problem",
+      "id": "429",
+      "title": "Quantization Quality Check via Perplexity Delta",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/429",
+      "path": "problems/0429-quantization-quality-check-via-perplexity-delta",
+      "first_solved_at": "2026-10-05T15:19:43.646Z",
+      "last_pushed_at": "2026-10-05T15:19:43.646Z",
+      "language": "python",
+      "lines": 42
     }
   }
 }
