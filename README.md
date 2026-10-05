@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**446** solved · 446 problems · 0 labs · 0 math
+**447** solved · 447 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -199,6 +199,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Classify Critical Points Using Hessian Eigenvalues](https://www.deep-ml.com/problems/311) | medium | 2026-10-04 | [solution](problems/0311-classify-critical-points-using-hessian-eigenvalues) |
 | [Classify LLM Prefill vs Decode as Compute-Bound or Memory-Bound](https://www.deep-ml.com/problems/417) | medium | 2026-10-05 | [solution](problems/0417-classify-llm-prefill-vs-decode-as-compute-bound-or-memory-bound) |
 | [Code Execution Verifier for Programming Benchmarks](https://www.deep-ml.com/problems/324) | medium | 2026-10-04 | [solution](problems/0324-code-execution-verifier-for-programming-benchmarks) |
+| [Cold Start Latency Budget Breakdown](https://www.deep-ml.com/problems/450) | medium | 2026-10-05 | [solution](problems/0450-cold-start-latency-budget-breakdown) |
 | [Compute Attention Memory Traffic and FLOPs](https://www.deep-ml.com/problems/416) | medium | 2026-10-05 | [solution](problems/0416-compute-attention-memory-traffic-and-flops) |
 | [Compute Confusion Matrix with Normalization](https://www.deep-ml.com/problems/193) | medium | 2026-10-01 | [solution](problems/0193-compute-confusion-matrix-with-normalization) |
 | [Compute Covariance from Joint Probability Mass Function](https://www.deep-ml.com/problems/243) | medium | 2026-10-02 | [solution](problems/0243-compute-covariance-from-joint-probability-mass-function) |

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T15:39:49.465Z",
+  "generated_at": "2026-10-05T15:40:24.079Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -5796,6 +5796,19 @@
       "path": "problems/0449-autoscaling-replica-simulator-with-sla-tracking",
       "first_solved_at": "2026-10-05T15:39:48.832Z",
       "last_pushed_at": "2026-10-05T15:39:48.832Z",
+      "language": "python",
+      "lines": 45
+    },
+    "problem:450": {
+      "kind": "problem",
+      "id": "450",
+      "title": "Cold Start Latency Budget Breakdown",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/450",
+      "path": "problems/0450-cold-start-latency-budget-breakdown",
+      "first_solved_at": "2026-10-05T15:40:23.221Z",
+      "last_pushed_at": "2026-10-05T15:40:23.221Z",
       "language": "python",
       "lines": 45
     }
