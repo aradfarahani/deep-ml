@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**460** solved · 460 problems · 0 labs · 0 math
+**461** solved · 461 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -164,6 +164,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Autoscaling Replica Simulator with SLA Tracking](https://www.deep-ml.com/problems/449) | medium | 2026-10-05 | [solution](problems/0449-autoscaling-replica-simulator-with-sla-tracking) |
 | [Bayesian Inference for Beta-Binomial Model](https://www.deep-ml.com/problems/213) | medium | 2026-10-02 | [solution](problems/0213-bayesian-inference-for-beta-binomial-model) |
 | [Beam Search Decoding](https://www.deep-ml.com/problems/385) | medium | 2026-10-04 | [solution](problems/0385-beam-search-decoding) |
+| [Bellman Expectation Equation for Action-Value Function](https://www.deep-ml.com/problems/465) | medium | 2026-10-05 | [solution](problems/0465-bellman-expectation-equation-for-action-value-function) |
 | [Bellman Expectation Equation for State-Value Function](https://www.deep-ml.com/problems/464) | medium | 2026-10-05 | [solution](problems/0464-bellman-expectation-equation-for-state-value-function) |
 | [Bernoulli Naive Bayes Classifier](https://www.deep-ml.com/problems/140) | medium | 2025-06-26 | [solution](problems/0140-bernoulli-naive-bayes-classifier) |
 | [Beta Distribution PDF and Statistics](https://www.deep-ml.com/problems/339) | medium | 2026-10-04 | [solution](problems/0339-beta-distribution-pdf-and-statistics) |
