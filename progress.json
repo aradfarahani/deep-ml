@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T15:49:29.793Z",
+  "generated_at": "2026-10-05T15:50:16.883Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -5941,6 +5941,19 @@
       "last_pushed_at": "2026-10-05T15:49:29.082Z",
       "language": "python",
       "lines": 31
+    },
+    "problem:462": {
+      "kind": "problem",
+      "id": "462",
+      "title": "UniPC Predictor-Corrector Step",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/462",
+      "path": "problems/0462-unipc-predictor-corrector-step",
+      "first_solved_at": "2026-10-05T15:50:15.964Z",
+      "last_pushed_at": "2026-10-05T15:50:15.964Z",
+      "language": "python",
+      "lines": 22
     }
   }
 }
