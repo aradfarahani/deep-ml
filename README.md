@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**415** solved · 415 problems · 0 labs · 0 math
+**416** solved · 416 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -388,6 +388,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [XGBoost Objective Function Calculation](https://www.deep-ml.com/problems/347) | medium | 2026-10-04 | [solution](problems/0347-xgboost-objective-function-calculation) |
 | [3D CNN Forward Pass Implementation](https://www.deep-ml.com/problems/230) | hard | 2026-10-02 | [solution](problems/0230-3d-cnn-forward-pass-implementation) |
 | [A/B Test Statistical Analysis for Model Comparison](https://www.deep-ml.com/problems/269) | hard | 2026-10-04 | [solution](problems/0269-a-b-test-statistical-analysis-for-model-comparison) |
+| [Combined Token Sampling Pipeline (Temperature + Top-k + Top-p)](https://www.deep-ml.com/problems/419) | hard | 2026-10-05 | [solution](problems/0419-combined-token-sampling-pipeline-temperature-top-k-top-p) |
 | [Decision Tree Learning](https://www.deep-ml.com/problems/20) | hard | 2025-04-06 | [solution](problems/0020-decision-tree-learning) |
 | [Determinant of a 4x4 Matrix using Laplace's Expansion (hard)](https://www.deep-ml.com/problems/13) | hard | 2025-04-06 | [solution](problems/0013-determinant-of-a-4x4-matrix-using-laplace-s-expansion-hard) |
 | [Flash Attention v1 - Forward Pass](https://www.deep-ml.com/problems/208) | hard | 2026-10-01 | [solution](problems/0208-flash-attention-v1-forward-pass) |

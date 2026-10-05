@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T15:06:30.049Z",
+  "generated_at": "2026-10-05T15:09:00.201Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -5395,6 +5395,19 @@
       "last_pushed_at": "2026-10-05T15:06:26.272Z",
       "language": "python",
       "lines": 39
+    },
+    "problem:419": {
+      "kind": "problem",
+      "id": "419",
+      "title": "Combined Token Sampling Pipeline (Temperature + Top-k + Top-p)",
+      "difficulty": "hard",
+      "category": "Inference",
+      "url": "https://www.deep-ml.com/problems/419",
+      "path": "problems/0419-combined-token-sampling-pipeline-temperature-top-k-top-p",
+      "first_solved_at": "2026-10-05T15:08:59.139Z",
+      "last_pushed_at": "2026-10-05T15:08:59.139Z",
+      "language": "python",
+      "lines": 52
     }
   }
 }
