@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T15:34:56.767Z",
+  "generated_at": "2026-10-05T15:35:23.168Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -5720,6 +5720,19 @@
       "last_pushed_at": "2026-10-05T15:34:55.623Z",
       "language": "python",
       "lines": 50
+    },
+    "problem:444": {
+      "kind": "problem",
+      "id": "444",
+      "title": "ASR Real-Time Factor for Parallel Chunk Transcription",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/444",
+      "path": "problems/0444-asr-real-time-factor-for-parallel-chunk-transcription",
+      "first_solved_at": "2026-10-05T15:35:21.945Z",
+      "last_pushed_at": "2026-10-05T15:35:21.945Z",
+      "language": "python",
+      "lines": 33
     }
   }
 }

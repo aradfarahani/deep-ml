@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**440** solved · 440 problems · 0 labs · 0 math
+**441** solved · 441 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -157,6 +157,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Adam Optimizer](https://www.deep-ml.com/problems/87) | medium | 2025-04-07 | [solution](problems/0087-adam-optimizer) |
 | [Analyze Canary Deployment Health for Model Rollout](https://www.deep-ml.com/problems/251) | medium | 2026-10-04 | [solution](problems/0251-analyze-canary-deployment-health-for-model-rollout) |
 | [Apriori Frequent Itemset Mining](https://www.deep-ml.com/problems/144) | medium | 2025-06-26 | [solution](problems/0144-apriori-frequent-itemset-mining) |
+| [ASR Real-Time Factor for Parallel Chunk Transcription](https://www.deep-ml.com/problems/444) | medium | 2026-10-05 | [solution](problems/0444-asr-real-time-factor-for-parallel-chunk-transcription) |
 | [Autoregressive Token Generation with Block-Size Context Cropping](https://www.deep-ml.com/problems/1082) | medium | 2026-06-18 | [solution](problems/1082-autoregressive-token-generation-with-block-size-context-cropping) |
 | [Bayesian Inference for Beta-Binomial Model](https://www.deep-ml.com/problems/213) | medium | 2026-10-02 | [solution](problems/0213-bayesian-inference-for-beta-binomial-model) |
 | [Beam Search Decoding](https://www.deep-ml.com/problems/385) | medium | 2026-10-04 | [solution](problems/0385-beam-search-decoding) |
