@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**418** solved · 418 problems · 0 labs · 0 math
+**419** solved · 419 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -343,6 +343,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [MMLU Letter-Matching Evaluation](https://www.deep-ml.com/problems/326) | medium | 2026-10-04 | [solution](problems/0326-mmlu-letter-matching-evaluation) |
 | [MMLU Log-Probability Scoring](https://www.deep-ml.com/problems/316) | medium | 2026-10-04 | [solution](problems/0316-mmlu-log-probability-scoring) |
 | [MoE with Shared Expert Forward Pass](https://www.deep-ml.com/problems/409) | medium | 2026-10-05 | [solution](problems/0409-moe-with-shared-expert-forward-pass) |
+| [Multi-GPU Communication Overhead (NVLink vs InfiniBand)](https://www.deep-ml.com/problems/422) | medium | 2026-10-05 | [solution](problems/0422-multi-gpu-communication-overhead-nvlink-vs-infiniband) |
 | [Muon Optimizer Step with Matrix Preconditioning](https://www.deep-ml.com/problems/170) | medium | 2025-07-21 | [solution](problems/0170-muon-optimizer-step-with-matrix-preconditioning) |
 | [Muon Optimizer Update with Newton-Schulz Iteration](https://www.deep-ml.com/problems/172) | medium | 2025-09-14 | [solution](problems/0172-muon-optimizer-update-with-newton-schulz-iteration) |
 | [Mutual Information](https://www.deep-ml.com/problems/204) | medium | 2026-10-01 | [solution](problems/0204-mutual-information) |

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T15:10:44.418Z",
+  "generated_at": "2026-10-05T15:11:30.492Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -5434,6 +5434,19 @@
       "last_pushed_at": "2026-10-05T15:10:42.555Z",
       "language": "python",
       "lines": 25
+    },
+    "problem:422": {
+      "kind": "problem",
+      "id": "422",
+      "title": "Multi-GPU Communication Overhead (NVLink vs InfiniBand)",
+      "difficulty": "medium",
+      "category": "Inference",
+      "url": "https://www.deep-ml.com/problems/422",
+      "path": "problems/0422-multi-gpu-communication-overhead-nvlink-vs-infiniband",
+      "first_solved_at": "2026-10-05T15:11:29.262Z",
+      "last_pushed_at": "2026-10-05T15:11:29.262Z",
+      "language": "python",
+      "lines": 54
     }
   }
 }
