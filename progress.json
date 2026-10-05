@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T15:02:50.451Z",
+  "generated_at": "2026-10-05T15:03:11.147Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -5304,6 +5304,19 @@
       "last_pushed_at": "2026-10-05T15:02:49.463Z",
       "language": "python",
       "lines": 32
+    },
+    "problem:412": {
+      "kind": "problem",
+      "id": "412",
+      "title": "Estimate Minimum GPU Count for Model Deployment",
+      "difficulty": "easy",
+      "category": "MLOps",
+      "url": "https://www.deep-ml.com/problems/412",
+      "path": "problems/0412-estimate-minimum-gpu-count-for-model-deployment",
+      "first_solved_at": "2026-10-05T15:03:09.742Z",
+      "last_pushed_at": "2026-10-05T15:03:09.742Z",
+      "language": "python",
+      "lines": 23
     }
   }
 }
