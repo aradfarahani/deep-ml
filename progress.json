@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T14:59:26.199Z",
+  "generated_at": "2026-10-05T14:59:59.047Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -5226,6 +5226,19 @@
       "last_pushed_at": "2026-10-05T14:59:25.069Z",
       "language": "python",
       "lines": 55
+    },
+    "problem:406": {
+      "kind": "problem",
+      "id": "406",
+      "title": "NoPE (No Positional Embedding) with iRoPE Attention",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/406",
+      "path": "problems/0406-nope-no-positional-embedding-with-irope-attention",
+      "first_solved_at": "2026-10-05T14:59:58.050Z",
+      "last_pushed_at": "2026-10-05T14:59:58.050Z",
+      "language": "python",
+      "lines": 46
     }
   }
 }
