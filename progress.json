@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T14:53:10.174Z",
+  "generated_at": "2026-10-05T14:53:38.612Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -5109,6 +5109,19 @@
       "last_pushed_at": "2026-10-05T14:53:09.087Z",
       "language": "python",
       "lines": 37
+    },
+    "problem:397": {
+      "kind": "problem",
+      "id": "397",
+      "title": "Classifier-Free Guidance for Conditional Diffusion",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/397",
+      "path": "problems/0397-classifier-free-guidance-for-conditional-diffusion",
+      "first_solved_at": "2026-10-05T14:53:37.325Z",
+      "last_pushed_at": "2026-10-05T14:53:37.325Z",
+      "language": "python",
+      "lines": 49
     }
   }
 }

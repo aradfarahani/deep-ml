@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**393** solved · 393 problems · 0 labs · 0 math
+**394** solved · 394 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -183,6 +183,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Check if Matrix is Positive Definite](https://www.deep-ml.com/problems/332) | medium | 2026-10-04 | [solution](problems/0332-check-if-matrix-is-positive-definite) |
 | [Chi-square Probability Distribution](https://www.deep-ml.com/problems/176) | medium | 2025-09-14 | [solution](problems/0176-chi-square-probability-distribution) |
 | [Cholesky Decomposition](https://www.deep-ml.com/problems/334) | medium | 2026-10-04 | [solution](problems/0334-cholesky-decomposition) |
+| [Classifier-Free Guidance for Conditional Diffusion](https://www.deep-ml.com/problems/397) | medium | 2026-10-05 | [solution](problems/0397-classifier-free-guidance-for-conditional-diffusion) |
 | [Classify Critical Points Using Hessian Eigenvalues](https://www.deep-ml.com/problems/311) | medium | 2026-10-04 | [solution](problems/0311-classify-critical-points-using-hessian-eigenvalues) |
 | [Code Execution Verifier for Programming Benchmarks](https://www.deep-ml.com/problems/324) | medium | 2026-10-04 | [solution](problems/0324-code-execution-verifier-for-programming-benchmarks) |
 | [Compute Confusion Matrix with Normalization](https://www.deep-ml.com/problems/193) | medium | 2026-10-01 | [solution](problems/0193-compute-confusion-matrix-with-normalization) |
