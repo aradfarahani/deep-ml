@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**420** solved · 420 problems · 0 labs · 0 math
+**421** solved · 421 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -322,6 +322,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Jacobian Matrix Calculation](https://www.deep-ml.com/problems/202) | medium | 2026-10-01 | [solution](problems/0202-jacobian-matrix-calculation) |
 | [Jensen-Shannon Divergence](https://www.deep-ml.com/problems/203) | medium | 2026-10-01 | [solution](problems/0203-jensen-shannon-divergence) |
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2025-04-06 | [solution](problems/0017-k-means-clustering) |
+| [Kernel Fusion Memory Savings Calculator](https://www.deep-ml.com/problems/424) | medium | 2026-10-05 | [solution](problems/0424-kernel-fusion-memory-savings-calculator) |
 | [Knowledge Distillation Loss](https://www.deep-ml.com/problems/227) | medium | 2026-10-02 | [solution](problems/0227-knowledge-distillation-loss) |
 | [KV Cache for Efficient Autoregressive Attention](https://www.deep-ml.com/problems/376) | medium | 2026-10-04 | [solution](problems/0376-kv-cache-for-efficient-autoregressive-attention) |
 | [Lagrange Multipliers for Constrained Quadratic Optimization](https://www.deep-ml.com/problems/314) | medium | 2026-10-04 | [solution](problems/0314-lagrange-multipliers-for-constrained-quadratic-optimization) |

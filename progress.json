@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T15:12:19.530Z",
+  "generated_at": "2026-10-05T15:13:03.087Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -5460,6 +5460,19 @@
       "last_pushed_at": "2026-10-05T15:12:18.523Z",
       "language": "python",
       "lines": 63
+    },
+    "problem:424": {
+      "kind": "problem",
+      "id": "424",
+      "title": "Kernel Fusion Memory Savings Calculator",
+      "difficulty": "medium",
+      "category": "Inference",
+      "url": "https://www.deep-ml.com/problems/424",
+      "path": "problems/0424-kernel-fusion-memory-savings-calculator",
+      "first_solved_at": "2026-10-05T15:13:02.072Z",
+      "last_pushed_at": "2026-10-05T15:13:02.072Z",
+      "language": "python",
+      "lines": 52
     }
   }
 }
