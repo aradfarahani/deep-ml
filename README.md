@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**404** solved · 404 problems · 0 labs · 0 math
+**405** solved · 405 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -348,6 +348,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Overlapping Max Pooling](https://www.deep-ml.com/problems/190) | medium | 2026-10-01 | [solution](problems/0190-overlapping-max-pooling) |
 | [Pairwise Preference Judge for LLM Comparison](https://www.deep-ml.com/problems/323) | medium | 2026-10-04 | [solution](problems/0323-pairwise-preference-judge-for-llm-comparison) |
 | [Partial Derivatives of Multivariable Functions](https://www.deep-ml.com/problems/215) | medium | 2026-10-02 | [solution](problems/0215-partial-derivatives-of-multivariable-functions) |
+| [Pre-Norm vs Post-Norm Transformer Block](https://www.deep-ml.com/problems/408) | medium | 2026-10-05 | [solution](problems/0408-pre-norm-vs-post-norm-transformer-block) |
 | [Principal Component Analysis (PCA) Implementation](https://www.deep-ml.com/problems/19) | medium | 2025-04-06 | [solution](problems/0019-principal-component-analysis-pca-implementation) |
 | [Product Rule for Derivatives](https://www.deep-ml.com/problems/309) | medium | 2026-10-04 | [solution](problems/0309-product-rule-for-derivatives) |
 | [PTX Loss for Catastrophic Forgetting Prevention (RLHF)](https://www.deep-ml.com/problems/232) | medium | 2026-10-02 | [solution](problems/0232-ptx-loss-for-catastrophic-forgetting-prevention-rlhf) |
